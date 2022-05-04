@@ -28,10 +28,7 @@ services:
     #         - ./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:rw
     #         - ./etc/certbot/conf/:/etc/letsencrypt/:rw
     php:
-        build: 
-            context: './etc/php'
-            # args:
-            #     PHP_VERSION: ${PHP_VERSION}
+        build: './etc/php'
         restart: always
         volumes:
             - "./etc/php/php.ini:/usr/local/etc/php/conf.d/php.ini"
