@@ -5,12 +5,13 @@ services:
         volumes:
             - "./etc/nginx/default.conf:/etc/nginx/conf.d/default.conf"
             - "./etc/ssl:/etc/ssl"
-            - "D:/docker/workspace/www/csystem:/var/www/html/csystem/:rw"
-            - "./etc/nginx/default.template.conf:/etc/nginx/conf.d/default.template"
+            - "/home/wattanapongsu/php_www/csystem:/var/www/html/csystem/:rw"
+            - "./etc/nginx/default.template.https.conf:/etc/nginx/conf.d/default.template"
             - "./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:ro"
             - "./etc/certbot/conf/:/etc/nginx/ssl/:ro"
-            - "D:/docker/workspace/www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
-            # - "/ramdisk/c/:/ramdisk/c/:rw"
+            - "/home/wattanapongsu/php_www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
+            - "/ramdisk/c/:/ramdisk/c/:rw"
+
         ports:
             - "80:80"
             - "443:443"
@@ -22,30 +23,24 @@ services:
             - php
             - mysqldb
     
-    # certbot:
-    #     image: certbot/certbot:latest
-    #     volumes:
-    #         - ./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:rw
-    #         - ./etc/certbot/conf/:/etc/letsencrypt/:rw
+    certbot:
+        image: certbot/certbot:latest
+        volumes:
+            - ./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:rw
+            - ./etc/certbot/conf/:/etc/letsencrypt/:rw
     php:
-        build: 
-            context: './etc/php'
-            # args:
-            #     PHP_VERSION: ${PHP_VERSION}
+        build: './etc/php'
         restart: always
         volumes:
             - "./etc/php/php.ini:/usr/local/etc/php/conf.d/php.ini"
-            - "D:/docker/workspace/www/csystem:/var/www/html/csystem/:rw"
-            - "D:/docker/workspace/www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
-            # - "/ramdisk/c/:/ramdisk/c/:rw"
-        # command: /bin/sh -c "apt -d update && apt -y install procps && tail -f /dev/null"
+            - "/home/wattanapongsu/php_www/csystem:/var/www/html/csystem/:rw"
+            - "/home/wattanapongsu/php_www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
+            - "/ramdisk/c/:/ramdisk/c/:rw"
 
     composer:
-        image: composer/composer:2
+        image: "composer"
         volumes:
-            - "D:/docker/workspace/www/csystem:/app"
-        depends_on:
-            - php
+            - "/home/wattanapongsu/php_www/csystem:/app"
         command: install
     myadmin:
         image: phpmyadmin/phpmyadmin

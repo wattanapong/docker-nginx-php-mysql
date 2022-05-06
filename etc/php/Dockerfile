@@ -16,6 +16,7 @@ RUN set -xe \
 		imagemagick-dev \
 		php7-imagick \
         php7-zip \
+        php-ldap \
     && apk add --no-cache --virtual .php-deps \
         make \
     && apk add --no-cache --virtual .build-deps \
@@ -30,6 +31,10 @@ RUN set -xe \
     && docker-php-ext-install \
         intl \
     && docker-php-ext-enable intl \
+     &&    apk add --no-cache --virtual .build-dependencies-in-virtual-world openldap-dev \
+    && docker-php-ext-install ldap \
+    && docker-php-ext-enable  ldap \
+    && apk del .build-dependencies-in-virtual-world \
     && { find /usr/local/lib -type f -print0 | xargs -0r strip --strip-all -p 2>/dev/null || true; } \
     && apk del .build-deps \
     && rm -rf /tmp/* /usr/local/lib/php/doc/* /var/cache/apk/*
