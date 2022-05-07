@@ -3,44 +3,66 @@ services:
     web:
         image: nginx:alpine
         volumes:
-            - "./etc/nginx/default.conf:/etc/nginx/conf.d/default.conf"
             - "./etc/ssl:/etc/ssl"
-            - "/home/wattanapongsu/php_www/csystem:/var/www/html/csystem/:rw"
-            - "./etc/nginx/default.template.https.conf:/etc/nginx/conf.d/default.template"
+            
+            - "D:/Workspace/www/default:/var/www/html/default/:rw"
+            - "D:/Workspace/www/csystem:/var/www/html/csystem/:rw"
+            - "D:/Workspace/www/set_daily_trade:/var/www/html/set/:rw"
+            - "D:/Workspace/www/wattanapong:/var/www/html/wattanapong/:rw"
+
+            - "./etc/nginx/default.template.conf:/etc/nginx/conf.d/default.template"
+            - "./etc/nginx/csystem.https.conf:/etc/nginx/conf.d/csystem.template"
+            - "./etc/nginx/set.https.conf:/etc/nginx/conf.d/set.template"
+            - "./etc/nginx/wattanapong.https.conf:/etc/nginx/conf.d/wattanapong.template"
+
             - "./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:ro"
             - "./etc/certbot/conf/:/etc/nginx/ssl/:ro"
-            - "/home/wattanapongsu/php_www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
-            - "/ramdisk/c/:/ramdisk/c/:rw"
+
+            - "D:/Workspace/www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
+            # - "/ramdisk/c/:/ramdisk/c/:rw"
 
         ports:
             - "80:80"
             - "443:443"
         environment:
             - NGINX_HOST=${NGINX_HOST}
-        command: /bin/sh -c "envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/default.template > /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'"
+        command: /bin/sh -c "
+                envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/csystem.template > /etc/nginx/conf.d/csystem.conf 
+                && envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/default.template > /etc/nginx/conf.d/default.conf  
+                && envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/set.template > /etc/nginx/conf.d/set.conf  
+                && envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/wattanapong.template > /etc/nginx/conf.d/wattanapong.conf  
+                && nginx -g 'daemon off;'"
         restart: always
         depends_on:
             - php
             - mysqldb
     
-    certbot:
-        image: certbot/certbot:latest
-        volumes:
-            - ./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:rw
-            - ./etc/certbot/conf/:/etc/letsencrypt/:rw
+    # certbot:
+    #     image: certbot/certbot:latest
+    #     volumes:
+    #         - ./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:rw
+    #         - ./etc/certbot/conf/:/etc/letsencrypt/:rw
     php:
         build: './etc/php'
         restart: always
         volumes:
             - "./etc/php/php.ini:/usr/local/etc/php/conf.d/php.ini"
-            - "/home/wattanapongsu/php_www/csystem:/var/www/html/csystem/:rw"
-            - "/home/wattanapongsu/php_www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
-            - "/ramdisk/c/:/ramdisk/c/:rw"
+
+            - "D:/docker/workspace/www/default:/var/www/html/default/:rw"
+            - "D:/docker/workspace/www/csystem:/var/www/html/csystem/:rw"
+            - "D:/Workspace/www/set_daily_trade:/var/www/html/set/:rw"
+            - "D:/Workspace/www/wattanapong:/var/www/html/wattanapong/:rw"
+
+            - "D:/Workspace/www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
+           # - "/ramdisk/c/:/ramdisk/c/:rw"
 
     composer:
         image: "composer"
         volumes:
-            - "/home/wattanapongsu/php_www/csystem:/app"
+            - "D:/Workspace/www/csystem:/app"
+            - "D:/Workspace/www/wattanapong:/app"
+        depends_on:
+            - php
         command: install
     myadmin:
         image: phpmyadmin/phpmyadmin

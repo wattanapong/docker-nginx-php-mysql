@@ -38,9 +38,11 @@ services:
             - "/ramdisk/c/:/ramdisk/c/:rw"
 
     composer:
-        image: "composer"
+        image: composer/composer:2
         volumes:
-            - "./web/app:/app"
+            - "/home/wattanapongsu/php_www/csystem:/app"
+        depends_on:
+            - php
         command: install
     myadmin:
         image: phpmyadmin/phpmyadmin
