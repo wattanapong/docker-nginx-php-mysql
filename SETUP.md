@@ -1,26 +1,29 @@
+# run http website
 1. copy docker-compose.yml from
    1.1. docker-compose.mint.yml when your os is Linux
    1.2. docker-compose.windows.yml when your os is Windows
 
-
-# Generate nginx SSL on docker
-1. build docker-compose
+2. build docker-compose
 ```
 docker-compose up -d
 ```
 
-2. test csystem.ict.up.ac.th on browser
+# Generate nginx SSL on docker
 
-3. whether step 2 worked well, you can then generate certificate as following command:
+
+1. test csystem.ict.up.ac.th on browser
+
+2. whether step 2 worked well, you can then generate certificate as following command:
 ```
 docker-compose run --rm  certbot certonly --webroot --webroot-path /var/www/html/csystem/certbot/ --dry-run -d csystem.ict.up.ac.th
 ```
-4. rerun without --dry-run
+3. rerun without --dry-run
 ```
 docker-compose run --rm  certbot certonly --webroot --webroot-path /var/www/html/csystem/certbot/ -d csystem.ict.up.ac.th
 ```
-5. uncomment 443 port on nginx/default.template.conf (server { } )
+4. uncomment 443 port on nginx/default.template.conf (server { } )
 
+*** no need to generate ssl certificate by docker run *** jacoelho/generate-certificate ***
 
 # Connect database (MySQL)
 1. connect 
