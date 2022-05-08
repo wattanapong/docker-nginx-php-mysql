@@ -1,0 +1,2430 @@
+2022/05/07 10:09:31 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:09:31 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:09:31 [emerg] 1#1: open() "/var/log/nginx/wattanapong.com/error.log" failed (2: No such file or directory)
+2022/05/07 10:09:31 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:09:31 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:09:31 [emerg] 1#1: open() "/var/log/nginx/wattanapong.com/error.log" failed (2: No such file or directory)
+2022/05/07 10:09:32 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:09:32 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:09:32 [emerg] 1#1: open() "/var/log/nginx/wattanapong.com/error.log" failed (2: No such file or directory)
+2022/05/07 10:09:33 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:09:33 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:09:33 [emerg] 1#1: open() "/var/log/nginx/wattanapong.com/error.log" failed (2: No such file or directory)
+2022/05/07 10:09:34 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:09:34 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:09:34 [emerg] 1#1: open() "/var/log/nginx/wattanapong.com/error.log" failed (2: No such file or directory)
+2022/05/07 10:11:15 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:11:15 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:11:15 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:11:15 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:11:15 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:11:15 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:11:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:11:15 [notice] 1#1: start worker processes
+2022/05/07 10:11:15 [notice] 1#1: start worker process 11
+2022/05/07 10:11:15 [notice] 1#1: start worker process 12
+2022/05/07 10:11:15 [notice] 1#1: start worker process 13
+2022/05/07 10:11:15 [notice] 1#1: start worker process 14
+2022/05/07 10:11:15 [notice] 1#1: start worker process 15
+2022/05/07 10:11:15 [notice] 1#1: start worker process 16
+2022/05/07 10:11:15 [notice] 1#1: start worker process 17
+2022/05/07 10:11:15 [notice] 1#1: start worker process 18
+2022/05/07 10:11:15 [notice] 1#1: start worker process 19
+2022/05/07 10:11:15 [notice] 1#1: start worker process 20
+2022/05/07 10:11:15 [notice] 1#1: start worker process 21
+2022/05/07 10:11:15 [notice] 1#1: start worker process 22
+2022/05/07 10:11:15 [notice] 1#1: start worker process 23
+2022/05/07 10:11:15 [notice] 1#1: start worker process 24
+2022/05/07 10:11:15 [notice] 1#1: start worker process 25
+2022/05/07 10:11:15 [notice] 1#1: start worker process 26
+2022/05/07 10:16:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:16:53 [notice] 11#11: gracefully shutting down
+2022/05/07 10:16:53 [notice] 12#12: gracefully shutting down
+2022/05/07 10:16:53 [notice] 13#13: gracefully shutting down
+2022/05/07 10:16:53 [notice] 14#14: gracefully shutting down
+2022/05/07 10:16:53 [notice] 15#15: gracefully shutting down
+2022/05/07 10:16:53 [notice] 16#16: gracefully shutting down
+2022/05/07 10:16:53 [notice] 18#18: gracefully shutting down
+2022/05/07 10:16:53 [notice] 17#17: gracefully shutting down
+2022/05/07 10:16:53 [notice] 20#20: gracefully shutting down
+2022/05/07 10:16:53 [notice] 19#19: gracefully shutting down
+2022/05/07 10:16:53 [notice] 24#24: gracefully shutting down
+2022/05/07 10:16:53 [notice] 23#23: gracefully shutting down
+2022/05/07 10:16:53 [notice] 25#25: gracefully shutting down
+2022/05/07 10:16:53 [notice] 22#22: gracefully shutting down
+2022/05/07 10:16:53 [notice] 21#21: gracefully shutting down
+2022/05/07 10:16:53 [notice] 26#26: gracefully shutting down
+2022/05/07 10:16:53 [notice] 11#11: exiting
+2022/05/07 10:16:53 [notice] 12#12: exiting
+2022/05/07 10:16:53 [notice] 11#11: exit
+2022/05/07 10:16:53 [notice] 13#13: exiting
+2022/05/07 10:16:53 [notice] 14#14: exiting
+2022/05/07 10:16:53 [notice] 15#15: exiting
+2022/05/07 10:16:53 [notice] 16#16: exiting
+2022/05/07 10:16:53 [notice] 18#18: exiting
+2022/05/07 10:16:53 [notice] 17#17: exiting
+2022/05/07 10:16:53 [notice] 20#20: exiting
+2022/05/07 10:16:53 [notice] 17#17: exit
+2022/05/07 10:16:53 [notice] 19#19: exiting
+2022/05/07 10:16:53 [notice] 24#24: exiting
+2022/05/07 10:16:53 [notice] 23#23: exiting
+2022/05/07 10:16:53 [notice] 25#25: exiting
+2022/05/07 10:16:53 [notice] 22#22: exiting
+2022/05/07 10:16:53 [notice] 21#21: exiting
+2022/05/07 10:16:53 [notice] 22#22: exit
+2022/05/07 10:16:53 [notice] 26#26: exiting
+2022/05/07 10:16:53 [notice] 12#12: exit
+2022/05/07 10:16:53 [notice] 13#13: exit
+2022/05/07 10:16:53 [notice] 14#14: exit
+2022/05/07 10:16:53 [notice] 15#15: exit
+2022/05/07 10:16:53 [notice] 16#16: exit
+2022/05/07 10:16:53 [notice] 18#18: exit
+2022/05/07 10:16:53 [notice] 20#20: exit
+2022/05/07 10:16:53 [notice] 19#19: exit
+2022/05/07 10:16:53 [notice] 23#23: exit
+2022/05/07 10:16:53 [notice] 24#24: exit
+2022/05/07 10:16:53 [notice] 25#25: exit
+2022/05/07 10:16:53 [notice] 21#21: exit
+2022/05/07 10:16:53 [notice] 26#26: exit
+2022/05/07 10:16:53 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/07 10:16:53 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:16:53 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/07 10:16:53 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/07 10:16:53 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:16:53 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/05/07 10:16:53 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/07 10:16:53 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:16:53 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/07 10:16:53 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:16:53 [notice] 1#1: exit
+2022/05/07 10:16:56 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:16:56 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:16:56 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:16:56 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:16:56 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:16:56 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:16:56 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:16:56 [notice] 1#1: start worker processes
+2022/05/07 10:16:56 [notice] 1#1: start worker process 11
+2022/05/07 10:16:56 [notice] 1#1: start worker process 12
+2022/05/07 10:16:56 [notice] 1#1: start worker process 13
+2022/05/07 10:16:56 [notice] 1#1: start worker process 14
+2022/05/07 10:16:56 [notice] 1#1: start worker process 15
+2022/05/07 10:16:56 [notice] 1#1: start worker process 16
+2022/05/07 10:16:56 [notice] 1#1: start worker process 17
+2022/05/07 10:16:56 [notice] 1#1: start worker process 18
+2022/05/07 10:16:56 [notice] 1#1: start worker process 19
+2022/05/07 10:16:56 [notice] 1#1: start worker process 20
+2022/05/07 10:16:56 [notice] 1#1: start worker process 21
+2022/05/07 10:16:56 [notice] 1#1: start worker process 22
+2022/05/07 10:16:56 [notice] 1#1: start worker process 23
+2022/05/07 10:16:56 [notice] 1#1: start worker process 24
+2022/05/07 10:16:56 [notice] 1#1: start worker process 25
+2022/05/07 10:16:56 [notice] 1#1: start worker process 26
+2022/05/07 10:21:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:21:29 [notice] 11#11: gracefully shutting down
+2022/05/07 10:21:29 [notice] 12#12: gracefully shutting down
+2022/05/07 10:21:29 [notice] 13#13: gracefully shutting down
+2022/05/07 10:21:29 [notice] 14#14: gracefully shutting down
+2022/05/07 10:21:29 [notice] 15#15: gracefully shutting down
+2022/05/07 10:21:29 [notice] 17#17: gracefully shutting down
+2022/05/07 10:21:29 [notice] 16#16: gracefully shutting down
+2022/05/07 10:21:29 [notice] 19#19: gracefully shutting down
+2022/05/07 10:21:29 [notice] 18#18: gracefully shutting down
+2022/05/07 10:21:29 [notice] 20#20: gracefully shutting down
+2022/05/07 10:21:29 [notice] 21#21: gracefully shutting down
+2022/05/07 10:21:29 [notice] 24#24: gracefully shutting down
+2022/05/07 10:21:29 [notice] 22#22: gracefully shutting down
+2022/05/07 10:21:29 [notice] 26#26: gracefully shutting down
+2022/05/07 10:21:29 [notice] 25#25: gracefully shutting down
+2022/05/07 10:21:29 [notice] 23#23: gracefully shutting down
+2022/05/07 10:21:29 [notice] 11#11: exiting
+2022/05/07 10:21:29 [notice] 12#12: exiting
+2022/05/07 10:21:29 [notice] 13#13: exiting
+2022/05/07 10:21:29 [notice] 14#14: exiting
+2022/05/07 10:21:29 [notice] 15#15: exiting
+2022/05/07 10:21:29 [notice] 17#17: exiting
+2022/05/07 10:21:29 [notice] 16#16: exiting
+2022/05/07 10:21:29 [notice] 19#19: exiting
+2022/05/07 10:21:29 [notice] 18#18: exiting
+2022/05/07 10:21:29 [notice] 20#20: exiting
+2022/05/07 10:21:29 [notice] 21#21: exiting
+2022/05/07 10:21:29 [notice] 24#24: exiting
+2022/05/07 10:21:29 [notice] 22#22: exiting
+2022/05/07 10:21:29 [notice] 26#26: exiting
+2022/05/07 10:21:29 [notice] 25#25: exiting
+2022/05/07 10:21:29 [notice] 23#23: exiting
+2022/05/07 10:21:29 [notice] 11#11: exit
+2022/05/07 10:21:29 [notice] 12#12: exit
+2022/05/07 10:21:29 [notice] 13#13: exit
+2022/05/07 10:21:29 [notice] 14#14: exit
+2022/05/07 10:21:29 [notice] 15#15: exit
+2022/05/07 10:21:29 [notice] 17#17: exit
+2022/05/07 10:21:29 [notice] 16#16: exit
+2022/05/07 10:21:29 [notice] 19#19: exit
+2022/05/07 10:21:29 [notice] 18#18: exit
+2022/05/07 10:21:29 [notice] 20#20: exit
+2022/05/07 10:21:29 [notice] 21#21: exit
+2022/05/07 10:21:29 [notice] 24#24: exit
+2022/05/07 10:21:29 [notice] 22#22: exit
+2022/05/07 10:21:29 [notice] 26#26: exit
+2022/05/07 10:21:29 [notice] 25#25: exit
+2022/05/07 10:21:29 [notice] 23#23: exit
+2022/05/07 10:21:30 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/07 10:21:30 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:21:30 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/07 10:21:30 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:21:30 [notice] 1#1: exit
+2022/05/07 10:21:32 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:21:32 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:21:32 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:21:32 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:21:32 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:21:32 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:21:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:21:32 [notice] 1#1: start worker processes
+2022/05/07 10:21:32 [notice] 1#1: start worker process 12
+2022/05/07 10:21:32 [notice] 1#1: start worker process 13
+2022/05/07 10:21:32 [notice] 1#1: start worker process 14
+2022/05/07 10:21:32 [notice] 1#1: start worker process 15
+2022/05/07 10:21:32 [notice] 1#1: start worker process 16
+2022/05/07 10:21:32 [notice] 1#1: start worker process 17
+2022/05/07 10:21:32 [notice] 1#1: start worker process 18
+2022/05/07 10:21:32 [notice] 1#1: start worker process 19
+2022/05/07 10:21:32 [notice] 1#1: start worker process 20
+2022/05/07 10:21:32 [notice] 1#1: start worker process 21
+2022/05/07 10:21:32 [notice] 1#1: start worker process 22
+2022/05/07 10:21:32 [notice] 1#1: start worker process 23
+2022/05/07 10:21:32 [notice] 1#1: start worker process 24
+2022/05/07 10:21:32 [notice] 1#1: start worker process 25
+2022/05/07 10:21:32 [notice] 1#1: start worker process 26
+2022/05/07 10:21:32 [notice] 1#1: start worker process 27
+2022/05/07 10:23:19 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:23:19 [notice] 12#12: gracefully shutting down
+2022/05/07 10:23:19 [notice] 13#13: gracefully shutting down
+2022/05/07 10:23:19 [notice] 14#14: gracefully shutting down
+2022/05/07 10:23:19 [notice] 16#16: gracefully shutting down
+2022/05/07 10:23:19 [notice] 18#18: gracefully shutting down
+2022/05/07 10:23:19 [notice] 17#17: gracefully shutting down
+2022/05/07 10:23:19 [notice] 19#19: gracefully shutting down
+2022/05/07 10:23:19 [notice] 20#20: gracefully shutting down
+2022/05/07 10:23:19 [notice] 21#21: gracefully shutting down
+2022/05/07 10:23:19 [notice] 22#22: gracefully shutting down
+2022/05/07 10:23:19 [notice] 24#24: gracefully shutting down
+2022/05/07 10:23:19 [notice] 23#23: gracefully shutting down
+2022/05/07 10:23:19 [notice] 25#25: gracefully shutting down
+2022/05/07 10:23:19 [notice] 26#26: gracefully shutting down
+2022/05/07 10:23:19 [notice] 27#27: gracefully shutting down
+2022/05/07 10:23:19 [notice] 15#15: gracefully shutting down
+2022/05/07 10:23:19 [notice] 12#12: exiting
+2022/05/07 10:23:19 [notice] 13#13: exiting
+2022/05/07 10:23:19 [notice] 14#14: exiting
+2022/05/07 10:23:19 [notice] 16#16: exiting
+2022/05/07 10:23:19 [notice] 18#18: exiting
+2022/05/07 10:23:19 [notice] 16#16: exit
+2022/05/07 10:23:19 [notice] 17#17: exiting
+2022/05/07 10:23:19 [notice] 19#19: exiting
+2022/05/07 10:23:19 [notice] 20#20: exiting
+2022/05/07 10:23:19 [notice] 21#21: exiting
+2022/05/07 10:23:19 [notice] 22#22: exiting
+2022/05/07 10:23:19 [notice] 24#24: exiting
+2022/05/07 10:23:19 [notice] 23#23: exiting
+2022/05/07 10:23:19 [notice] 25#25: exiting
+2022/05/07 10:23:19 [notice] 26#26: exiting
+2022/05/07 10:23:19 [notice] 27#27: exiting
+2022/05/07 10:23:19 [notice] 15#15: exiting
+2022/05/07 10:23:19 [notice] 12#12: exit
+2022/05/07 10:23:19 [notice] 13#13: exit
+2022/05/07 10:23:19 [notice] 14#14: exit
+2022/05/07 10:23:19 [notice] 18#18: exit
+2022/05/07 10:23:19 [notice] 17#17: exit
+2022/05/07 10:23:19 [notice] 19#19: exit
+2022/05/07 10:23:19 [notice] 20#20: exit
+2022/05/07 10:23:19 [notice] 21#21: exit
+2022/05/07 10:23:19 [notice] 22#22: exit
+2022/05/07 10:23:19 [notice] 24#24: exit
+2022/05/07 10:23:19 [notice] 23#23: exit
+2022/05/07 10:23:19 [notice] 25#25: exit
+2022/05/07 10:23:19 [notice] 26#26: exit
+2022/05/07 10:23:19 [notice] 27#27: exit
+2022/05/07 10:23:19 [notice] 15#15: exit
+2022/05/07 10:23:19 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/07 10:23:19 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:23:19 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/07 10:23:19 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:23:19 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/07 10:23:19 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: worker process 27 exited with code 0
+2022/05/07 10:23:19 [notice] 1#1: exit
+2022/05/07 10:23:23 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:23:23 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:23:23 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:23:23 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:23:23 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:23:23 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:23:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:23:23 [notice] 1#1: start worker processes
+2022/05/07 10:23:23 [notice] 1#1: start worker process 12
+2022/05/07 10:23:23 [notice] 1#1: start worker process 13
+2022/05/07 10:23:23 [notice] 1#1: start worker process 14
+2022/05/07 10:23:23 [notice] 1#1: start worker process 15
+2022/05/07 10:23:23 [notice] 1#1: start worker process 16
+2022/05/07 10:23:23 [notice] 1#1: start worker process 17
+2022/05/07 10:23:23 [notice] 1#1: start worker process 18
+2022/05/07 10:23:23 [notice] 1#1: start worker process 19
+2022/05/07 10:23:23 [notice] 1#1: start worker process 20
+2022/05/07 10:23:23 [notice] 1#1: start worker process 21
+2022/05/07 10:23:23 [notice] 1#1: start worker process 22
+2022/05/07 10:23:23 [notice] 1#1: start worker process 23
+2022/05/07 10:23:23 [notice] 1#1: start worker process 24
+2022/05/07 10:23:23 [notice] 1#1: start worker process 25
+2022/05/07 10:23:23 [notice] 1#1: start worker process 26
+2022/05/07 10:23:23 [notice] 1#1: start worker process 27
+2022/05/07 10:23:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:23:59 [notice] 12#12: gracefully shutting down
+2022/05/07 10:23:59 [notice] 13#13: gracefully shutting down
+2022/05/07 10:23:59 [notice] 14#14: gracefully shutting down
+2022/05/07 10:23:59 [notice] 15#15: gracefully shutting down
+2022/05/07 10:23:59 [notice] 17#17: gracefully shutting down
+2022/05/07 10:23:59 [notice] 16#16: gracefully shutting down
+2022/05/07 10:23:59 [notice] 19#19: gracefully shutting down
+2022/05/07 10:23:59 [notice] 18#18: gracefully shutting down
+2022/05/07 10:23:59 [notice] 20#20: gracefully shutting down
+2022/05/07 10:23:59 [notice] 21#21: gracefully shutting down
+2022/05/07 10:23:59 [notice] 22#22: gracefully shutting down
+2022/05/07 10:23:59 [notice] 23#23: gracefully shutting down
+2022/05/07 10:23:59 [notice] 24#24: gracefully shutting down
+2022/05/07 10:23:59 [notice] 25#25: gracefully shutting down
+2022/05/07 10:23:59 [notice] 27#27: gracefully shutting down
+2022/05/07 10:23:59 [notice] 26#26: gracefully shutting down
+2022/05/07 10:23:59 [notice] 13#13: exiting
+2022/05/07 10:23:59 [notice] 14#14: exiting
+2022/05/07 10:23:59 [notice] 15#15: exiting
+2022/05/07 10:23:59 [notice] 17#17: exiting
+2022/05/07 10:23:59 [notice] 16#16: exiting
+2022/05/07 10:23:59 [notice] 19#19: exiting
+2022/05/07 10:23:59 [notice] 18#18: exiting
+2022/05/07 10:23:59 [notice] 20#20: exiting
+2022/05/07 10:23:59 [notice] 21#21: exiting
+2022/05/07 10:23:59 [notice] 22#22: exiting
+2022/05/07 10:23:59 [notice] 23#23: exiting
+2022/05/07 10:23:59 [notice] 24#24: exiting
+2022/05/07 10:23:59 [notice] 25#25: exiting
+2022/05/07 10:23:59 [notice] 27#27: exiting
+2022/05/07 10:23:59 [notice] 26#26: exiting
+2022/05/07 10:23:59 [notice] 27#27: exit
+2022/05/07 10:23:59 [notice] 13#13: exit
+2022/05/07 10:23:59 [notice] 14#14: exit
+2022/05/07 10:23:59 [notice] 17#17: exit
+2022/05/07 10:23:59 [notice] 15#15: exit
+2022/05/07 10:23:59 [notice] 16#16: exit
+2022/05/07 10:23:59 [notice] 19#19: exit
+2022/05/07 10:23:59 [notice] 18#18: exit
+2022/05/07 10:23:59 [notice] 20#20: exit
+2022/05/07 10:23:59 [notice] 21#21: exit
+2022/05/07 10:23:59 [notice] 22#22: exit
+2022/05/07 10:23:59 [notice] 23#23: exit
+2022/05/07 10:23:59 [notice] 24#24: exit
+2022/05/07 10:23:59 [notice] 25#25: exit
+2022/05/07 10:23:59 [notice] 26#26: exit
+2022/05/07 10:23:59 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/07 10:23:59 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:23:59 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/07 10:23:59 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 27 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:23:59 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/07 10:23:59 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/05/07 10:23:59 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:23:59 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:23:59 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/07 10:24:09 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:24:09 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:24:09 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:24:09 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:24:09 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:24:09 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:24:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:24:09 [notice] 1#1: start worker processes
+2022/05/07 10:24:09 [notice] 1#1: start worker process 12
+2022/05/07 10:24:09 [notice] 1#1: start worker process 13
+2022/05/07 10:24:09 [notice] 1#1: start worker process 14
+2022/05/07 10:24:09 [notice] 1#1: start worker process 15
+2022/05/07 10:24:09 [notice] 1#1: start worker process 16
+2022/05/07 10:24:09 [notice] 1#1: start worker process 17
+2022/05/07 10:24:09 [notice] 1#1: start worker process 18
+2022/05/07 10:24:09 [notice] 1#1: start worker process 19
+2022/05/07 10:24:09 [notice] 1#1: start worker process 20
+2022/05/07 10:24:09 [notice] 1#1: start worker process 21
+2022/05/07 10:24:09 [notice] 1#1: start worker process 22
+2022/05/07 10:24:09 [notice] 1#1: start worker process 23
+2022/05/07 10:24:09 [notice] 1#1: start worker process 24
+2022/05/07 10:24:09 [notice] 1#1: start worker process 25
+2022/05/07 10:24:09 [notice] 1#1: start worker process 26
+2022/05/07 10:24:09 [notice] 1#1: start worker process 27
+2022/05/07 10:24:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:24:50 [notice] 12#12: gracefully shutting down
+2022/05/07 10:24:50 [notice] 13#13: gracefully shutting down
+2022/05/07 10:24:50 [notice] 14#14: gracefully shutting down
+2022/05/07 10:24:50 [notice] 15#15: gracefully shutting down
+2022/05/07 10:24:50 [notice] 16#16: gracefully shutting down
+2022/05/07 10:24:50 [notice] 17#17: gracefully shutting down
+2022/05/07 10:24:50 [notice] 18#18: gracefully shutting down
+2022/05/07 10:24:50 [notice] 19#19: gracefully shutting down
+2022/05/07 10:24:50 [notice] 20#20: gracefully shutting down
+2022/05/07 10:24:50 [notice] 22#22: gracefully shutting down
+2022/05/07 10:24:50 [notice] 21#21: gracefully shutting down
+2022/05/07 10:24:50 [notice] 24#24: gracefully shutting down
+2022/05/07 10:24:50 [notice] 23#23: gracefully shutting down
+2022/05/07 10:24:50 [notice] 25#25: gracefully shutting down
+2022/05/07 10:24:50 [notice] 27#27: gracefully shutting down
+2022/05/07 10:24:50 [notice] 26#26: gracefully shutting down
+2022/05/07 10:24:50 [notice] 13#13: exiting
+2022/05/07 10:24:50 [notice] 14#14: exiting
+2022/05/07 10:24:50 [notice] 15#15: exiting
+2022/05/07 10:24:50 [notice] 16#16: exiting
+2022/05/07 10:24:50 [notice] 17#17: exiting
+2022/05/07 10:24:50 [notice] 18#18: exiting
+2022/05/07 10:24:50 [notice] 19#19: exiting
+2022/05/07 10:24:50 [notice] 20#20: exiting
+2022/05/07 10:24:50 [notice] 19#19: exit
+2022/05/07 10:24:50 [notice] 22#22: exiting
+2022/05/07 10:24:50 [notice] 21#21: exiting
+2022/05/07 10:24:50 [notice] 24#24: exiting
+2022/05/07 10:24:50 [notice] 23#23: exiting
+2022/05/07 10:24:50 [notice] 25#25: exiting
+2022/05/07 10:24:50 [notice] 27#27: exiting
+2022/05/07 10:24:50 [notice] 26#26: exiting
+2022/05/07 10:24:50 [notice] 13#13: exit
+2022/05/07 10:24:50 [notice] 14#14: exit
+2022/05/07 10:24:50 [notice] 15#15: exit
+2022/05/07 10:24:50 [notice] 16#16: exit
+2022/05/07 10:24:50 [notice] 17#17: exit
+2022/05/07 10:24:50 [notice] 18#18: exit
+2022/05/07 10:24:50 [notice] 20#20: exit
+2022/05/07 10:24:50 [notice] 22#22: exit
+2022/05/07 10:24:50 [notice] 21#21: exit
+2022/05/07 10:24:50 [notice] 24#24: exit
+2022/05/07 10:24:50 [notice] 23#23: exit
+2022/05/07 10:24:50 [notice] 25#25: exit
+2022/05/07 10:24:50 [notice] 27#27: exit
+2022/05/07 10:24:50 [notice] 26#26: exit
+2022/05/07 10:24:50 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/05/07 10:24:50 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 27 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:24:50 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/07 10:24:50 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/07 10:24:50 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:24:50 [notice] 1#1: signal 17 (SIGCHLD) received from 18
+2022/05/07 10:24:50 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/07 10:24:50 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:24:50 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:24:50 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/07 10:24:53 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:24:53 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:24:53 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:24:53 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:24:53 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:24:53 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:24:53 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:24:53 [notice] 1#1: start worker processes
+2022/05/07 10:24:53 [notice] 1#1: start worker process 12
+2022/05/07 10:24:53 [notice] 1#1: start worker process 13
+2022/05/07 10:24:53 [notice] 1#1: start worker process 14
+2022/05/07 10:24:53 [notice] 1#1: start worker process 15
+2022/05/07 10:24:53 [notice] 1#1: start worker process 16
+2022/05/07 10:24:53 [notice] 1#1: start worker process 17
+2022/05/07 10:24:53 [notice] 1#1: start worker process 18
+2022/05/07 10:24:53 [notice] 1#1: start worker process 19
+2022/05/07 10:24:53 [notice] 1#1: start worker process 20
+2022/05/07 10:24:53 [notice] 1#1: start worker process 21
+2022/05/07 10:24:53 [notice] 1#1: start worker process 22
+2022/05/07 10:24:53 [notice] 1#1: start worker process 23
+2022/05/07 10:24:53 [notice] 1#1: start worker process 24
+2022/05/07 10:24:53 [notice] 1#1: start worker process 25
+2022/05/07 10:24:53 [notice] 1#1: start worker process 26
+2022/05/07 10:24:53 [notice] 1#1: start worker process 27
+2022/05/07 10:25:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:25:35 [notice] 12#12: gracefully shutting down
+2022/05/07 10:25:35 [notice] 13#13: gracefully shutting down
+2022/05/07 10:25:35 [notice] 15#15: gracefully shutting down
+2022/05/07 10:25:35 [notice] 18#18: gracefully shutting down
+2022/05/07 10:25:35 [notice] 21#21: gracefully shutting down
+2022/05/07 10:25:35 [notice] 22#22: gracefully shutting down
+2022/05/07 10:25:35 [notice] 22#22: exiting
+2022/05/07 10:25:35 [notice] 23#23: gracefully shutting down
+2022/05/07 10:25:35 [notice] 14#14: gracefully shutting down
+2022/05/07 10:25:35 [notice] 24#24: gracefully shutting down
+2022/05/07 10:25:35 [notice] 24#24: exiting
+2022/05/07 10:25:35 [notice] 16#16: gracefully shutting down
+2022/05/07 10:25:35 [notice] 16#16: exiting
+2022/05/07 10:25:35 [notice] 17#17: gracefully shutting down
+2022/05/07 10:25:35 [notice] 19#19: gracefully shutting down
+2022/05/07 10:25:35 [notice] 20#20: gracefully shutting down
+2022/05/07 10:25:35 [notice] 25#25: gracefully shutting down
+2022/05/07 10:25:35 [notice] 26#26: gracefully shutting down
+2022/05/07 10:25:35 [notice] 27#27: gracefully shutting down
+2022/05/07 10:25:35 [notice] 13#13: exiting
+2022/05/07 10:25:35 [notice] 15#15: exiting
+2022/05/07 10:25:35 [notice] 18#18: exiting
+2022/05/07 10:25:35 [notice] 21#21: exiting
+2022/05/07 10:25:35 [notice] 22#22: exit
+2022/05/07 10:25:35 [notice] 23#23: exiting
+2022/05/07 10:25:35 [notice] 14#14: exiting
+2022/05/07 10:25:35 [notice] 24#24: exit
+2022/05/07 10:25:35 [notice] 16#16: exit
+2022/05/07 10:25:35 [notice] 17#17: exiting
+2022/05/07 10:25:35 [notice] 19#19: exiting
+2022/05/07 10:25:35 [notice] 17#17: exit
+2022/05/07 10:25:35 [notice] 20#20: exiting
+2022/05/07 10:25:35 [notice] 25#25: exiting
+2022/05/07 10:25:35 [notice] 26#26: exiting
+2022/05/07 10:25:35 [notice] 27#27: exiting
+2022/05/07 10:25:35 [notice] 13#13: exit
+2022/05/07 10:25:35 [notice] 27#27: exit
+2022/05/07 10:25:35 [notice] 15#15: exit
+2022/05/07 10:25:35 [notice] 18#18: exit
+2022/05/07 10:25:35 [notice] 21#21: exit
+2022/05/07 10:25:35 [notice] 23#23: exit
+2022/05/07 10:25:35 [notice] 14#14: exit
+2022/05/07 10:25:35 [notice] 19#19: exit
+2022/05/07 10:25:35 [notice] 20#20: exit
+2022/05/07 10:25:35 [notice] 25#25: exit
+2022/05/07 10:25:35 [notice] 26#26: exit
+2022/05/07 10:25:35 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/07 10:25:35 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:25:35 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/07 10:25:35 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:25:35 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/07 10:25:35 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 27 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:25:35 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/07 10:25:35 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:25:35 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/07 10:25:35 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:25:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:25:39 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:25:39 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:25:39 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:25:39 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:25:39 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:25:39 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:25:39 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:25:39 [notice] 1#1: start worker processes
+2022/05/07 10:25:39 [notice] 1#1: start worker process 11
+2022/05/07 10:25:39 [notice] 1#1: start worker process 12
+2022/05/07 10:25:39 [notice] 1#1: start worker process 13
+2022/05/07 10:25:39 [notice] 1#1: start worker process 14
+2022/05/07 10:25:39 [notice] 1#1: start worker process 15
+2022/05/07 10:25:39 [notice] 1#1: start worker process 16
+2022/05/07 10:25:39 [notice] 1#1: start worker process 17
+2022/05/07 10:25:39 [notice] 1#1: start worker process 18
+2022/05/07 10:25:39 [notice] 1#1: start worker process 19
+2022/05/07 10:25:39 [notice] 1#1: start worker process 20
+2022/05/07 10:25:39 [notice] 1#1: start worker process 21
+2022/05/07 10:25:39 [notice] 1#1: start worker process 22
+2022/05/07 10:25:39 [notice] 1#1: start worker process 23
+2022/05/07 10:25:39 [notice] 1#1: start worker process 24
+2022/05/07 10:25:39 [notice] 1#1: start worker process 25
+2022/05/07 10:25:39 [notice] 1#1: start worker process 26
+2022/05/07 10:30:57 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:30:57 [notice] 12#12: gracefully shutting down
+2022/05/07 10:30:57 [notice] 11#11: gracefully shutting down
+2022/05/07 10:30:57 [notice] 13#13: gracefully shutting down
+2022/05/07 10:30:57 [notice] 16#16: gracefully shutting down
+2022/05/07 10:30:57 [notice] 16#16: exiting
+2022/05/07 10:30:57 [notice] 17#17: gracefully shutting down
+2022/05/07 10:30:57 [notice] 14#14: gracefully shutting down
+2022/05/07 10:30:57 [notice] 15#15: gracefully shutting down
+2022/05/07 10:30:57 [notice] 19#19: gracefully shutting down
+2022/05/07 10:30:57 [notice] 18#18: gracefully shutting down
+2022/05/07 10:30:57 [notice] 20#20: gracefully shutting down
+2022/05/07 10:30:57 [notice] 21#21: gracefully shutting down
+2022/05/07 10:30:57 [notice] 22#22: gracefully shutting down
+2022/05/07 10:30:57 [notice] 23#23: gracefully shutting down
+2022/05/07 10:30:57 [notice] 24#24: gracefully shutting down
+2022/05/07 10:30:57 [notice] 25#25: gracefully shutting down
+2022/05/07 10:30:57 [notice] 26#26: gracefully shutting down
+2022/05/07 10:30:57 [notice] 12#12: exiting
+2022/05/07 10:30:57 [notice] 11#11: exiting
+2022/05/07 10:30:57 [notice] 13#13: exiting
+2022/05/07 10:30:57 [notice] 16#16: exit
+2022/05/07 10:30:57 [notice] 17#17: exiting
+2022/05/07 10:30:57 [notice] 14#14: exiting
+2022/05/07 10:30:57 [notice] 15#15: exiting
+2022/05/07 10:30:57 [notice] 19#19: exiting
+2022/05/07 10:30:57 [notice] 18#18: exiting
+2022/05/07 10:30:57 [notice] 20#20: exiting
+2022/05/07 10:30:57 [notice] 21#21: exiting
+2022/05/07 10:30:57 [notice] 22#22: exiting
+2022/05/07 10:30:57 [notice] 23#23: exiting
+2022/05/07 10:30:57 [notice] 24#24: exiting
+2022/05/07 10:30:57 [notice] 25#25: exiting
+2022/05/07 10:30:57 [notice] 26#26: exiting
+2022/05/07 10:30:57 [notice] 12#12: exit
+2022/05/07 10:30:57 [notice] 11#11: exit
+2022/05/07 10:30:57 [notice] 13#13: exit
+2022/05/07 10:30:57 [notice] 17#17: exit
+2022/05/07 10:30:57 [notice] 14#14: exit
+2022/05/07 10:30:57 [notice] 15#15: exit
+2022/05/07 10:30:57 [notice] 19#19: exit
+2022/05/07 10:30:57 [notice] 18#18: exit
+2022/05/07 10:30:57 [notice] 20#20: exit
+2022/05/07 10:30:57 [notice] 21#21: exit
+2022/05/07 10:30:57 [notice] 22#22: exit
+2022/05/07 10:30:57 [notice] 23#23: exit
+2022/05/07 10:30:57 [notice] 24#24: exit
+2022/05/07 10:30:57 [notice] 25#25: exit
+2022/05/07 10:30:57 [notice] 26#26: exit
+2022/05/07 10:30:57 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/07 10:30:57 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:30:57 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/07 10:30:57 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:30:57 [notice] 1#1: exit
+2022/05/07 10:31:01 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:31:01 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:31:01 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:31:01 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:31:01 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:31:01 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:31:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:31:01 [notice] 1#1: start worker processes
+2022/05/07 10:31:01 [notice] 1#1: start worker process 12
+2022/05/07 10:31:01 [notice] 1#1: start worker process 13
+2022/05/07 10:31:01 [notice] 1#1: start worker process 14
+2022/05/07 10:31:01 [notice] 1#1: start worker process 15
+2022/05/07 10:31:01 [notice] 1#1: start worker process 16
+2022/05/07 10:31:01 [notice] 1#1: start worker process 17
+2022/05/07 10:31:01 [notice] 1#1: start worker process 18
+2022/05/07 10:31:01 [notice] 1#1: start worker process 19
+2022/05/07 10:31:01 [notice] 1#1: start worker process 20
+2022/05/07 10:31:01 [notice] 1#1: start worker process 21
+2022/05/07 10:31:01 [notice] 1#1: start worker process 22
+2022/05/07 10:31:01 [notice] 1#1: start worker process 23
+2022/05/07 10:31:01 [notice] 1#1: start worker process 24
+2022/05/07 10:31:01 [notice] 1#1: start worker process 25
+2022/05/07 10:31:01 [notice] 1#1: start worker process 26
+2022/05/07 10:31:01 [notice] 1#1: start worker process 27
+2022/05/07 10:32:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:32:38 [notice] 12#12: gracefully shutting down
+2022/05/07 10:32:38 [notice] 13#13: gracefully shutting down
+2022/05/07 10:32:38 [notice] 15#15: gracefully shutting down
+2022/05/07 10:32:38 [notice] 16#16: gracefully shutting down
+2022/05/07 10:32:38 [notice] 16#16: exiting
+2022/05/07 10:32:38 [notice] 14#14: gracefully shutting down
+2022/05/07 10:32:38 [notice] 16#16: exit
+2022/05/07 10:32:38 [notice] 20#20: gracefully shutting down
+2022/05/07 10:32:38 [notice] 18#18: gracefully shutting down
+2022/05/07 10:32:38 [notice] 17#17: gracefully shutting down
+2022/05/07 10:32:38 [notice] 19#19: gracefully shutting down
+2022/05/07 10:32:38 [notice] 26#26: gracefully shutting down
+2022/05/07 10:32:38 [notice] 21#21: gracefully shutting down
+2022/05/07 10:32:38 [notice] 22#22: gracefully shutting down
+2022/05/07 10:32:38 [notice] 23#23: gracefully shutting down
+2022/05/07 10:32:38 [notice] 24#24: gracefully shutting down
+2022/05/07 10:32:38 [notice] 25#25: gracefully shutting down
+2022/05/07 10:32:38 [notice] 27#27: gracefully shutting down
+2022/05/07 10:32:38 [notice] 12#12: exiting
+2022/05/07 10:32:38 [notice] 13#13: exiting
+2022/05/07 10:32:38 [notice] 15#15: exiting
+2022/05/07 10:32:38 [notice] 14#14: exiting
+2022/05/07 10:32:38 [notice] 20#20: exiting
+2022/05/07 10:32:38 [notice] 18#18: exiting
+2022/05/07 10:32:38 [notice] 17#17: exiting
+2022/05/07 10:32:38 [notice] 19#19: exiting
+2022/05/07 10:32:38 [notice] 26#26: exiting
+2022/05/07 10:32:38 [notice] 21#21: exiting
+2022/05/07 10:32:38 [notice] 22#22: exiting
+2022/05/07 10:32:38 [notice] 23#23: exiting
+2022/05/07 10:32:38 [notice] 22#22: exit
+2022/05/07 10:32:38 [notice] 24#24: exiting
+2022/05/07 10:32:38 [notice] 25#25: exiting
+2022/05/07 10:32:38 [notice] 27#27: exiting
+2022/05/07 10:32:38 [notice] 25#25: exit
+2022/05/07 10:32:38 [notice] 12#12: exit
+2022/05/07 10:32:38 [notice] 13#13: exit
+2022/05/07 10:32:38 [notice] 15#15: exit
+2022/05/07 10:32:38 [notice] 14#14: exit
+2022/05/07 10:32:38 [notice] 20#20: exit
+2022/05/07 10:32:38 [notice] 18#18: exit
+2022/05/07 10:32:38 [notice] 17#17: exit
+2022/05/07 10:32:38 [notice] 19#19: exit
+2022/05/07 10:32:38 [notice] 26#26: exit
+2022/05/07 10:32:38 [notice] 21#21: exit
+2022/05/07 10:32:38 [notice] 23#23: exit
+2022/05/07 10:32:38 [notice] 24#24: exit
+2022/05/07 10:32:38 [notice] 27#27: exit
+2022/05/07 10:32:38 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/07 10:32:38 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:32:38 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/07 10:32:38 [notice] 1#1: signal 17 (SIGCHLD) received from 18
+2022/05/07 10:32:38 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:32:38 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/07 10:32:38 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/07 10:32:38 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:32:38 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/05/07 10:32:38 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/05/07 10:32:38 [notice] 1#1: worker process 27 exited with code 0
+2022/05/07 10:32:38 [notice] 1#1: exit
+2022/05/07 10:32:55 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:32:55 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:32:55 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:32:55 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:32:55 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:32:55 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:32:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:32:55 [notice] 1#1: start worker processes
+2022/05/07 10:32:55 [notice] 1#1: start worker process 12
+2022/05/07 10:32:55 [notice] 1#1: start worker process 13
+2022/05/07 10:32:55 [notice] 1#1: start worker process 14
+2022/05/07 10:32:55 [notice] 1#1: start worker process 15
+2022/05/07 10:32:55 [notice] 1#1: start worker process 16
+2022/05/07 10:32:55 [notice] 1#1: start worker process 17
+2022/05/07 10:32:55 [notice] 1#1: start worker process 18
+2022/05/07 10:32:55 [notice] 1#1: start worker process 19
+2022/05/07 10:32:55 [notice] 1#1: start worker process 20
+2022/05/07 10:32:55 [notice] 1#1: start worker process 21
+2022/05/07 10:32:55 [notice] 1#1: start worker process 22
+2022/05/07 10:32:55 [notice] 1#1: start worker process 23
+2022/05/07 10:32:55 [notice] 1#1: start worker process 24
+2022/05/07 10:32:55 [notice] 1#1: start worker process 25
+2022/05/07 10:32:55 [notice] 1#1: start worker process 26
+2022/05/07 10:32:55 [notice] 1#1: start worker process 27
+2022/05/07 10:33:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:33:23 [notice] 12#12: gracefully shutting down
+2022/05/07 10:33:23 [notice] 13#13: gracefully shutting down
+2022/05/07 10:33:23 [notice] 14#14: gracefully shutting down
+2022/05/07 10:33:23 [notice] 15#15: gracefully shutting down
+2022/05/07 10:33:23 [notice] 17#17: gracefully shutting down
+2022/05/07 10:33:23 [notice] 16#16: gracefully shutting down
+2022/05/07 10:33:23 [notice] 21#21: gracefully shutting down
+2022/05/07 10:33:23 [notice] 18#18: gracefully shutting down
+2022/05/07 10:33:23 [notice] 19#19: gracefully shutting down
+2022/05/07 10:33:23 [notice] 20#20: gracefully shutting down
+2022/05/07 10:33:23 [notice] 22#22: gracefully shutting down
+2022/05/07 10:33:23 [notice] 23#23: gracefully shutting down
+2022/05/07 10:33:23 [notice] 24#24: gracefully shutting down
+2022/05/07 10:33:23 [notice] 25#25: gracefully shutting down
+2022/05/07 10:33:23 [notice] 26#26: gracefully shutting down
+2022/05/07 10:33:23 [notice] 27#27: gracefully shutting down
+2022/05/07 10:33:23 [notice] 13#13: exiting
+2022/05/07 10:33:23 [notice] 14#14: exiting
+2022/05/07 10:33:23 [notice] 15#15: exiting
+2022/05/07 10:33:23 [notice] 17#17: exiting
+2022/05/07 10:33:23 [notice] 16#16: exiting
+2022/05/07 10:33:23 [notice] 21#21: exiting
+2022/05/07 10:33:23 [notice] 16#16: exit
+2022/05/07 10:33:23 [notice] 18#18: exiting
+2022/05/07 10:33:23 [notice] 19#19: exiting
+2022/05/07 10:33:23 [notice] 20#20: exiting
+2022/05/07 10:33:23 [notice] 22#22: exiting
+2022/05/07 10:33:23 [notice] 23#23: exiting
+2022/05/07 10:33:23 [notice] 24#24: exiting
+2022/05/07 10:33:23 [notice] 23#23: exit
+2022/05/07 10:33:23 [notice] 25#25: exiting
+2022/05/07 10:33:23 [notice] 26#26: exiting
+2022/05/07 10:33:23 [notice] 25#25: exit
+2022/05/07 10:33:23 [notice] 27#27: exiting
+2022/05/07 10:33:23 [notice] 13#13: exit
+2022/05/07 10:33:23 [notice] 14#14: exit
+2022/05/07 10:33:23 [notice] 15#15: exit
+2022/05/07 10:33:23 [notice] 17#17: exit
+2022/05/07 10:33:23 [notice] 21#21: exit
+2022/05/07 10:33:23 [notice] 18#18: exit
+2022/05/07 10:33:23 [notice] 19#19: exit
+2022/05/07 10:33:23 [notice] 20#20: exit
+2022/05/07 10:33:23 [notice] 22#22: exit
+2022/05/07 10:33:23 [notice] 24#24: exit
+2022/05/07 10:33:23 [notice] 26#26: exit
+2022/05/07 10:33:23 [notice] 27#27: exit
+2022/05/07 10:33:23 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/07 10:33:23 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 27 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:33:23 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/07 10:33:23 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/07 10:33:23 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:33:23 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:33:23 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/07 10:34:17 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 10:34:17 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 10:34:17 [notice] 1#1: using the "epoll" event method
+2022/05/07 10:34:17 [notice] 1#1: nginx/1.21.6
+2022/05/07 10:34:17 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 10:34:17 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 10:34:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 10:34:17 [notice] 1#1: start worker processes
+2022/05/07 10:34:17 [notice] 1#1: start worker process 11
+2022/05/07 10:34:17 [notice] 1#1: start worker process 12
+2022/05/07 10:34:17 [notice] 1#1: start worker process 13
+2022/05/07 10:34:17 [notice] 1#1: start worker process 14
+2022/05/07 10:34:17 [notice] 1#1: start worker process 15
+2022/05/07 10:34:17 [notice] 1#1: start worker process 16
+2022/05/07 10:34:17 [notice] 1#1: start worker process 17
+2022/05/07 10:34:17 [notice] 1#1: start worker process 18
+2022/05/07 10:34:17 [notice] 1#1: start worker process 19
+2022/05/07 10:34:17 [notice] 1#1: start worker process 20
+2022/05/07 10:34:17 [notice] 1#1: start worker process 21
+2022/05/07 10:34:17 [notice] 1#1: start worker process 22
+2022/05/07 10:34:17 [notice] 1#1: start worker process 23
+2022/05/07 10:34:17 [notice] 1#1: start worker process 24
+2022/05/07 10:34:17 [notice] 1#1: start worker process 25
+2022/05/07 10:34:17 [notice] 1#1: start worker process 26
+2022/05/07 10:42:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 10:42:50 [notice] 11#11: gracefully shutting down
+2022/05/07 10:42:50 [notice] 12#12: gracefully shutting down
+2022/05/07 10:42:50 [notice] 13#13: gracefully shutting down
+2022/05/07 10:42:50 [notice] 13#13: exiting
+2022/05/07 10:42:50 [notice] 15#15: gracefully shutting down
+2022/05/07 10:42:50 [notice] 13#13: exit
+2022/05/07 10:42:50 [notice] 16#16: gracefully shutting down
+2022/05/07 10:42:50 [notice] 14#14: gracefully shutting down
+2022/05/07 10:42:50 [notice] 17#17: gracefully shutting down
+2022/05/07 10:42:50 [notice] 19#19: gracefully shutting down
+2022/05/07 10:42:50 [notice] 18#18: gracefully shutting down
+2022/05/07 10:42:50 [notice] 20#20: gracefully shutting down
+2022/05/07 10:42:50 [notice] 22#22: gracefully shutting down
+2022/05/07 10:42:50 [notice] 21#21: gracefully shutting down
+2022/05/07 10:42:50 [notice] 23#23: gracefully shutting down
+2022/05/07 10:42:50 [notice] 24#24: gracefully shutting down
+2022/05/07 10:42:50 [notice] 26#26: gracefully shutting down
+2022/05/07 10:42:50 [notice] 25#25: gracefully shutting down
+2022/05/07 10:42:50 [notice] 11#11: exiting
+2022/05/07 10:42:50 [notice] 12#12: exiting
+2022/05/07 10:42:50 [notice] 15#15: exiting
+2022/05/07 10:42:50 [notice] 16#16: exiting
+2022/05/07 10:42:50 [notice] 14#14: exiting
+2022/05/07 10:42:50 [notice] 17#17: exiting
+2022/05/07 10:42:50 [notice] 14#14: exit
+2022/05/07 10:42:50 [notice] 19#19: exiting
+2022/05/07 10:42:50 [notice] 18#18: exiting
+2022/05/07 10:42:50 [notice] 20#20: exiting
+2022/05/07 10:42:50 [notice] 18#18: exit
+2022/05/07 10:42:50 [notice] 22#22: exiting
+2022/05/07 10:42:50 [notice] 21#21: exiting
+2022/05/07 10:42:50 [notice] 22#22: exit
+2022/05/07 10:42:50 [notice] 23#23: exiting
+2022/05/07 10:42:50 [notice] 24#24: exiting
+2022/05/07 10:42:50 [notice] 26#26: exiting
+2022/05/07 10:42:50 [notice] 25#25: exiting
+2022/05/07 10:42:50 [notice] 11#11: exit
+2022/05/07 10:42:50 [notice] 12#12: exit
+2022/05/07 10:42:50 [notice] 15#15: exit
+2022/05/07 10:42:50 [notice] 16#16: exit
+2022/05/07 10:42:50 [notice] 17#17: exit
+2022/05/07 10:42:50 [notice] 19#19: exit
+2022/05/07 10:42:50 [notice] 20#20: exit
+2022/05/07 10:42:50 [notice] 21#21: exit
+2022/05/07 10:42:50 [notice] 23#23: exit
+2022/05/07 10:42:50 [notice] 24#24: exit
+2022/05/07 10:42:50 [notice] 26#26: exit
+2022/05/07 10:42:50 [notice] 25#25: exit
+2022/05/07 10:42:50 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/07 10:42:50 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:42:50 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/07 10:42:50 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:42:50 [notice] 1#1: signal 17 (SIGCHLD) received from 18
+2022/05/07 10:42:50 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/07 10:42:50 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 10:42:50 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/07 10:42:50 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 10:42:50 [notice] 1#1: exit
+2022/05/07 15:35:40 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 15:35:40 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 15:35:40 [notice] 1#1: using the "epoll" event method
+2022/05/07 15:35:40 [notice] 1#1: nginx/1.21.6
+2022/05/07 15:35:40 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 15:35:40 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 15:35:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 15:35:40 [notice] 1#1: start worker processes
+2022/05/07 15:35:40 [notice] 1#1: start worker process 11
+2022/05/07 15:35:40 [notice] 1#1: start worker process 12
+2022/05/07 15:35:40 [notice] 1#1: start worker process 13
+2022/05/07 15:35:40 [notice] 1#1: start worker process 14
+2022/05/07 15:35:40 [notice] 1#1: start worker process 15
+2022/05/07 15:35:40 [notice] 1#1: start worker process 16
+2022/05/07 15:35:40 [notice] 1#1: start worker process 17
+2022/05/07 15:35:40 [notice] 1#1: start worker process 18
+2022/05/07 15:35:40 [notice] 1#1: start worker process 19
+2022/05/07 15:35:40 [notice] 1#1: start worker process 20
+2022/05/07 15:35:40 [notice] 1#1: start worker process 21
+2022/05/07 15:35:40 [notice] 1#1: start worker process 22
+2022/05/07 15:35:40 [notice] 1#1: start worker process 23
+2022/05/07 15:35:40 [notice] 1#1: start worker process 24
+2022/05/07 15:35:40 [notice] 1#1: start worker process 25
+2022/05/07 15:35:40 [notice] 1#1: start worker process 26
+2022/05/07 15:42:46 [error] 19#19: *12 open() "/var/www/html/set/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: set.local, request: "GET /favicon.ico HTTP/1.1", host: "set.local", referrer: "http://set.local/"
+2022/05/07 16:08:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 16:08:41 [notice] 12#12: gracefully shutting down
+2022/05/07 16:08:41 [notice] 13#13: gracefully shutting down
+2022/05/07 16:08:41 [notice] 11#11: gracefully shutting down
+2022/05/07 16:08:41 [notice] 14#14: gracefully shutting down
+2022/05/07 16:08:41 [notice] 16#16: gracefully shutting down
+2022/05/07 16:08:41 [notice] 15#15: gracefully shutting down
+2022/05/07 16:08:41 [notice] 18#18: gracefully shutting down
+2022/05/07 16:08:41 [notice] 19#19: gracefully shutting down
+2022/05/07 16:08:41 [notice] 19#19: exiting
+2022/05/07 16:08:41 [notice] 20#20: gracefully shutting down
+2022/05/07 16:08:41 [notice] 21#21: gracefully shutting down
+2022/05/07 16:08:41 [notice] 17#17: gracefully shutting down
+2022/05/07 16:08:41 [notice] 22#22: gracefully shutting down
+2022/05/07 16:08:41 [notice] 23#23: gracefully shutting down
+2022/05/07 16:08:41 [notice] 25#25: gracefully shutting down
+2022/05/07 16:08:41 [notice] 24#24: gracefully shutting down
+2022/05/07 16:08:41 [notice] 26#26: gracefully shutting down
+2022/05/07 16:08:41 [notice] 12#12: exiting
+2022/05/07 16:08:41 [notice] 13#13: exiting
+2022/05/07 16:08:41 [notice] 11#11: exiting
+2022/05/07 16:08:41 [notice] 13#13: exit
+2022/05/07 16:08:41 [notice] 14#14: exiting
+2022/05/07 16:08:41 [notice] 16#16: exiting
+2022/05/07 16:08:41 [notice] 14#14: exit
+2022/05/07 16:08:41 [notice] 15#15: exiting
+2022/05/07 16:08:41 [notice] 18#18: exiting
+2022/05/07 16:08:41 [notice] 19#19: exit
+2022/05/07 16:08:41 [notice] 20#20: exiting
+2022/05/07 16:08:41 [notice] 21#21: exiting
+2022/05/07 16:08:41 [notice] 17#17: exiting
+2022/05/07 16:08:41 [notice] 22#22: exiting
+2022/05/07 16:08:41 [notice] 17#17: exit
+2022/05/07 16:08:41 [notice] 23#23: exiting
+2022/05/07 16:08:41 [notice] 25#25: exiting
+2022/05/07 16:08:41 [notice] 24#24: exiting
+2022/05/07 16:08:41 [notice] 26#26: exiting
+2022/05/07 16:08:41 [notice] 12#12: exit
+2022/05/07 16:08:41 [notice] 11#11: exit
+2022/05/07 16:08:41 [notice] 16#16: exit
+2022/05/07 16:08:41 [notice] 15#15: exit
+2022/05/07 16:08:41 [notice] 18#18: exit
+2022/05/07 16:08:41 [notice] 20#20: exit
+2022/05/07 16:08:41 [notice] 21#21: exit
+2022/05/07 16:08:41 [notice] 22#22: exit
+2022/05/07 16:08:41 [notice] 23#23: exit
+2022/05/07 16:08:41 [notice] 25#25: exit
+2022/05/07 16:08:41 [notice] 24#24: exit
+2022/05/07 16:08:41 [notice] 26#26: exit
+2022/05/07 16:08:41 [notice] 1#1: signal 17 (SIGCHLD) received from 19
+2022/05/07 16:08:41 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:08:41 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/07 16:08:41 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/07 16:08:41 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 16:08:41 [notice] 1#1: exit
+2022/05/07 16:08:52 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 16:08:52 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 16:08:52 [notice] 1#1: using the "epoll" event method
+2022/05/07 16:08:52 [notice] 1#1: nginx/1.21.6
+2022/05/07 16:08:52 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 16:08:52 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 16:08:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 16:08:52 [notice] 1#1: start worker processes
+2022/05/07 16:08:52 [notice] 1#1: start worker process 11
+2022/05/07 16:08:52 [notice] 1#1: start worker process 12
+2022/05/07 16:08:52 [notice] 1#1: start worker process 13
+2022/05/07 16:08:52 [notice] 1#1: start worker process 14
+2022/05/07 16:08:52 [notice] 1#1: start worker process 15
+2022/05/07 16:08:52 [notice] 1#1: start worker process 16
+2022/05/07 16:08:52 [notice] 1#1: start worker process 17
+2022/05/07 16:08:52 [notice] 1#1: start worker process 18
+2022/05/07 16:08:52 [notice] 1#1: start worker process 19
+2022/05/07 16:08:52 [notice] 1#1: start worker process 20
+2022/05/07 16:08:52 [notice] 1#1: start worker process 21
+2022/05/07 16:08:52 [notice] 1#1: start worker process 22
+2022/05/07 16:08:52 [notice] 1#1: start worker process 23
+2022/05/07 16:08:52 [notice] 1#1: start worker process 24
+2022/05/07 16:08:52 [notice] 1#1: start worker process 25
+2022/05/07 16:08:52 [notice] 1#1: start worker process 26
+2022/05/07 16:09:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 16:09:25 [notice] 11#11: gracefully shutting down
+2022/05/07 16:09:25 [notice] 12#12: gracefully shutting down
+2022/05/07 16:09:25 [notice] 13#13: gracefully shutting down
+2022/05/07 16:09:25 [notice] 14#14: gracefully shutting down
+2022/05/07 16:09:25 [notice] 16#16: gracefully shutting down
+2022/05/07 16:09:25 [notice] 15#15: gracefully shutting down
+2022/05/07 16:09:25 [notice] 17#17: gracefully shutting down
+2022/05/07 16:09:25 [notice] 18#18: gracefully shutting down
+2022/05/07 16:09:25 [notice] 19#19: gracefully shutting down
+2022/05/07 16:09:25 [notice] 20#20: gracefully shutting down
+2022/05/07 16:09:25 [notice] 21#21: gracefully shutting down
+2022/05/07 16:09:25 [notice] 22#22: gracefully shutting down
+2022/05/07 16:09:25 [notice] 23#23: gracefully shutting down
+2022/05/07 16:09:25 [notice] 24#24: gracefully shutting down
+2022/05/07 16:09:25 [notice] 25#25: gracefully shutting down
+2022/05/07 16:09:25 [notice] 26#26: gracefully shutting down
+2022/05/07 16:09:25 [notice] 11#11: exiting
+2022/05/07 16:09:25 [notice] 13#13: exiting
+2022/05/07 16:09:25 [notice] 14#14: exiting
+2022/05/07 16:09:25 [notice] 16#16: exiting
+2022/05/07 16:09:25 [notice] 15#15: exiting
+2022/05/07 16:09:25 [notice] 17#17: exiting
+2022/05/07 16:09:25 [notice] 18#18: exiting
+2022/05/07 16:09:25 [notice] 19#19: exiting
+2022/05/07 16:09:25 [notice] 20#20: exiting
+2022/05/07 16:09:25 [notice] 21#21: exiting
+2022/05/07 16:09:25 [notice] 22#22: exiting
+2022/05/07 16:09:25 [notice] 23#23: exiting
+2022/05/07 16:09:25 [notice] 24#24: exiting
+2022/05/07 16:09:25 [notice] 25#25: exiting
+2022/05/07 16:09:25 [notice] 26#26: exiting
+2022/05/07 16:09:25 [notice] 11#11: exit
+2022/05/07 16:09:25 [notice] 13#13: exit
+2022/05/07 16:09:25 [notice] 14#14: exit
+2022/05/07 16:09:25 [notice] 16#16: exit
+2022/05/07 16:09:25 [notice] 15#15: exit
+2022/05/07 16:09:25 [notice] 17#17: exit
+2022/05/07 16:09:25 [notice] 18#18: exit
+2022/05/07 16:09:25 [notice] 19#19: exit
+2022/05/07 16:09:25 [notice] 20#20: exit
+2022/05/07 16:09:25 [notice] 21#21: exit
+2022/05/07 16:09:25 [notice] 22#22: exit
+2022/05/07 16:09:25 [notice] 23#23: exit
+2022/05/07 16:09:25 [notice] 24#24: exit
+2022/05/07 16:09:25 [notice] 25#25: exit
+2022/05/07 16:09:25 [notice] 26#26: exit
+2022/05/07 16:09:25 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/07 16:09:25 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 16:09:25 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 16:09:25 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 16:09:25 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 16:09:25 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:09:26 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/07 16:09:26 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:09:26 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/07 16:09:26 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:09:26 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/07 16:09:26 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:09:26 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/07 16:09:26 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 16:09:26 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:09:44 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 16:09:44 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 16:09:44 [notice] 1#1: using the "epoll" event method
+2022/05/07 16:09:44 [notice] 1#1: nginx/1.21.6
+2022/05/07 16:09:44 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 16:09:44 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 16:09:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 16:09:44 [notice] 1#1: start worker processes
+2022/05/07 16:09:44 [notice] 1#1: start worker process 12
+2022/05/07 16:09:44 [notice] 1#1: start worker process 13
+2022/05/07 16:09:44 [notice] 1#1: start worker process 14
+2022/05/07 16:09:44 [notice] 1#1: start worker process 15
+2022/05/07 16:09:44 [notice] 1#1: start worker process 16
+2022/05/07 16:09:44 [notice] 1#1: start worker process 17
+2022/05/07 16:09:44 [notice] 1#1: start worker process 18
+2022/05/07 16:09:44 [notice] 1#1: start worker process 19
+2022/05/07 16:09:44 [notice] 1#1: start worker process 20
+2022/05/07 16:09:44 [notice] 1#1: start worker process 21
+2022/05/07 16:09:44 [notice] 1#1: start worker process 22
+2022/05/07 16:09:44 [notice] 1#1: start worker process 23
+2022/05/07 16:09:44 [notice] 1#1: start worker process 24
+2022/05/07 16:09:44 [notice] 1#1: start worker process 25
+2022/05/07 16:09:44 [notice] 1#1: start worker process 26
+2022/05/07 16:09:44 [notice] 1#1: start worker process 27
+2022/05/07 16:11:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 16:11:52 [notice] 12#12: gracefully shutting down
+2022/05/07 16:11:52 [notice] 12#12: exiting
+2022/05/07 16:11:52 [notice] 13#13: gracefully shutting down
+2022/05/07 16:11:52 [notice] 14#14: gracefully shutting down
+2022/05/07 16:11:52 [notice] 15#15: gracefully shutting down
+2022/05/07 16:11:52 [notice] 16#16: gracefully shutting down
+2022/05/07 16:11:52 [notice] 17#17: gracefully shutting down
+2022/05/07 16:11:52 [notice] 18#18: gracefully shutting down
+2022/05/07 16:11:52 [notice] 19#19: gracefully shutting down
+2022/05/07 16:11:52 [notice] 20#20: gracefully shutting down
+2022/05/07 16:11:52 [notice] 20#20: exiting
+2022/05/07 16:11:52 [notice] 21#21: gracefully shutting down
+2022/05/07 16:11:52 [notice] 22#22: gracefully shutting down
+2022/05/07 16:11:52 [notice] 23#23: gracefully shutting down
+2022/05/07 16:11:52 [notice] 24#24: gracefully shutting down
+2022/05/07 16:11:52 [notice] 25#25: gracefully shutting down
+2022/05/07 16:11:52 [notice] 25#25: exiting
+2022/05/07 16:11:52 [notice] 26#26: gracefully shutting down
+2022/05/07 16:11:52 [notice] 27#27: gracefully shutting down
+2022/05/07 16:11:52 [notice] 13#13: exiting
+2022/05/07 16:11:52 [notice] 12#12: exit
+2022/05/07 16:11:52 [notice] 14#14: exiting
+2022/05/07 16:11:52 [notice] 15#15: exiting
+2022/05/07 16:11:52 [notice] 16#16: exiting
+2022/05/07 16:11:52 [notice] 17#17: exiting
+2022/05/07 16:11:52 [notice] 18#18: exiting
+2022/05/07 16:11:52 [notice] 19#19: exiting
+2022/05/07 16:11:52 [notice] 18#18: exit
+2022/05/07 16:11:52 [notice] 21#21: exiting
+2022/05/07 16:11:52 [notice] 20#20: exit
+2022/05/07 16:11:52 [notice] 21#21: exit
+2022/05/07 16:11:52 [notice] 22#22: exiting
+2022/05/07 16:11:52 [notice] 23#23: exiting
+2022/05/07 16:11:52 [notice] 24#24: exiting
+2022/05/07 16:11:52 [notice] 23#23: exit
+2022/05/07 16:11:52 [notice] 26#26: exiting
+2022/05/07 16:11:52 [notice] 27#27: exiting
+2022/05/07 16:11:52 [notice] 25#25: exit
+2022/05/07 16:11:52 [notice] 13#13: exit
+2022/05/07 16:11:52 [notice] 14#14: exit
+2022/05/07 16:11:52 [notice] 15#15: exit
+2022/05/07 16:11:52 [notice] 16#16: exit
+2022/05/07 16:11:52 [notice] 17#17: exit
+2022/05/07 16:11:52 [notice] 19#19: exit
+2022/05/07 16:11:52 [notice] 22#22: exit
+2022/05/07 16:11:52 [notice] 24#24: exit
+2022/05/07 16:11:52 [notice] 26#26: exit
+2022/05/07 16:11:52 [notice] 27#27: exit
+2022/05/07 16:11:52 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/07 16:11:52 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:11:52 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/07 16:11:52 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/07 16:11:52 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:11:52 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/05/07 16:11:52 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: worker process 27 exited with code 0
+2022/05/07 16:11:52 [notice] 1#1: exit
+2022/05/07 16:11:57 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 16:11:57 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 16:11:57 [notice] 1#1: using the "epoll" event method
+2022/05/07 16:11:57 [notice] 1#1: nginx/1.21.6
+2022/05/07 16:11:57 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 16:11:57 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 16:11:57 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 16:11:57 [notice] 1#1: start worker processes
+2022/05/07 16:11:57 [notice] 1#1: start worker process 11
+2022/05/07 16:11:57 [notice] 1#1: start worker process 12
+2022/05/07 16:11:57 [notice] 1#1: start worker process 13
+2022/05/07 16:11:57 [notice] 1#1: start worker process 14
+2022/05/07 16:11:57 [notice] 1#1: start worker process 15
+2022/05/07 16:11:57 [notice] 1#1: start worker process 16
+2022/05/07 16:11:57 [notice] 1#1: start worker process 17
+2022/05/07 16:11:57 [notice] 1#1: start worker process 18
+2022/05/07 16:11:57 [notice] 1#1: start worker process 19
+2022/05/07 16:11:57 [notice] 1#1: start worker process 20
+2022/05/07 16:11:57 [notice] 1#1: start worker process 21
+2022/05/07 16:11:57 [notice] 1#1: start worker process 22
+2022/05/07 16:11:57 [notice] 1#1: start worker process 23
+2022/05/07 16:11:57 [notice] 1#1: start worker process 24
+2022/05/07 16:11:57 [notice] 1#1: start worker process 25
+2022/05/07 16:11:57 [notice] 1#1: start worker process 26
+2022/05/07 16:24:55 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 16:24:55 [notice] 11#11: gracefully shutting down
+2022/05/07 16:24:55 [notice] 12#12: gracefully shutting down
+2022/05/07 16:24:55 [notice] 13#13: gracefully shutting down
+2022/05/07 16:24:55 [notice] 14#14: gracefully shutting down
+2022/05/07 16:24:55 [notice] 15#15: gracefully shutting down
+2022/05/07 16:24:55 [notice] 17#17: gracefully shutting down
+2022/05/07 16:24:55 [notice] 16#16: gracefully shutting down
+2022/05/07 16:24:55 [notice] 18#18: gracefully shutting down
+2022/05/07 16:24:55 [notice] 19#19: gracefully shutting down
+2022/05/07 16:24:55 [notice] 20#20: gracefully shutting down
+2022/05/07 16:24:55 [notice] 21#21: gracefully shutting down
+2022/05/07 16:24:55 [notice] 22#22: gracefully shutting down
+2022/05/07 16:24:55 [notice] 23#23: gracefully shutting down
+2022/05/07 16:24:55 [notice] 24#24: gracefully shutting down
+2022/05/07 16:24:55 [notice] 25#25: gracefully shutting down
+2022/05/07 16:24:55 [notice] 26#26: gracefully shutting down
+2022/05/07 16:24:55 [notice] 11#11: exiting
+2022/05/07 16:24:55 [notice] 12#12: exiting
+2022/05/07 16:24:55 [notice] 13#13: exiting
+2022/05/07 16:24:55 [notice] 14#14: exiting
+2022/05/07 16:24:55 [notice] 13#13: exit
+2022/05/07 16:24:55 [notice] 15#15: exiting
+2022/05/07 16:24:55 [notice] 17#17: exiting
+2022/05/07 16:24:55 [notice] 16#16: exiting
+2022/05/07 16:24:55 [notice] 18#18: exiting
+2022/05/07 16:24:55 [notice] 19#19: exiting
+2022/05/07 16:24:55 [notice] 18#18: exit
+2022/05/07 16:24:55 [notice] 20#20: exiting
+2022/05/07 16:24:55 [notice] 21#21: exiting
+2022/05/07 16:24:55 [notice] 22#22: exiting
+2022/05/07 16:24:55 [notice] 23#23: exiting
+2022/05/07 16:24:55 [notice] 21#21: exit
+2022/05/07 16:24:55 [notice] 24#24: exiting
+2022/05/07 16:24:55 [notice] 25#25: exiting
+2022/05/07 16:24:55 [notice] 26#26: exiting
+2022/05/07 16:24:55 [notice] 11#11: exit
+2022/05/07 16:24:55 [notice] 12#12: exit
+2022/05/07 16:24:55 [notice] 14#14: exit
+2022/05/07 16:24:55 [notice] 15#15: exit
+2022/05/07 16:24:55 [notice] 17#17: exit
+2022/05/07 16:24:55 [notice] 16#16: exit
+2022/05/07 16:24:55 [notice] 19#19: exit
+2022/05/07 16:24:55 [notice] 20#20: exit
+2022/05/07 16:24:55 [notice] 22#22: exit
+2022/05/07 16:24:55 [notice] 23#23: exit
+2022/05/07 16:24:55 [notice] 24#24: exit
+2022/05/07 16:24:55 [notice] 25#25: exit
+2022/05/07 16:24:55 [notice] 26#26: exit
+2022/05/07 16:24:55 [notice] 1#1: signal 17 (SIGCHLD) received from 19
+2022/05/07 16:24:55 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:24:55 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/05/07 16:24:55 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 16:24:55 [notice] 1#1: exit
+2022/05/07 16:24:58 [warn] 1#1: conflicting server name "set.local" on 0.0.0.0:80, ignored
+2022/05/07 16:24:58 [warn] 1#1: conflicting server name "set.local" on [::]:80, ignored
+2022/05/07 16:24:58 [notice] 1#1: using the "epoll" event method
+2022/05/07 16:24:58 [notice] 1#1: nginx/1.21.6
+2022/05/07 16:24:58 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 16:24:58 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 16:24:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 16:24:58 [notice] 1#1: start worker processes
+2022/05/07 16:24:58 [notice] 1#1: start worker process 11
+2022/05/07 16:24:58 [notice] 1#1: start worker process 12
+2022/05/07 16:24:58 [notice] 1#1: start worker process 13
+2022/05/07 16:24:58 [notice] 1#1: start worker process 14
+2022/05/07 16:24:58 [notice] 1#1: start worker process 15
+2022/05/07 16:24:58 [notice] 1#1: start worker process 16
+2022/05/07 16:24:58 [notice] 1#1: start worker process 17
+2022/05/07 16:24:58 [notice] 1#1: start worker process 18
+2022/05/07 16:24:58 [notice] 1#1: start worker process 19
+2022/05/07 16:24:58 [notice] 1#1: start worker process 20
+2022/05/07 16:24:58 [notice] 1#1: start worker process 21
+2022/05/07 16:24:58 [notice] 1#1: start worker process 22
+2022/05/07 16:24:58 [notice] 1#1: start worker process 23
+2022/05/07 16:24:58 [notice] 1#1: start worker process 24
+2022/05/07 16:24:58 [notice] 1#1: start worker process 25
+2022/05/07 16:24:58 [notice] 1#1: start worker process 26
+2022/05/07 16:53:09 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 16:53:09 [notice] 11#11: gracefully shutting down
+2022/05/07 16:53:09 [notice] 25#25: gracefully shutting down
+2022/05/07 16:53:09 [notice] 12#12: gracefully shutting down
+2022/05/07 16:53:09 [notice] 13#13: gracefully shutting down
+2022/05/07 16:53:09 [notice] 15#15: gracefully shutting down
+2022/05/07 16:53:09 [notice] 14#14: gracefully shutting down
+2022/05/07 16:53:09 [notice] 16#16: gracefully shutting down
+2022/05/07 16:53:09 [notice] 17#17: gracefully shutting down
+2022/05/07 16:53:09 [notice] 18#18: gracefully shutting down
+2022/05/07 16:53:09 [notice] 20#20: gracefully shutting down
+2022/05/07 16:53:09 [notice] 19#19: gracefully shutting down
+2022/05/07 16:53:09 [notice] 21#21: gracefully shutting down
+2022/05/07 16:53:09 [notice] 22#22: gracefully shutting down
+2022/05/07 16:53:09 [notice] 23#23: gracefully shutting down
+2022/05/07 16:53:09 [notice] 24#24: gracefully shutting down
+2022/05/07 16:53:09 [notice] 26#26: gracefully shutting down
+2022/05/07 16:53:09 [notice] 11#11: exiting
+2022/05/07 16:53:09 [notice] 25#25: exiting
+2022/05/07 16:53:09 [notice] 12#12: exiting
+2022/05/07 16:53:09 [notice] 13#13: exiting
+2022/05/07 16:53:09 [notice] 15#15: exiting
+2022/05/07 16:53:09 [notice] 14#14: exiting
+2022/05/07 16:53:09 [notice] 16#16: exiting
+2022/05/07 16:53:09 [notice] 17#17: exiting
+2022/05/07 16:53:09 [notice] 18#18: exiting
+2022/05/07 16:53:09 [notice] 20#20: exiting
+2022/05/07 16:53:09 [notice] 19#19: exiting
+2022/05/07 16:53:09 [notice] 21#21: exiting
+2022/05/07 16:53:09 [notice] 23#23: exiting
+2022/05/07 16:53:09 [notice] 24#24: exiting
+2022/05/07 16:53:09 [notice] 26#26: exiting
+2022/05/07 16:53:09 [notice] 11#11: exit
+2022/05/07 16:53:09 [notice] 25#25: exit
+2022/05/07 16:53:09 [notice] 12#12: exit
+2022/05/07 16:53:09 [notice] 13#13: exit
+2022/05/07 16:53:09 [notice] 15#15: exit
+2022/05/07 16:53:09 [notice] 14#14: exit
+2022/05/07 16:53:09 [notice] 16#16: exit
+2022/05/07 16:53:09 [notice] 17#17: exit
+2022/05/07 16:53:09 [notice] 18#18: exit
+2022/05/07 16:53:09 [notice] 20#20: exit
+2022/05/07 16:53:09 [notice] 19#19: exit
+2022/05/07 16:53:09 [notice] 21#21: exit
+2022/05/07 16:53:09 [notice] 23#23: exit
+2022/05/07 16:53:09 [notice] 24#24: exit
+2022/05/07 16:53:09 [notice] 26#26: exit
+2022/05/07 16:53:09 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/07 16:53:09 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 24 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 26 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:53:09 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/05/07 16:53:09 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/07 16:53:09 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: worker process 25 exited with code 0
+2022/05/07 16:53:09 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 16:53:09 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/07 16:53:58 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:53:59 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:53:59 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:54:00 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:54:01 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:54:03 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:54:07 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:54:14 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:54:27 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:54:53 [emerg] 1#1: open() "/etc/nginx/conf.d/set.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/csystem.conf:1
+2022/05/07 16:55:40 [notice] 1#1: using the "epoll" event method
+2022/05/07 16:55:40 [notice] 1#1: nginx/1.21.6
+2022/05/07 16:55:40 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/07 16:55:40 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/07 16:55:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/07 16:55:40 [notice] 1#1: start worker processes
+2022/05/07 16:55:40 [notice] 1#1: start worker process 8
+2022/05/07 16:55:40 [notice] 1#1: start worker process 9
+2022/05/07 16:55:40 [notice] 1#1: start worker process 10
+2022/05/07 16:55:40 [notice] 1#1: start worker process 11
+2022/05/07 16:55:40 [notice] 1#1: start worker process 12
+2022/05/07 16:55:40 [notice] 1#1: start worker process 13
+2022/05/07 16:55:40 [notice] 1#1: start worker process 14
+2022/05/07 16:55:40 [notice] 1#1: start worker process 15
+2022/05/07 16:55:40 [notice] 1#1: start worker process 16
+2022/05/07 16:55:40 [notice] 1#1: start worker process 17
+2022/05/07 16:55:40 [notice] 1#1: start worker process 18
+2022/05/07 16:55:40 [notice] 1#1: start worker process 19
+2022/05/07 16:55:40 [notice] 1#1: start worker process 20
+2022/05/07 16:55:40 [notice] 1#1: start worker process 21
+2022/05/07 16:55:40 [notice] 1#1: start worker process 22
+2022/05/07 16:55:40 [notice] 1#1: start worker process 23
+2022/05/07 17:25:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/07 17:25:10 [notice] 8#8: gracefully shutting down
+2022/05/07 17:25:10 [notice] 9#9: gracefully shutting down
+2022/05/07 17:25:10 [notice] 10#10: gracefully shutting down
+2022/05/07 17:25:10 [notice] 11#11: gracefully shutting down
+2022/05/07 17:25:10 [notice] 12#12: gracefully shutting down
+2022/05/07 17:25:10 [notice] 13#13: gracefully shutting down
+2022/05/07 17:25:10 [notice] 15#15: gracefully shutting down
+2022/05/07 17:25:10 [notice] 16#16: gracefully shutting down
+2022/05/07 17:25:10 [notice] 17#17: gracefully shutting down
+2022/05/07 17:25:10 [notice] 18#18: gracefully shutting down
+2022/05/07 17:25:10 [notice] 19#19: gracefully shutting down
+2022/05/07 17:25:10 [notice] 14#14: gracefully shutting down
+2022/05/07 17:25:10 [notice] 20#20: gracefully shutting down
+2022/05/07 17:25:10 [notice] 21#21: gracefully shutting down
+2022/05/07 17:25:10 [notice] 22#22: gracefully shutting down
+2022/05/07 17:25:10 [notice] 23#23: gracefully shutting down
+2022/05/07 17:25:10 [notice] 8#8: exiting
+2022/05/07 17:25:10 [notice] 9#9: exiting
+2022/05/07 17:25:10 [notice] 8#8: exit
+2022/05/07 17:25:10 [notice] 10#10: exiting
+2022/05/07 17:25:10 [notice] 11#11: exiting
+2022/05/07 17:25:10 [notice] 12#12: exiting
+2022/05/07 17:25:10 [notice] 13#13: exiting
+2022/05/07 17:25:10 [notice] 12#12: exit
+2022/05/07 17:25:10 [notice] 15#15: exiting
+2022/05/07 17:25:10 [notice] 16#16: exiting
+2022/05/07 17:25:10 [notice] 17#17: exiting
+2022/05/07 17:25:10 [notice] 18#18: exiting
+2022/05/07 17:25:10 [notice] 19#19: exiting
+2022/05/07 17:25:10 [notice] 14#14: exiting
+2022/05/07 17:25:10 [notice] 20#20: exiting
+2022/05/07 17:25:10 [notice] 21#21: exiting
+2022/05/07 17:25:10 [notice] 22#22: exiting
+2022/05/07 17:25:10 [notice] 23#23: exiting
+2022/05/07 17:25:10 [notice] 9#9: exit
+2022/05/07 17:25:10 [notice] 10#10: exit
+2022/05/07 17:25:10 [notice] 11#11: exit
+2022/05/07 17:25:10 [notice] 13#13: exit
+2022/05/07 17:25:10 [notice] 15#15: exit
+2022/05/07 17:25:10 [notice] 16#16: exit
+2022/05/07 17:25:10 [notice] 17#17: exit
+2022/05/07 17:25:10 [notice] 18#18: exit
+2022/05/07 17:25:10 [notice] 19#19: exit
+2022/05/07 17:25:10 [notice] 14#14: exit
+2022/05/07 17:25:10 [notice] 20#20: exit
+2022/05/07 17:25:10 [notice] 21#21: exit
+2022/05/07 17:25:10 [notice] 22#22: exit
+2022/05/07 17:25:10 [notice] 23#23: exit
+2022/05/07 17:25:10 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/07 17:25:10 [notice] 1#1: worker process 9 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 11 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 15 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 17 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 17:25:10 [notice] 1#1: signal 17 (SIGCHLD) received from 8
+2022/05/07 17:25:10 [notice] 1#1: worker process 8 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 13 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 18 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 21 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 22 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/07 17:25:10 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/07 17:25:10 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/07 17:25:10 [notice] 1#1: worker process 10 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 12 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 14 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 16 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 19 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 20 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: worker process 23 exited with code 0
+2022/05/07 17:25:10 [notice] 1#1: exit
+2022/05/08 04:07:44 [notice] 1#1: using the "epoll" event method
+2022/05/08 04:07:44 [notice] 1#1: nginx/1.21.6
+2022/05/08 04:07:44 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 04:07:44 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 04:07:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 04:07:44 [notice] 1#1: start worker processes
+2022/05/08 04:07:44 [notice] 1#1: start worker process 8
+2022/05/08 04:07:44 [notice] 1#1: start worker process 9
+2022/05/08 04:07:44 [notice] 1#1: start worker process 10
+2022/05/08 04:07:44 [notice] 1#1: start worker process 11
+2022/05/08 04:07:44 [notice] 1#1: start worker process 12
+2022/05/08 04:07:44 [notice] 1#1: start worker process 13
+2022/05/08 04:07:44 [notice] 1#1: start worker process 14
+2022/05/08 04:07:44 [notice] 1#1: start worker process 15
+2022/05/08 04:07:44 [notice] 1#1: start worker process 16
+2022/05/08 04:07:44 [notice] 1#1: start worker process 17
+2022/05/08 04:07:44 [notice] 1#1: start worker process 18
+2022/05/08 04:07:44 [notice] 1#1: start worker process 19
+2022/05/08 04:07:44 [notice] 1#1: start worker process 20
+2022/05/08 04:07:44 [notice] 1#1: start worker process 21
+2022/05/08 04:07:44 [notice] 1#1: start worker process 22
+2022/05/08 04:07:44 [notice] 1#1: start worker process 23
+2022/05/08 10:55:00 [notice] 1#1: using the "epoll" event method
+2022/05/08 10:55:00 [notice] 1#1: nginx/1.21.6
+2022/05/08 10:55:00 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 10:55:00 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 10:55:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 10:55:00 [notice] 1#1: start worker processes
+2022/05/08 10:55:00 [notice] 1#1: start worker process 8
+2022/05/08 10:55:00 [notice] 1#1: start worker process 9
+2022/05/08 10:55:00 [notice] 1#1: start worker process 10
+2022/05/08 10:55:00 [notice] 1#1: start worker process 11
+2022/05/08 10:55:00 [notice] 1#1: start worker process 12
+2022/05/08 10:55:00 [notice] 1#1: start worker process 13
+2022/05/08 10:55:00 [notice] 1#1: start worker process 14
+2022/05/08 10:55:00 [notice] 1#1: start worker process 15
+2022/05/08 10:55:00 [notice] 1#1: start worker process 16
+2022/05/08 10:55:00 [notice] 1#1: start worker process 17
+2022/05/08 10:55:00 [notice] 1#1: start worker process 18
+2022/05/08 10:55:00 [notice] 1#1: start worker process 19
+2022/05/08 10:55:00 [notice] 1#1: start worker process 20
+2022/05/08 10:55:00 [notice] 1#1: start worker process 21
+2022/05/08 10:55:00 [notice] 1#1: start worker process 22
+2022/05/08 10:55:00 [notice] 1#1: start worker process 23
+2022/05/08 11:23:59 [notice] 1#1: using the "epoll" event method
+2022/05/08 11:23:59 [notice] 1#1: nginx/1.21.6
+2022/05/08 11:23:59 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 11:23:59 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 11:23:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 11:23:59 [notice] 1#1: start worker processes
+2022/05/08 11:23:59 [notice] 1#1: start worker process 9
+2022/05/08 11:23:59 [notice] 1#1: start worker process 10
+2022/05/08 11:23:59 [notice] 1#1: start worker process 11
+2022/05/08 11:23:59 [notice] 1#1: start worker process 12
+2022/05/08 11:23:59 [notice] 1#1: start worker process 13
+2022/05/08 11:23:59 [notice] 1#1: start worker process 14
+2022/05/08 11:23:59 [notice] 1#1: start worker process 15
+2022/05/08 11:23:59 [notice] 1#1: start worker process 16
+2022/05/08 11:23:59 [notice] 1#1: start worker process 17
+2022/05/08 11:23:59 [notice] 1#1: start worker process 18
+2022/05/08 11:23:59 [notice] 1#1: start worker process 19
+2022/05/08 11:23:59 [notice] 1#1: start worker process 20
+2022/05/08 11:23:59 [notice] 1#1: start worker process 21
+2022/05/08 11:23:59 [notice] 1#1: start worker process 22
+2022/05/08 11:23:59 [notice] 1#1: start worker process 23
+2022/05/08 11:23:59 [notice] 1#1: start worker process 24
+2022/05/08 12:01:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:01:28 [notice] 10#10: gracefully shutting down
+2022/05/08 12:01:28 [notice] 10#10: exiting
+2022/05/08 12:01:28 [notice] 12#12: gracefully shutting down
+2022/05/08 12:01:28 [notice] 13#13: gracefully shutting down
+2022/05/08 12:01:28 [notice] 14#14: gracefully shutting down
+2022/05/08 12:01:28 [notice] 15#15: gracefully shutting down
+2022/05/08 12:01:28 [notice] 16#16: gracefully shutting down
+2022/05/08 12:01:28 [notice] 17#17: gracefully shutting down
+2022/05/08 12:01:28 [notice] 18#18: gracefully shutting down
+2022/05/08 12:01:28 [notice] 9#9: gracefully shutting down
+2022/05/08 12:01:28 [notice] 19#19: gracefully shutting down
+2022/05/08 12:01:28 [notice] 11#11: gracefully shutting down
+2022/05/08 12:01:28 [notice] 20#20: gracefully shutting down
+2022/05/08 12:01:28 [notice] 21#21: gracefully shutting down
+2022/05/08 12:01:28 [notice] 22#22: gracefully shutting down
+2022/05/08 12:01:28 [notice] 24#24: gracefully shutting down
+2022/05/08 12:01:28 [notice] 23#23: gracefully shutting down
+2022/05/08 12:01:28 [notice] 10#10: exit
+2022/05/08 12:01:28 [notice] 12#12: exiting
+2022/05/08 12:01:28 [notice] 13#13: exiting
+2022/05/08 12:01:28 [notice] 14#14: exiting
+2022/05/08 12:01:28 [notice] 15#15: exiting
+2022/05/08 12:01:28 [notice] 16#16: exiting
+2022/05/08 12:01:28 [notice] 17#17: exiting
+2022/05/08 12:01:28 [notice] 18#18: exiting
+2022/05/08 12:01:28 [notice] 9#9: exiting
+2022/05/08 12:01:28 [notice] 19#19: exiting
+2022/05/08 12:01:28 [notice] 11#11: exiting
+2022/05/08 12:01:28 [notice] 20#20: exiting
+2022/05/08 12:01:28 [notice] 21#21: exiting
+2022/05/08 12:01:28 [notice] 22#22: exiting
+2022/05/08 12:01:28 [notice] 24#24: exiting
+2022/05/08 12:01:28 [notice] 23#23: exiting
+2022/05/08 12:01:28 [notice] 12#12: exit
+2022/05/08 12:01:28 [notice] 13#13: exit
+2022/05/08 12:01:28 [notice] 14#14: exit
+2022/05/08 12:01:28 [notice] 15#15: exit
+2022/05/08 12:01:28 [notice] 16#16: exit
+2022/05/08 12:01:28 [notice] 17#17: exit
+2022/05/08 12:01:28 [notice] 18#18: exit
+2022/05/08 12:01:28 [notice] 9#9: exit
+2022/05/08 12:01:28 [notice] 19#19: exit
+2022/05/08 12:01:28 [notice] 11#11: exit
+2022/05/08 12:01:28 [notice] 20#20: exit
+2022/05/08 12:01:28 [notice] 21#21: exit
+2022/05/08 12:01:28 [notice] 22#22: exit
+2022/05/08 12:01:28 [notice] 24#24: exit
+2022/05/08 12:01:28 [notice] 23#23: exit
+2022/05/08 12:01:28 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/08 12:01:28 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:01:28 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/08 12:01:28 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/08 12:01:28 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:01:28 [notice] 1#1: exit
+2022/05/08 12:01:37 [notice] 1#1: using the "epoll" event method
+2022/05/08 12:01:37 [notice] 1#1: nginx/1.21.6
+2022/05/08 12:01:37 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 12:01:37 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 12:01:37 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 12:01:37 [notice] 1#1: start worker processes
+2022/05/08 12:01:37 [notice] 1#1: start worker process 9
+2022/05/08 12:01:37 [notice] 1#1: start worker process 10
+2022/05/08 12:01:37 [notice] 1#1: start worker process 11
+2022/05/08 12:01:37 [notice] 1#1: start worker process 12
+2022/05/08 12:01:37 [notice] 1#1: start worker process 13
+2022/05/08 12:01:37 [notice] 1#1: start worker process 14
+2022/05/08 12:01:37 [notice] 1#1: start worker process 15
+2022/05/08 12:01:37 [notice] 1#1: start worker process 16
+2022/05/08 12:01:37 [notice] 1#1: start worker process 17
+2022/05/08 12:01:37 [notice] 1#1: start worker process 18
+2022/05/08 12:01:37 [notice] 1#1: start worker process 19
+2022/05/08 12:01:37 [notice] 1#1: start worker process 20
+2022/05/08 12:01:37 [notice] 1#1: start worker process 21
+2022/05/08 12:01:37 [notice] 1#1: start worker process 22
+2022/05/08 12:01:37 [notice] 1#1: start worker process 23
+2022/05/08 12:01:37 [notice] 1#1: start worker process 24
+2022/05/08 12:04:44 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:04:44 [notice] 9#9: gracefully shutting down
+2022/05/08 12:04:44 [notice] 10#10: gracefully shutting down
+2022/05/08 12:04:44 [notice] 11#11: gracefully shutting down
+2022/05/08 12:04:44 [notice] 12#12: gracefully shutting down
+2022/05/08 12:04:44 [notice] 13#13: gracefully shutting down
+2022/05/08 12:04:44 [notice] 14#14: gracefully shutting down
+2022/05/08 12:04:44 [notice] 15#15: gracefully shutting down
+2022/05/08 12:04:44 [notice] 16#16: gracefully shutting down
+2022/05/08 12:04:44 [notice] 17#17: gracefully shutting down
+2022/05/08 12:04:44 [notice] 18#18: gracefully shutting down
+2022/05/08 12:04:44 [notice] 19#19: gracefully shutting down
+2022/05/08 12:04:44 [notice] 20#20: gracefully shutting down
+2022/05/08 12:04:44 [notice] 21#21: gracefully shutting down
+2022/05/08 12:04:44 [notice] 22#22: gracefully shutting down
+2022/05/08 12:04:44 [notice] 23#23: gracefully shutting down
+2022/05/08 12:04:44 [notice] 24#24: gracefully shutting down
+2022/05/08 12:04:44 [notice] 9#9: exiting
+2022/05/08 12:04:44 [notice] 10#10: exiting
+2022/05/08 12:04:44 [notice] 11#11: exiting
+2022/05/08 12:04:44 [notice] 12#12: exiting
+2022/05/08 12:04:44 [notice] 13#13: exiting
+2022/05/08 12:04:44 [notice] 14#14: exiting
+2022/05/08 12:04:44 [notice] 15#15: exiting
+2022/05/08 12:04:44 [notice] 16#16: exiting
+2022/05/08 12:04:44 [notice] 17#17: exiting
+2022/05/08 12:04:44 [notice] 18#18: exiting
+2022/05/08 12:04:44 [notice] 19#19: exiting
+2022/05/08 12:04:44 [notice] 20#20: exiting
+2022/05/08 12:04:44 [notice] 21#21: exiting
+2022/05/08 12:04:44 [notice] 22#22: exiting
+2022/05/08 12:04:44 [notice] 23#23: exiting
+2022/05/08 12:04:44 [notice] 24#24: exiting
+2022/05/08 12:04:44 [notice] 9#9: exit
+2022/05/08 12:04:44 [notice] 10#10: exit
+2022/05/08 12:04:44 [notice] 11#11: exit
+2022/05/08 12:04:44 [notice] 12#12: exit
+2022/05/08 12:04:44 [notice] 13#13: exit
+2022/05/08 12:04:44 [notice] 14#14: exit
+2022/05/08 12:04:44 [notice] 15#15: exit
+2022/05/08 12:04:44 [notice] 16#16: exit
+2022/05/08 12:04:44 [notice] 17#17: exit
+2022/05/08 12:04:44 [notice] 18#18: exit
+2022/05/08 12:04:44 [notice] 19#19: exit
+2022/05/08 12:04:44 [notice] 20#20: exit
+2022/05/08 12:04:44 [notice] 21#21: exit
+2022/05/08 12:04:44 [notice] 22#22: exit
+2022/05/08 12:04:44 [notice] 23#23: exit
+2022/05/08 12:04:44 [notice] 24#24: exit
+2022/05/08 12:04:44 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/08 12:04:44 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:04:44 [notice] 1#1: signal 17 (SIGCHLD) received from 10
+2022/05/08 12:04:44 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/08 12:04:44 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:04:44 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/08 12:04:44 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:04:44 [notice] 1#1: exit
+2022/05/08 12:04:47 [notice] 1#1: using the "epoll" event method
+2022/05/08 12:04:47 [notice] 1#1: nginx/1.21.6
+2022/05/08 12:04:47 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 12:04:47 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 12:04:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 12:04:47 [notice] 1#1: start worker processes
+2022/05/08 12:04:47 [notice] 1#1: start worker process 10
+2022/05/08 12:04:47 [notice] 1#1: start worker process 11
+2022/05/08 12:04:47 [notice] 1#1: start worker process 12
+2022/05/08 12:04:47 [notice] 1#1: start worker process 13
+2022/05/08 12:04:47 [notice] 1#1: start worker process 14
+2022/05/08 12:04:47 [notice] 1#1: start worker process 15
+2022/05/08 12:04:47 [notice] 1#1: start worker process 16
+2022/05/08 12:04:47 [notice] 1#1: start worker process 17
+2022/05/08 12:04:47 [notice] 1#1: start worker process 18
+2022/05/08 12:04:47 [notice] 1#1: start worker process 19
+2022/05/08 12:04:47 [notice] 1#1: start worker process 20
+2022/05/08 12:04:47 [notice] 1#1: start worker process 21
+2022/05/08 12:04:47 [notice] 1#1: start worker process 22
+2022/05/08 12:04:47 [notice] 1#1: start worker process 23
+2022/05/08 12:04:47 [notice] 1#1: start worker process 24
+2022/05/08 12:04:47 [notice] 1#1: start worker process 25
+2022/05/08 12:09:11 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:09:11 [notice] 10#10: gracefully shutting down
+2022/05/08 12:09:11 [notice] 10#10: exiting
+2022/05/08 12:09:11 [notice] 11#11: gracefully shutting down
+2022/05/08 12:09:11 [notice] 12#12: gracefully shutting down
+2022/05/08 12:09:11 [notice] 13#13: gracefully shutting down
+2022/05/08 12:09:11 [notice] 14#14: gracefully shutting down
+2022/05/08 12:09:11 [notice] 15#15: gracefully shutting down
+2022/05/08 12:09:11 [notice] 16#16: gracefully shutting down
+2022/05/08 12:09:11 [notice] 17#17: gracefully shutting down
+2022/05/08 12:09:11 [notice] 18#18: gracefully shutting down
+2022/05/08 12:09:11 [notice] 19#19: gracefully shutting down
+2022/05/08 12:09:11 [notice] 22#22: gracefully shutting down
+2022/05/08 12:09:11 [notice] 20#20: gracefully shutting down
+2022/05/08 12:09:11 [notice] 23#23: gracefully shutting down
+2022/05/08 12:09:11 [notice] 21#21: gracefully shutting down
+2022/05/08 12:09:11 [notice] 24#24: gracefully shutting down
+2022/05/08 12:09:11 [notice] 25#25: gracefully shutting down
+2022/05/08 12:09:11 [notice] 10#10: exit
+2022/05/08 12:09:11 [notice] 11#11: exiting
+2022/05/08 12:09:11 [notice] 12#12: exiting
+2022/05/08 12:09:11 [notice] 13#13: exiting
+2022/05/08 12:09:11 [notice] 14#14: exiting
+2022/05/08 12:09:11 [notice] 15#15: exiting
+2022/05/08 12:09:11 [notice] 14#14: exit
+2022/05/08 12:09:11 [notice] 16#16: exiting
+2022/05/08 12:09:11 [notice] 17#17: exiting
+2022/05/08 12:09:11 [notice] 18#18: exiting
+2022/05/08 12:09:11 [notice] 19#19: exiting
+2022/05/08 12:09:11 [notice] 22#22: exiting
+2022/05/08 12:09:11 [notice] 20#20: exiting
+2022/05/08 12:09:11 [notice] 23#23: exiting
+2022/05/08 12:09:11 [notice] 21#21: exiting
+2022/05/08 12:09:11 [notice] 24#24: exiting
+2022/05/08 12:09:11 [notice] 25#25: exiting
+2022/05/08 12:09:11 [notice] 11#11: exit
+2022/05/08 12:09:11 [notice] 12#12: exit
+2022/05/08 12:09:11 [notice] 13#13: exit
+2022/05/08 12:09:11 [notice] 15#15: exit
+2022/05/08 12:09:11 [notice] 16#16: exit
+2022/05/08 12:09:11 [notice] 17#17: exit
+2022/05/08 12:09:11 [notice] 18#18: exit
+2022/05/08 12:09:11 [notice] 19#19: exit
+2022/05/08 12:09:11 [notice] 22#22: exit
+2022/05/08 12:09:11 [notice] 20#20: exit
+2022/05/08 12:09:11 [notice] 23#23: exit
+2022/05/08 12:09:11 [notice] 21#21: exit
+2022/05/08 12:09:11 [notice] 24#24: exit
+2022/05/08 12:09:11 [notice] 25#25: exit
+2022/05/08 12:09:11 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/08 12:09:11 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:09:11 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/08 12:09:11 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:09:11 [notice] 1#1: signal 17 (SIGCHLD) received from 10
+2022/05/08 12:09:11 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:09:11 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/08 12:09:11 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/08 12:09:11 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 12:09:11 [notice] 1#1: exit
+2022/05/08 12:09:14 [notice] 1#1: using the "epoll" event method
+2022/05/08 12:09:14 [notice] 1#1: nginx/1.21.6
+2022/05/08 12:09:14 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 12:09:14 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 12:09:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 12:09:14 [notice] 1#1: start worker processes
+2022/05/08 12:09:14 [notice] 1#1: start worker process 10
+2022/05/08 12:09:14 [notice] 1#1: start worker process 11
+2022/05/08 12:09:14 [notice] 1#1: start worker process 12
+2022/05/08 12:09:14 [notice] 1#1: start worker process 13
+2022/05/08 12:09:14 [notice] 1#1: start worker process 14
+2022/05/08 12:09:14 [notice] 1#1: start worker process 15
+2022/05/08 12:09:14 [notice] 1#1: start worker process 16
+2022/05/08 12:09:14 [notice] 1#1: start worker process 17
+2022/05/08 12:09:14 [notice] 1#1: start worker process 18
+2022/05/08 12:09:14 [notice] 1#1: start worker process 19
+2022/05/08 12:09:14 [notice] 1#1: start worker process 20
+2022/05/08 12:09:14 [notice] 1#1: start worker process 21
+2022/05/08 12:09:14 [notice] 1#1: start worker process 22
+2022/05/08 12:09:14 [notice] 1#1: start worker process 23
+2022/05/08 12:09:14 [notice] 1#1: start worker process 24
+2022/05/08 12:09:14 [notice] 1#1: start worker process 25
+2022/05/08 12:18:47 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:18:47 [notice] 10#10: gracefully shutting down
+2022/05/08 12:18:47 [notice] 11#11: gracefully shutting down
+2022/05/08 12:18:47 [notice] 12#12: gracefully shutting down
+2022/05/08 12:18:47 [notice] 13#13: gracefully shutting down
+2022/05/08 12:18:47 [notice] 14#14: gracefully shutting down
+2022/05/08 12:18:47 [notice] 15#15: gracefully shutting down
+2022/05/08 12:18:47 [notice] 16#16: gracefully shutting down
+2022/05/08 12:18:47 [notice] 17#17: gracefully shutting down
+2022/05/08 12:18:47 [notice] 18#18: gracefully shutting down
+2022/05/08 12:18:47 [notice] 19#19: gracefully shutting down
+2022/05/08 12:18:47 [notice] 20#20: gracefully shutting down
+2022/05/08 12:18:47 [notice] 20#20: exiting
+2022/05/08 12:18:47 [notice] 23#23: gracefully shutting down
+2022/05/08 12:18:47 [notice] 21#21: gracefully shutting down
+2022/05/08 12:18:47 [notice] 22#22: gracefully shutting down
+2022/05/08 12:18:47 [notice] 24#24: gracefully shutting down
+2022/05/08 12:18:47 [notice] 25#25: gracefully shutting down
+2022/05/08 12:18:47 [notice] 10#10: exiting
+2022/05/08 12:18:47 [notice] 11#11: exiting
+2022/05/08 12:18:47 [notice] 12#12: exiting
+2022/05/08 12:18:47 [notice] 13#13: exiting
+2022/05/08 12:18:47 [notice] 14#14: exiting
+2022/05/08 12:18:47 [notice] 15#15: exiting
+2022/05/08 12:18:47 [notice] 16#16: exiting
+2022/05/08 12:18:47 [notice] 15#15: exit
+2022/05/08 12:18:47 [notice] 17#17: exiting
+2022/05/08 12:18:47 [notice] 18#18: exiting
+2022/05/08 12:18:47 [notice] 19#19: exiting
+2022/05/08 12:18:47 [notice] 20#20: exit
+2022/05/08 12:18:47 [notice] 23#23: exiting
+2022/05/08 12:18:47 [notice] 21#21: exiting
+2022/05/08 12:18:47 [notice] 23#23: exit
+2022/05/08 12:18:47 [notice] 22#22: exiting
+2022/05/08 12:18:47 [notice] 24#24: exiting
+2022/05/08 12:18:47 [notice] 22#22: exit
+2022/05/08 12:18:47 [notice] 25#25: exiting
+2022/05/08 12:18:47 [notice] 10#10: exit
+2022/05/08 12:18:47 [notice] 11#11: exit
+2022/05/08 12:18:47 [notice] 12#12: exit
+2022/05/08 12:18:47 [notice] 13#13: exit
+2022/05/08 12:18:47 [notice] 14#14: exit
+2022/05/08 12:18:47 [notice] 16#16: exit
+2022/05/08 12:18:47 [notice] 17#17: exit
+2022/05/08 12:18:47 [notice] 18#18: exit
+2022/05/08 12:18:47 [notice] 19#19: exit
+2022/05/08 12:18:47 [notice] 21#21: exit
+2022/05/08 12:18:47 [notice] 24#24: exit
+2022/05/08 12:18:47 [notice] 25#25: exit
+2022/05/08 12:18:47 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/08 12:18:47 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:18:47 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/08 12:18:47 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/08 12:18:47 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:18:47 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/08 12:18:47 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 12:18:47 [notice] 1#1: exit
+2022/05/08 12:18:50 [notice] 1#1: using the "epoll" event method
+2022/05/08 12:18:50 [notice] 1#1: nginx/1.21.6
+2022/05/08 12:18:50 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 12:18:50 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 12:18:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 12:18:50 [notice] 1#1: start worker processes
+2022/05/08 12:18:50 [notice] 1#1: start worker process 9
+2022/05/08 12:18:50 [notice] 1#1: start worker process 10
+2022/05/08 12:18:50 [notice] 1#1: start worker process 11
+2022/05/08 12:18:50 [notice] 1#1: start worker process 12
+2022/05/08 12:18:50 [notice] 1#1: start worker process 13
+2022/05/08 12:18:50 [notice] 1#1: start worker process 14
+2022/05/08 12:18:50 [notice] 1#1: start worker process 15
+2022/05/08 12:18:50 [notice] 1#1: start worker process 16
+2022/05/08 12:18:50 [notice] 1#1: start worker process 17
+2022/05/08 12:18:50 [notice] 1#1: start worker process 18
+2022/05/08 12:18:50 [notice] 1#1: start worker process 19
+2022/05/08 12:18:50 [notice] 1#1: start worker process 20
+2022/05/08 12:18:50 [notice] 1#1: start worker process 21
+2022/05/08 12:18:50 [notice] 1#1: start worker process 22
+2022/05/08 12:18:50 [notice] 1#1: start worker process 23
+2022/05/08 12:18:50 [notice] 1#1: start worker process 24
+2022/05/08 12:19:58 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:19:58 [notice] 9#9: gracefully shutting down
+2022/05/08 12:19:58 [notice] 10#10: gracefully shutting down
+2022/05/08 12:19:58 [notice] 10#10: exiting
+2022/05/08 12:19:58 [notice] 11#11: gracefully shutting down
+2022/05/08 12:19:58 [notice] 12#12: gracefully shutting down
+2022/05/08 12:19:58 [notice] 13#13: gracefully shutting down
+2022/05/08 12:19:58 [notice] 14#14: gracefully shutting down
+2022/05/08 12:19:58 [notice] 15#15: gracefully shutting down
+2022/05/08 12:19:58 [notice] 15#15: exiting
+2022/05/08 12:19:58 [notice] 16#16: gracefully shutting down
+2022/05/08 12:19:58 [notice] 15#15: exit
+2022/05/08 12:19:58 [notice] 18#18: gracefully shutting down
+2022/05/08 12:19:58 [notice] 17#17: gracefully shutting down
+2022/05/08 12:19:58 [notice] 19#19: gracefully shutting down
+2022/05/08 12:19:58 [notice] 20#20: gracefully shutting down
+2022/05/08 12:19:58 [notice] 21#21: gracefully shutting down
+2022/05/08 12:19:58 [notice] 22#22: gracefully shutting down
+2022/05/08 12:19:58 [notice] 24#24: gracefully shutting down
+2022/05/08 12:19:58 [notice] 23#23: gracefully shutting down
+2022/05/08 12:19:58 [notice] 9#9: exiting
+2022/05/08 12:19:58 [notice] 10#10: exit
+2022/05/08 12:19:58 [notice] 9#9: exit
+2022/05/08 12:19:58 [notice] 11#11: exiting
+2022/05/08 12:19:58 [notice] 12#12: exiting
+2022/05/08 12:19:58 [notice] 13#13: exiting
+2022/05/08 12:19:58 [notice] 14#14: exiting
+2022/05/08 12:19:58 [notice] 16#16: exiting
+2022/05/08 12:19:58 [notice] 18#18: exiting
+2022/05/08 12:19:58 [notice] 17#17: exiting
+2022/05/08 12:19:58 [notice] 18#18: exit
+2022/05/08 12:19:58 [notice] 19#19: exiting
+2022/05/08 12:19:58 [notice] 20#20: exiting
+2022/05/08 12:19:58 [notice] 21#21: exiting
+2022/05/08 12:19:58 [notice] 20#20: exit
+2022/05/08 12:19:58 [notice] 22#22: exiting
+2022/05/08 12:19:58 [notice] 24#24: exiting
+2022/05/08 12:19:58 [notice] 23#23: exiting
+2022/05/08 12:19:58 [notice] 11#11: exit
+2022/05/08 12:19:58 [notice] 12#12: exit
+2022/05/08 12:19:58 [notice] 13#13: exit
+2022/05/08 12:19:58 [notice] 14#14: exit
+2022/05/08 12:19:58 [notice] 16#16: exit
+2022/05/08 12:19:58 [notice] 17#17: exit
+2022/05/08 12:19:58 [notice] 19#19: exit
+2022/05/08 12:19:58 [notice] 21#21: exit
+2022/05/08 12:19:58 [notice] 22#22: exit
+2022/05/08 12:19:58 [notice] 24#24: exit
+2022/05/08 12:19:58 [notice] 23#23: exit
+2022/05/08 12:19:58 [notice] 1#1: signal 17 (SIGCHLD) received from 18
+2022/05/08 12:19:58 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:19:58 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/08 12:19:58 [notice] 1#1: signal 17 (SIGCHLD) received from 10
+2022/05/08 12:19:58 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:19:58 [notice] 1#1: exit
+2022/05/08 12:20:21 [notice] 1#1: using the "epoll" event method
+2022/05/08 12:20:21 [notice] 1#1: nginx/1.21.6
+2022/05/08 12:20:21 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 12:20:21 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 12:20:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 12:20:21 [notice] 1#1: start worker processes
+2022/05/08 12:20:21 [notice] 1#1: start worker process 10
+2022/05/08 12:20:21 [notice] 1#1: start worker process 11
+2022/05/08 12:20:21 [notice] 1#1: start worker process 12
+2022/05/08 12:20:21 [notice] 1#1: start worker process 13
+2022/05/08 12:20:21 [notice] 1#1: start worker process 14
+2022/05/08 12:20:21 [notice] 1#1: start worker process 15
+2022/05/08 12:20:21 [notice] 1#1: start worker process 16
+2022/05/08 12:20:21 [notice] 1#1: start worker process 17
+2022/05/08 12:20:21 [notice] 1#1: start worker process 18
+2022/05/08 12:20:21 [notice] 1#1: start worker process 19
+2022/05/08 12:20:21 [notice] 1#1: start worker process 20
+2022/05/08 12:20:21 [notice] 1#1: start worker process 21
+2022/05/08 12:20:21 [notice] 1#1: start worker process 22
+2022/05/08 12:20:21 [notice] 1#1: start worker process 23
+2022/05/08 12:20:21 [notice] 1#1: start worker process 24
+2022/05/08 12:20:21 [notice] 1#1: start worker process 25
+2022/05/08 12:23:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:23:24 [notice] 10#10: gracefully shutting down
+2022/05/08 12:23:24 [notice] 11#11: gracefully shutting down
+2022/05/08 12:23:24 [notice] 13#13: gracefully shutting down
+2022/05/08 12:23:24 [notice] 16#16: gracefully shutting down
+2022/05/08 12:23:24 [notice] 14#14: gracefully shutting down
+2022/05/08 12:23:24 [notice] 15#15: gracefully shutting down
+2022/05/08 12:23:24 [notice] 17#17: gracefully shutting down
+2022/05/08 12:23:24 [notice] 18#18: gracefully shutting down
+2022/05/08 12:23:24 [notice] 12#12: gracefully shutting down
+2022/05/08 12:23:24 [notice] 19#19: gracefully shutting down
+2022/05/08 12:23:24 [notice] 21#21: gracefully shutting down
+2022/05/08 12:23:24 [notice] 22#22: gracefully shutting down
+2022/05/08 12:23:24 [notice] 20#20: gracefully shutting down
+2022/05/08 12:23:24 [notice] 24#24: gracefully shutting down
+2022/05/08 12:23:24 [notice] 23#23: gracefully shutting down
+2022/05/08 12:23:24 [notice] 25#25: gracefully shutting down
+2022/05/08 12:23:24 [notice] 10#10: exiting
+2022/05/08 12:23:24 [notice] 11#11: exiting
+2022/05/08 12:23:24 [notice] 13#13: exiting
+2022/05/08 12:23:24 [notice] 16#16: exiting
+2022/05/08 12:23:24 [notice] 14#14: exiting
+2022/05/08 12:23:24 [notice] 15#15: exiting
+2022/05/08 12:23:24 [notice] 17#17: exiting
+2022/05/08 12:23:24 [notice] 18#18: exiting
+2022/05/08 12:23:24 [notice] 12#12: exiting
+2022/05/08 12:23:24 [notice] 19#19: exiting
+2022/05/08 12:23:24 [notice] 21#21: exiting
+2022/05/08 12:23:24 [notice] 22#22: exiting
+2022/05/08 12:23:24 [notice] 20#20: exiting
+2022/05/08 12:23:24 [notice] 24#24: exiting
+2022/05/08 12:23:24 [notice] 23#23: exiting
+2022/05/08 12:23:24 [notice] 25#25: exiting
+2022/05/08 12:23:24 [notice] 10#10: exit
+2022/05/08 12:23:24 [notice] 11#11: exit
+2022/05/08 12:23:24 [notice] 13#13: exit
+2022/05/08 12:23:24 [notice] 16#16: exit
+2022/05/08 12:23:24 [notice] 14#14: exit
+2022/05/08 12:23:24 [notice] 15#15: exit
+2022/05/08 12:23:24 [notice] 17#17: exit
+2022/05/08 12:23:24 [notice] 18#18: exit
+2022/05/08 12:23:24 [notice] 12#12: exit
+2022/05/08 12:23:24 [notice] 19#19: exit
+2022/05/08 12:23:24 [notice] 21#21: exit
+2022/05/08 12:23:24 [notice] 22#22: exit
+2022/05/08 12:23:24 [notice] 20#20: exit
+2022/05/08 12:23:24 [notice] 24#24: exit
+2022/05/08 12:23:24 [notice] 23#23: exit
+2022/05/08 12:23:24 [notice] 25#25: exit
+2022/05/08 12:23:24 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/08 12:23:24 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:23:24 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/08 12:23:24 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/08 12:23:24 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:23:24 [notice] 1#1: exit
+2022/05/08 12:23:27 [notice] 1#1: using the "epoll" event method
+2022/05/08 12:23:27 [notice] 1#1: nginx/1.21.6
+2022/05/08 12:23:27 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 12:23:27 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 12:23:27 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 12:23:27 [notice] 1#1: start worker processes
+2022/05/08 12:23:27 [notice] 1#1: start worker process 9
+2022/05/08 12:23:27 [notice] 1#1: start worker process 10
+2022/05/08 12:23:27 [notice] 1#1: start worker process 11
+2022/05/08 12:23:27 [notice] 1#1: start worker process 12
+2022/05/08 12:23:27 [notice] 1#1: start worker process 13
+2022/05/08 12:23:27 [notice] 1#1: start worker process 14
+2022/05/08 12:23:27 [notice] 1#1: start worker process 15
+2022/05/08 12:23:27 [notice] 1#1: start worker process 16
+2022/05/08 12:23:27 [notice] 1#1: start worker process 17
+2022/05/08 12:23:27 [notice] 1#1: start worker process 18
+2022/05/08 12:23:27 [notice] 1#1: start worker process 19
+2022/05/08 12:23:27 [notice] 1#1: start worker process 20
+2022/05/08 12:23:27 [notice] 1#1: start worker process 21
+2022/05/08 12:23:27 [notice] 1#1: start worker process 22
+2022/05/08 12:23:27 [notice] 1#1: start worker process 23
+2022/05/08 12:23:27 [notice] 1#1: start worker process 24
+2022/05/08 12:25:16 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:25:16 [notice] 9#9: gracefully shutting down
+2022/05/08 12:25:16 [notice] 10#10: gracefully shutting down
+2022/05/08 12:25:16 [notice] 11#11: gracefully shutting down
+2022/05/08 12:25:16 [notice] 12#12: gracefully shutting down
+2022/05/08 12:25:16 [notice] 13#13: gracefully shutting down
+2022/05/08 12:25:16 [notice] 14#14: gracefully shutting down
+2022/05/08 12:25:16 [notice] 15#15: gracefully shutting down
+2022/05/08 12:25:16 [notice] 16#16: gracefully shutting down
+2022/05/08 12:25:16 [notice] 17#17: gracefully shutting down
+2022/05/08 12:25:16 [notice] 18#18: gracefully shutting down
+2022/05/08 12:25:16 [notice] 18#18: exiting
+2022/05/08 12:25:16 [notice] 19#19: gracefully shutting down
+2022/05/08 12:25:16 [notice] 21#21: gracefully shutting down
+2022/05/08 12:25:16 [notice] 22#22: gracefully shutting down
+2022/05/08 12:25:16 [notice] 20#20: gracefully shutting down
+2022/05/08 12:25:16 [notice] 23#23: gracefully shutting down
+2022/05/08 12:25:16 [notice] 24#24: gracefully shutting down
+2022/05/08 12:25:16 [notice] 9#9: exiting
+2022/05/08 12:25:16 [notice] 10#10: exiting
+2022/05/08 12:25:16 [notice] 11#11: exiting
+2022/05/08 12:25:16 [notice] 12#12: exiting
+2022/05/08 12:25:16 [notice] 13#13: exiting
+2022/05/08 12:25:16 [notice] 14#14: exiting
+2022/05/08 12:25:16 [notice] 15#15: exiting
+2022/05/08 12:25:16 [notice] 16#16: exiting
+2022/05/08 12:25:16 [notice] 17#17: exiting
+2022/05/08 12:25:16 [notice] 18#18: exit
+2022/05/08 12:25:16 [notice] 19#19: exiting
+2022/05/08 12:25:16 [notice] 21#21: exiting
+2022/05/08 12:25:16 [notice] 22#22: exiting
+2022/05/08 12:25:16 [notice] 20#20: exiting
+2022/05/08 12:25:16 [notice] 23#23: exiting
+2022/05/08 12:25:16 [notice] 24#24: exiting
+2022/05/08 12:25:16 [notice] 9#9: exit
+2022/05/08 12:25:16 [notice] 10#10: exit
+2022/05/08 12:25:16 [notice] 11#11: exit
+2022/05/08 12:25:16 [notice] 12#12: exit
+2022/05/08 12:25:16 [notice] 13#13: exit
+2022/05/08 12:25:16 [notice] 14#14: exit
+2022/05/08 12:25:16 [notice] 15#15: exit
+2022/05/08 12:25:16 [notice] 16#16: exit
+2022/05/08 12:25:16 [notice] 17#17: exit
+2022/05/08 12:25:16 [notice] 19#19: exit
+2022/05/08 12:25:16 [notice] 21#21: exit
+2022/05/08 12:25:16 [notice] 22#22: exit
+2022/05/08 12:25:16 [notice] 20#20: exit
+2022/05/08 12:25:16 [notice] 23#23: exit
+2022/05/08 12:25:16 [notice] 24#24: exit
+2022/05/08 12:25:16 [notice] 1#1: signal 17 (SIGCHLD) received from 10
+2022/05/08 12:25:16 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:25:16 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/08 12:25:16 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/08 12:25:16 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:25:16 [notice] 1#1: exit
+2022/05/08 12:25:24 [notice] 1#1: using the "epoll" event method
+2022/05/08 12:25:24 [notice] 1#1: nginx/1.21.6
+2022/05/08 12:25:24 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 12:25:24 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 12:25:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 12:25:24 [notice] 1#1: start worker processes
+2022/05/08 12:25:24 [notice] 1#1: start worker process 9
+2022/05/08 12:25:24 [notice] 1#1: start worker process 10
+2022/05/08 12:25:24 [notice] 1#1: start worker process 11
+2022/05/08 12:25:24 [notice] 1#1: start worker process 12
+2022/05/08 12:25:24 [notice] 1#1: start worker process 13
+2022/05/08 12:25:24 [notice] 1#1: start worker process 14
+2022/05/08 12:25:24 [notice] 1#1: start worker process 15
+2022/05/08 12:25:24 [notice] 1#1: start worker process 16
+2022/05/08 12:25:24 [notice] 1#1: start worker process 17
+2022/05/08 12:25:24 [notice] 1#1: start worker process 18
+2022/05/08 12:25:24 [notice] 1#1: start worker process 19
+2022/05/08 12:25:24 [notice] 1#1: start worker process 20
+2022/05/08 12:25:24 [notice] 1#1: start worker process 21
+2022/05/08 12:25:24 [notice] 1#1: start worker process 22
+2022/05/08 12:25:24 [notice] 1#1: start worker process 23
+2022/05/08 12:25:24 [notice] 1#1: start worker process 24
+2022/05/08 12:28:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:28:12 [notice] 9#9: gracefully shutting down
+2022/05/08 12:28:12 [notice] 10#10: gracefully shutting down
+2022/05/08 12:28:12 [notice] 11#11: gracefully shutting down
+2022/05/08 12:28:12 [notice] 12#12: gracefully shutting down
+2022/05/08 12:28:12 [notice] 13#13: gracefully shutting down
+2022/05/08 12:28:12 [notice] 14#14: gracefully shutting down
+2022/05/08 12:28:12 [notice] 14#14: exiting
+2022/05/08 12:28:12 [notice] 15#15: gracefully shutting down
+2022/05/08 12:28:12 [notice] 16#16: gracefully shutting down
+2022/05/08 12:28:12 [notice] 18#18: gracefully shutting down
+2022/05/08 12:28:12 [notice] 17#17: gracefully shutting down
+2022/05/08 12:28:12 [notice] 19#19: gracefully shutting down
+2022/05/08 12:28:12 [notice] 20#20: gracefully shutting down
+2022/05/08 12:28:12 [notice] 21#21: gracefully shutting down
+2022/05/08 12:28:12 [notice] 22#22: gracefully shutting down
+2022/05/08 12:28:12 [notice] 24#24: gracefully shutting down
+2022/05/08 12:28:12 [notice] 23#23: gracefully shutting down
+2022/05/08 12:28:12 [notice] 9#9: exiting
+2022/05/08 12:28:12 [notice] 10#10: exiting
+2022/05/08 12:28:12 [notice] 11#11: exiting
+2022/05/08 12:28:12 [notice] 12#12: exiting
+2022/05/08 12:28:12 [notice] 13#13: exiting
+2022/05/08 12:28:12 [notice] 14#14: exit
+2022/05/08 12:28:12 [notice] 15#15: exiting
+2022/05/08 12:28:12 [notice] 16#16: exiting
+2022/05/08 12:28:12 [notice] 18#18: exiting
+2022/05/08 12:28:12 [notice] 16#16: exit
+2022/05/08 12:28:12 [notice] 17#17: exiting
+2022/05/08 12:28:12 [notice] 19#19: exiting
+2022/05/08 12:28:12 [notice] 17#17: exit
+2022/05/08 12:28:12 [notice] 20#20: exiting
+2022/05/08 12:28:12 [notice] 21#21: exiting
+2022/05/08 12:28:12 [notice] 22#22: exiting
+2022/05/08 12:28:12 [notice] 21#21: exit
+2022/05/08 12:28:12 [notice] 24#24: exiting
+2022/05/08 12:28:12 [notice] 23#23: exiting
+2022/05/08 12:28:12 [notice] 24#24: exit
+2022/05/08 12:28:12 [notice] 9#9: exit
+2022/05/08 12:28:12 [notice] 10#10: exit
+2022/05/08 12:28:12 [notice] 11#11: exit
+2022/05/08 12:28:12 [notice] 12#12: exit
+2022/05/08 12:28:12 [notice] 13#13: exit
+2022/05/08 12:28:12 [notice] 15#15: exit
+2022/05/08 12:28:12 [notice] 18#18: exit
+2022/05/08 12:28:12 [notice] 19#19: exit
+2022/05/08 12:28:12 [notice] 20#20: exit
+2022/05/08 12:28:12 [notice] 22#22: exit
+2022/05/08 12:28:12 [notice] 23#23: exit
+2022/05/08 12:28:12 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/08 12:28:12 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:28:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:28:12 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/08 12:28:15 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:28:16 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:28:17 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:28:17 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:28:19 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:28:21 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:28:24 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:30:07 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:30:07 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:30:08 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:30:09 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/wattanapong.conf:65
+2022/05/08 12:33:45 [notice] 1#1: using the "epoll" event method
+2022/05/08 12:33:45 [notice] 1#1: nginx/1.21.6
+2022/05/08 12:33:45 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 12:33:45 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2022/05/08 12:33:45 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 12:33:45 [notice] 1#1: start worker processes
+2022/05/08 12:33:45 [notice] 1#1: start worker process 10
+2022/05/08 12:33:45 [notice] 1#1: start worker process 11
+2022/05/08 12:33:45 [notice] 1#1: start worker process 12
+2022/05/08 12:33:45 [notice] 1#1: start worker process 13
+2022/05/08 12:33:45 [notice] 1#1: start worker process 14
+2022/05/08 12:33:45 [notice] 1#1: start worker process 15
+2022/05/08 12:33:45 [notice] 1#1: start worker process 16
+2022/05/08 12:33:45 [notice] 1#1: start worker process 17
+2022/05/08 12:33:45 [notice] 1#1: start worker process 18
+2022/05/08 12:33:45 [notice] 1#1: start worker process 19
+2022/05/08 12:33:45 [notice] 1#1: start worker process 20
+2022/05/08 12:33:45 [notice] 1#1: start worker process 21
+2022/05/08 12:33:45 [notice] 1#1: start worker process 22
+2022/05/08 12:33:45 [notice] 1#1: start worker process 23
+2022/05/08 12:33:45 [notice] 1#1: start worker process 24
+2022/05/08 12:33:45 [notice] 1#1: start worker process 25
+2022/05/08 12:40:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 12:40:05 [notice] 24#24: gracefully shutting down
+2022/05/08 12:40:05 [notice] 22#22: gracefully shutting down
+2022/05/08 12:40:05 [notice] 10#10: gracefully shutting down
+2022/05/08 12:40:05 [notice] 12#12: gracefully shutting down
+2022/05/08 12:40:05 [notice] 21#21: gracefully shutting down
+2022/05/08 12:40:05 [notice] 25#25: gracefully shutting down
+2022/05/08 12:40:05 [notice] 17#17: gracefully shutting down
+2022/05/08 12:40:05 [notice] 11#11: gracefully shutting down
+2022/05/08 12:40:05 [notice] 23#23: gracefully shutting down
+2022/05/08 12:40:05 [notice] 16#16: gracefully shutting down
+2022/05/08 12:40:05 [notice] 13#13: gracefully shutting down
+2022/05/08 12:40:05 [notice] 15#15: gracefully shutting down
+2022/05/08 12:40:05 [notice] 14#14: gracefully shutting down
+2022/05/08 12:40:05 [notice] 18#18: gracefully shutting down
+2022/05/08 12:40:05 [notice] 19#19: gracefully shutting down
+2022/05/08 12:40:05 [notice] 19#19: exiting
+2022/05/08 12:40:05 [notice] 20#20: gracefully shutting down
+2022/05/08 12:40:05 [notice] 24#24: exiting
+2022/05/08 12:40:05 [notice] 22#22: exiting
+2022/05/08 12:40:05 [notice] 10#10: exiting
+2022/05/08 12:40:05 [notice] 12#12: exiting
+2022/05/08 12:40:05 [notice] 10#10: exit
+2022/05/08 12:40:05 [notice] 21#21: exiting
+2022/05/08 12:40:05 [notice] 25#25: exiting
+2022/05/08 12:40:05 [notice] 17#17: exiting
+2022/05/08 12:40:05 [notice] 11#11: exiting
+2022/05/08 12:40:05 [notice] 23#23: exiting
+2022/05/08 12:40:05 [notice] 16#16: exiting
+2022/05/08 12:40:05 [notice] 13#13: exiting
+2022/05/08 12:40:05 [notice] 15#15: exiting
+2022/05/08 12:40:05 [notice] 14#14: exiting
+2022/05/08 12:40:05 [notice] 18#18: exiting
+2022/05/08 12:40:05 [notice] 14#14: exit
+2022/05/08 12:40:05 [notice] 19#19: exit
+2022/05/08 12:40:05 [notice] 20#20: exiting
+2022/05/08 12:40:05 [notice] 24#24: exit
+2022/05/08 12:40:05 [notice] 22#22: exit
+2022/05/08 12:40:05 [notice] 12#12: exit
+2022/05/08 12:40:05 [notice] 21#21: exit
+2022/05/08 12:40:05 [notice] 25#25: exit
+2022/05/08 12:40:05 [notice] 17#17: exit
+2022/05/08 12:40:05 [notice] 11#11: exit
+2022/05/08 12:40:05 [notice] 23#23: exit
+2022/05/08 12:40:05 [notice] 16#16: exit
+2022/05/08 12:40:05 [notice] 13#13: exit
+2022/05/08 12:40:05 [notice] 15#15: exit
+2022/05/08 12:40:05 [notice] 18#18: exit
+2022/05/08 12:40:05 [notice] 20#20: exit
+2022/05/08 12:40:05 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/08 12:40:05 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:40:05 [notice] 1#1: signal 17 (SIGCHLD) received from 19
+2022/05/08 12:40:05 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 12:40:05 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/08 12:40:05 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/08 12:40:05 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 12:40:05 [notice] 1#1: exit
