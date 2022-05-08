@@ -59,14 +59,14 @@ services:
     composer_csystem:
         image: composer/composer:2
         volumes:
-            - "D:/Workspace/www/csystem:/app"
+            - "/home/wattanapongsu/php_www/csystem:/app"
         depends_on:
             - php
         command: update
     composer_wattanapong:
         image: composer/composer:2
         volumes:
-            - "D:/Workspace/www/wattanapong:/app"
+            - "/home/wattanapongsu/php_www/wattanapong:/app"
         depends_on:
             - php
         command: update
