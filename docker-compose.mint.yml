@@ -15,7 +15,7 @@ services:
             - "./etc/nginx/wattanapong.https.conf:/etc/nginx/conf.d/wattanapong.template"
 
             - "./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:ro"
-            - "./etc/certbot/www/wattanapong:/var/www/html/csystem/certbot/:ro"
+            - "./etc/certbot/www/wattanapong:/var/www/html/wattanapong/certbot/:ro"
             - "./etc/certbot/conf/:/etc/nginx/ssl/:ro"
 
             - "/home/wattanapongsu/php_www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
