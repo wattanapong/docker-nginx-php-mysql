@@ -4,7 +4,7 @@ services:
         image: nginx:alpine
         volumes:
             - "./etc/ssl:/etc/ssl"
-            - ./etc/logs/nginx:/var/log/nginx/:rw"
+            - "./etc/logs/nginx:/var/log/nginx/:rw"
             
             - "/home/wattanapongsu/php_www/csystem:/var/www/html/csystem/:rw"
             - "/home/wattanapongsu/php_www/default:/var/www/html/default/:rw"
