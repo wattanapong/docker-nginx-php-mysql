@@ -2450,3 +2450,1403 @@
 2022/05/08 13:19:45 [notice] 1#1: start worker process 22
 2022/05/08 13:19:45 [notice] 1#1: start worker process 23
 2022/05/08 13:19:45 [notice] 1#1: start worker process 24
+2022/05/08 17:07:33 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:07:34 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:07:35 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:07:35 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:07:37 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:07:39 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:07:42 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:07:49 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:08:03 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:08:29 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:09:20 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:10:21 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:11:21 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:22 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:38 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:39 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:39 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:40 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:42 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:44 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:47 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:12:54 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:13:07 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:13:33 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:14:30 [notice] 1#1: using the "epoll" event method
+2022/05/08 17:14:30 [notice] 1#1: nginx/1.21.6
+2022/05/08 17:14:30 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 17:14:30 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 17:14:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 17:14:30 [notice] 1#1: start worker processes
+2022/05/08 17:14:30 [notice] 1#1: start worker process 9
+2022/05/08 17:14:30 [notice] 1#1: start worker process 10
+2022/05/08 17:14:30 [notice] 1#1: start worker process 11
+2022/05/08 17:14:30 [notice] 1#1: start worker process 12
+2022/05/08 17:14:30 [notice] 1#1: start worker process 13
+2022/05/08 17:14:30 [notice] 1#1: start worker process 14
+2022/05/08 17:14:30 [notice] 1#1: start worker process 15
+2022/05/08 17:14:30 [notice] 1#1: start worker process 16
+2022/05/08 17:14:30 [notice] 1#1: start worker process 17
+2022/05/08 17:14:30 [notice] 1#1: start worker process 18
+2022/05/08 17:14:30 [notice] 1#1: start worker process 19
+2022/05/08 17:14:30 [notice] 1#1: start worker process 20
+2022/05/08 17:14:30 [notice] 1#1: start worker process 21
+2022/05/08 17:14:30 [notice] 1#1: start worker process 22
+2022/05/08 17:14:30 [notice] 1#1: start worker process 23
+2022/05/08 17:14:30 [notice] 1#1: start worker process 24
+2022/05/08 17:14:30 [notice] 1#1: start worker process 25
+2022/05/08 17:14:30 [notice] 1#1: start worker process 26
+2022/05/08 17:14:30 [notice] 1#1: start worker process 27
+2022/05/08 17:14:30 [notice] 1#1: start worker process 28
+2022/05/08 17:14:30 [notice] 1#1: start worker process 29
+2022/05/08 17:14:30 [notice] 1#1: start worker process 30
+2022/05/08 17:14:30 [notice] 1#1: start worker process 31
+2022/05/08 17:14:30 [notice] 1#1: start worker process 32
+2022/05/08 17:20:11 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 17:20:11 [notice] 10#10: gracefully shutting down
+2022/05/08 17:20:11 [notice] 11#11: gracefully shutting down
+2022/05/08 17:20:11 [notice] 12#12: gracefully shutting down
+2022/05/08 17:20:11 [notice] 13#13: gracefully shutting down
+2022/05/08 17:20:11 [notice] 14#14: gracefully shutting down
+2022/05/08 17:20:11 [notice] 13#13: exiting
+2022/05/08 17:20:11 [notice] 22#22: gracefully shutting down
+2022/05/08 17:20:11 [notice] 23#23: gracefully shutting down
+2022/05/08 17:20:11 [notice] 11#11: exiting
+2022/05/08 17:20:11 [notice] 18#18: gracefully shutting down
+2022/05/08 17:20:11 [notice] 25#25: gracefully shutting down
+2022/05/08 17:20:11 [notice] 24#24: gracefully shutting down
+2022/05/08 17:20:11 [notice] 14#14: exiting
+2022/05/08 17:20:11 [notice] 22#22: exiting
+2022/05/08 17:20:11 [notice] 23#23: exiting
+2022/05/08 17:20:11 [notice] 24#24: exiting
+2022/05/08 17:20:11 [notice] 25#25: exiting
+2022/05/08 17:20:11 [notice] 18#18: exiting
+2022/05/08 17:20:11 [notice] 30#30: gracefully shutting down
+2022/05/08 17:20:11 [notice] 30#30: exiting
+2022/05/08 17:20:11 [notice] 31#31: gracefully shutting down
+2022/05/08 17:20:11 [notice] 31#31: exiting
+2022/05/08 17:20:11 [notice] 17#17: gracefully shutting down
+2022/05/08 17:20:11 [notice] 17#17: exiting
+2022/05/08 17:20:11 [notice] 24#24: exit
+2022/05/08 17:20:11 [notice] 23#23: exit
+2022/05/08 17:20:11 [notice] 14#14: exit
+2022/05/08 17:20:11 [notice] 11#11: exit
+2022/05/08 17:20:11 [notice] 13#13: exit
+2022/05/08 17:20:11 [notice] 15#15: gracefully shutting down
+2022/05/08 17:20:11 [notice] 22#22: exit
+2022/05/08 17:20:11 [notice] 30#30: exit
+2022/05/08 17:20:11 [notice] 15#15: exiting
+2022/05/08 17:20:11 [notice] 18#18: exit
+2022/05/08 17:20:11 [notice] 29#29: gracefully shutting down
+2022/05/08 17:20:11 [notice] 29#29: exiting
+2022/05/08 17:20:11 [notice] 17#17: exit
+2022/05/08 17:20:11 [notice] 19#19: gracefully shutting down
+2022/05/08 17:20:11 [notice] 19#19: exiting
+2022/05/08 17:20:11 [notice] 31#31: exit
+2022/05/08 17:20:11 [notice] 26#26: gracefully shutting down
+2022/05/08 17:20:11 [notice] 27#27: gracefully shutting down
+2022/05/08 17:20:11 [notice] 26#26: exiting
+2022/05/08 17:20:11 [notice] 32#32: gracefully shutting down
+2022/05/08 17:20:11 [notice] 10#10: exiting
+2022/05/08 17:20:11 [notice] 27#27: exiting
+2022/05/08 17:20:11 [notice] 16#16: gracefully shutting down
+2022/05/08 17:20:11 [notice] 32#32: exiting
+2022/05/08 17:20:11 [notice] 15#15: exit
+2022/05/08 17:20:11 [notice] 29#29: exit
+2022/05/08 17:20:11 [notice] 28#28: gracefully shutting down
+2022/05/08 17:20:11 [notice] 16#16: exiting
+2022/05/08 17:20:11 [notice] 28#28: exiting
+2022/05/08 17:20:11 [notice] 25#25: exit
+2022/05/08 17:20:11 [notice] 19#19: exit
+2022/05/08 17:20:11 [notice] 10#10: exit
+2022/05/08 17:20:11 [notice] 28#28: exit
+2022/05/08 17:20:11 [notice] 26#26: exit
+2022/05/08 17:20:11 [notice] 27#27: exit
+2022/05/08 17:20:11 [notice] 32#32: exit
+2022/05/08 17:20:11 [notice] 16#16: exit
+2022/05/08 17:20:11 [notice] 9#9: gracefully shutting down
+2022/05/08 17:20:11 [notice] 12#12: exiting
+2022/05/08 17:20:11 [notice] 20#20: gracefully shutting down
+2022/05/08 17:20:11 [notice] 9#9: exiting
+2022/05/08 17:20:11 [notice] 21#21: gracefully shutting down
+2022/05/08 17:20:11 [notice] 21#21: exiting
+2022/05/08 17:20:11 [notice] 9#9: exit
+2022/05/08 17:20:11 [notice] 21#21: exit
+2022/05/08 17:20:11 [notice] 20#20: exiting
+2022/05/08 17:20:11 [notice] 12#12: exit
+2022/05/08 17:20:11 [notice] 20#20: exit
+2022/05/08 17:20:11 [notice] 1#1: signal 17 (SIGCHLD) received from 18
+2022/05/08 17:20:11 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:20:11 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/08 17:20:11 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:20:11 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/08 17:20:11 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:20:11 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/08 17:20:11 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/08 17:20:11 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 17:20:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:20:12 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/08 17:20:12 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:20:12 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/05/08 17:20:12 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:20:12 [notice] 1#1: signal 17 (SIGCHLD) received from 9
+2022/05/08 17:20:12 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2022/05/08 17:20:12 [notice] 1#1: worker process 32 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:20:12 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/08 17:20:12 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 17:20:12 [notice] 1#1: exit
+2022/05/08 17:20:14 [notice] 1#1: using the "epoll" event method
+2022/05/08 17:20:14 [notice] 1#1: nginx/1.21.6
+2022/05/08 17:20:14 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 17:20:14 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 17:20:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 17:20:14 [notice] 1#1: start worker processes
+2022/05/08 17:20:14 [notice] 1#1: start worker process 9
+2022/05/08 17:20:14 [notice] 1#1: start worker process 10
+2022/05/08 17:20:14 [notice] 1#1: start worker process 11
+2022/05/08 17:20:14 [notice] 1#1: start worker process 12
+2022/05/08 17:20:14 [notice] 1#1: start worker process 13
+2022/05/08 17:20:14 [notice] 1#1: start worker process 14
+2022/05/08 17:20:14 [notice] 1#1: start worker process 15
+2022/05/08 17:20:14 [notice] 1#1: start worker process 16
+2022/05/08 17:20:14 [notice] 1#1: start worker process 17
+2022/05/08 17:20:14 [notice] 1#1: start worker process 18
+2022/05/08 17:20:14 [notice] 1#1: start worker process 19
+2022/05/08 17:20:14 [notice] 1#1: start worker process 20
+2022/05/08 17:20:14 [notice] 1#1: start worker process 21
+2022/05/08 17:20:14 [notice] 1#1: start worker process 22
+2022/05/08 17:20:14 [notice] 1#1: start worker process 23
+2022/05/08 17:20:14 [notice] 1#1: start worker process 24
+2022/05/08 17:20:14 [notice] 1#1: start worker process 25
+2022/05/08 17:20:14 [notice] 1#1: start worker process 26
+2022/05/08 17:20:14 [notice] 1#1: start worker process 27
+2022/05/08 17:20:14 [notice] 1#1: start worker process 28
+2022/05/08 17:20:14 [notice] 1#1: start worker process 29
+2022/05/08 17:20:14 [notice] 1#1: start worker process 30
+2022/05/08 17:20:14 [notice] 1#1: start worker process 31
+2022/05/08 17:20:14 [notice] 1#1: start worker process 32
+2022/05/08 17:42:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 17:42:53 [notice] 11#11: gracefully shutting down
+2022/05/08 17:42:53 [notice] 14#14: gracefully shutting down
+2022/05/08 17:42:53 [notice] 17#17: gracefully shutting down
+2022/05/08 17:42:53 [notice] 11#11: exiting
+2022/05/08 17:42:53 [notice] 10#10: gracefully shutting down
+2022/05/08 17:42:53 [notice] 24#24: gracefully shutting down
+2022/05/08 17:42:53 [notice] 18#18: gracefully shutting down
+2022/05/08 17:42:53 [notice] 21#21: gracefully shutting down
+2022/05/08 17:42:53 [notice] 9#9: gracefully shutting down
+2022/05/08 17:42:53 [notice] 14#14: exiting
+2022/05/08 17:42:53 [notice] 19#19: gracefully shutting down
+2022/05/08 17:42:53 [notice] 26#26: gracefully shutting down
+2022/05/08 17:42:53 [notice] 27#27: gracefully shutting down
+2022/05/08 17:42:53 [notice] 30#30: gracefully shutting down
+2022/05/08 17:42:53 [notice] 24#24: exiting
+2022/05/08 17:42:53 [notice] 31#31: gracefully shutting down
+2022/05/08 17:42:53 [notice] 18#18: exiting
+2022/05/08 17:42:53 [notice] 21#21: exiting
+2022/05/08 17:42:53 [notice] 25#25: gracefully shutting down
+2022/05/08 17:42:53 [notice] 19#19: exiting
+2022/05/08 17:42:53 [notice] 26#26: exiting
+2022/05/08 17:42:53 [notice] 27#27: exiting
+2022/05/08 17:42:53 [notice] 30#30: exiting
+2022/05/08 17:42:53 [notice] 31#31: exiting
+2022/05/08 17:42:53 [notice] 10#10: exiting
+2022/05/08 17:42:53 [notice] 25#25: exiting
+2022/05/08 17:42:53 [notice] 13#13: gracefully shutting down
+2022/05/08 17:42:53 [notice] 13#13: exiting
+2022/05/08 17:42:53 [notice] 11#11: exit
+2022/05/08 17:42:53 [notice] 14#14: exit
+2022/05/08 17:42:53 [notice] 19#19: exit
+2022/05/08 17:42:53 [notice] 18#18: exit
+2022/05/08 17:42:53 [notice] 24#24: exit
+2022/05/08 17:42:53 [notice] 21#21: exit
+2022/05/08 17:42:53 [notice] 10#10: exit
+2022/05/08 17:42:53 [notice] 31#31: exit
+2022/05/08 17:42:53 [notice] 29#29: gracefully shutting down
+2022/05/08 17:42:53 [notice] 29#29: exiting
+2022/05/08 17:42:53 [notice] 26#26: exit
+2022/05/08 17:42:53 [notice] 30#30: exit
+2022/05/08 17:42:53 [notice] 27#27: exit
+2022/05/08 17:42:53 [notice] 25#25: exit
+2022/05/08 17:42:53 [notice] 13#13: exit
+2022/05/08 17:42:53 [notice] 15#15: gracefully shutting down
+2022/05/08 17:42:53 [notice] 32#32: gracefully shutting down
+2022/05/08 17:42:53 [notice] 12#12: gracefully shutting down
+2022/05/08 17:42:53 [notice] 15#15: exiting
+2022/05/08 17:42:53 [notice] 28#28: gracefully shutting down
+2022/05/08 17:42:53 [notice] 32#32: exiting
+2022/05/08 17:42:53 [notice] 29#29: exit
+2022/05/08 17:42:53 [notice] 20#20: gracefully shutting down
+2022/05/08 17:42:53 [notice] 12#12: exiting
+2022/05/08 17:42:53 [notice] 28#28: exiting
+2022/05/08 17:42:53 [notice] 16#16: gracefully shutting down
+2022/05/08 17:42:53 [notice] 17#17: exiting
+2022/05/08 17:42:53 [notice] 20#20: exiting
+2022/05/08 17:42:53 [notice] 22#22: gracefully shutting down
+2022/05/08 17:42:53 [notice] 23#23: gracefully shutting down
+2022/05/08 17:42:53 [notice] 22#22: exiting
+2022/05/08 17:42:53 [notice] 23#23: exiting
+2022/05/08 17:42:53 [notice] 12#12: exit
+2022/05/08 17:42:53 [notice] 28#28: exit
+2022/05/08 17:42:53 [notice] 32#32: exit
+2022/05/08 17:42:53 [notice] 15#15: exit
+2022/05/08 17:42:53 [notice] 20#20: exit
+2022/05/08 17:42:53 [notice] 17#17: exit
+2022/05/08 17:42:53 [notice] 22#22: exit
+2022/05/08 17:42:53 [notice] 23#23: exit
+2022/05/08 17:42:53 [notice] 16#16: exiting
+2022/05/08 17:42:53 [notice] 16#16: exit
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/08 17:42:53 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/08 17:42:53 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/08 17:42:53 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 18
+2022/05/08 17:42:53 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/08 17:42:53 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/08 17:42:53 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/08 17:42:53 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: worker process 32 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 10
+2022/05/08 17:42:53 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:42:53 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/08 17:42:53 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 17:42:53 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:43:08 [notice] 1#1: using the "epoll" event method
+2022/05/08 17:43:08 [notice] 1#1: nginx/1.21.6
+2022/05/08 17:43:08 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 17:43:08 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 17:43:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 17:43:08 [notice] 1#1: start worker processes
+2022/05/08 17:43:08 [notice] 1#1: start worker process 10
+2022/05/08 17:43:08 [notice] 1#1: start worker process 11
+2022/05/08 17:43:08 [notice] 1#1: start worker process 12
+2022/05/08 17:43:08 [notice] 1#1: start worker process 13
+2022/05/08 17:43:08 [notice] 1#1: start worker process 14
+2022/05/08 17:43:08 [notice] 1#1: start worker process 15
+2022/05/08 17:43:08 [notice] 1#1: start worker process 16
+2022/05/08 17:43:08 [notice] 1#1: start worker process 17
+2022/05/08 17:43:08 [notice] 1#1: start worker process 18
+2022/05/08 17:43:08 [notice] 1#1: start worker process 19
+2022/05/08 17:43:08 [notice] 1#1: start worker process 20
+2022/05/08 17:43:08 [notice] 1#1: start worker process 21
+2022/05/08 17:43:08 [notice] 1#1: start worker process 22
+2022/05/08 17:43:08 [notice] 1#1: start worker process 23
+2022/05/08 17:43:08 [notice] 1#1: start worker process 24
+2022/05/08 17:43:08 [notice] 1#1: start worker process 25
+2022/05/08 17:43:08 [notice] 1#1: start worker process 26
+2022/05/08 17:43:08 [notice] 1#1: start worker process 27
+2022/05/08 17:43:08 [notice] 1#1: start worker process 28
+2022/05/08 17:43:08 [notice] 1#1: start worker process 29
+2022/05/08 17:43:08 [notice] 1#1: start worker process 30
+2022/05/08 17:43:08 [notice] 1#1: start worker process 31
+2022/05/08 17:43:08 [notice] 1#1: start worker process 32
+2022/05/08 17:43:08 [notice] 1#1: start worker process 33
+2022/05/08 17:44:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 17:44:39 [notice] 13#13: gracefully shutting down
+2022/05/08 17:44:39 [notice] 11#11: gracefully shutting down
+2022/05/08 17:44:39 [notice] 15#15: gracefully shutting down
+2022/05/08 17:44:39 [notice] 22#22: gracefully shutting down
+2022/05/08 17:44:39 [notice] 13#13: exiting
+2022/05/08 17:44:39 [notice] 10#10: gracefully shutting down
+2022/05/08 17:44:39 [notice] 14#14: gracefully shutting down
+2022/05/08 17:44:39 [notice] 15#15: exiting
+2022/05/08 17:44:39 [notice] 27#27: gracefully shutting down
+2022/05/08 17:44:39 [notice] 16#16: gracefully shutting down
+2022/05/08 17:44:39 [notice] 26#26: gracefully shutting down
+2022/05/08 17:44:39 [notice] 23#23: gracefully shutting down
+2022/05/08 17:44:39 [notice] 19#19: gracefully shutting down
+2022/05/08 17:44:39 [notice] 22#22: exiting
+2022/05/08 17:44:39 [notice] 10#10: exiting
+2022/05/08 17:44:39 [notice] 21#21: gracefully shutting down
+2022/05/08 17:44:39 [notice] 14#14: exiting
+2022/05/08 17:44:39 [notice] 20#20: gracefully shutting down
+2022/05/08 17:44:39 [notice] 26#26: exiting
+2022/05/08 17:44:39 [notice] 25#25: gracefully shutting down
+2022/05/08 17:44:39 [notice] 17#17: gracefully shutting down
+2022/05/08 17:44:39 [notice] 27#27: exiting
+2022/05/08 17:44:39 [notice] 11#11: exiting
+2022/05/08 17:44:39 [notice] 16#16: exiting
+2022/05/08 17:44:39 [notice] 23#23: exiting
+2022/05/08 17:44:39 [notice] 19#19: exiting
+2022/05/08 17:44:39 [notice] 21#21: exiting
+2022/05/08 17:44:39 [notice] 17#17: exiting
+2022/05/08 17:44:39 [notice] 20#20: exiting
+2022/05/08 17:44:39 [notice] 25#25: exiting
+2022/05/08 17:44:39 [notice] 15#15: exit
+2022/05/08 17:44:39 [notice] 13#13: exit
+2022/05/08 17:44:39 [notice] 11#11: exit
+2022/05/08 17:44:39 [notice] 10#10: exit
+2022/05/08 17:44:39 [notice] 14#14: exit
+2022/05/08 17:44:39 [notice] 22#22: exit
+2022/05/08 17:44:39 [notice] 16#16: exit
+2022/05/08 17:44:39 [notice] 23#23: exit
+2022/05/08 17:44:39 [notice] 27#27: exit
+2022/05/08 17:44:39 [notice] 25#25: exit
+2022/05/08 17:44:39 [notice] 26#26: exit
+2022/05/08 17:44:39 [notice] 19#19: exit
+2022/05/08 17:44:39 [notice] 17#17: exit
+2022/05/08 17:44:39 [notice] 21#21: exit
+2022/05/08 17:44:39 [notice] 20#20: exit
+2022/05/08 17:44:39 [notice] 24#24: gracefully shutting down
+2022/05/08 17:44:39 [notice] 24#24: exiting
+2022/05/08 17:44:39 [notice] 12#12: gracefully shutting down
+2022/05/08 17:44:39 [notice] 29#29: gracefully shutting down
+2022/05/08 17:44:39 [notice] 18#18: gracefully shutting down
+2022/05/08 17:44:39 [notice] 28#28: gracefully shutting down
+2022/05/08 17:44:39 [notice] 30#30: gracefully shutting down
+2022/05/08 17:44:39 [notice] 12#12: exiting
+2022/05/08 17:44:39 [notice] 32#32: gracefully shutting down
+2022/05/08 17:44:39 [notice] 33#33: gracefully shutting down
+2022/05/08 17:44:39 [notice] 18#18: exiting
+2022/05/08 17:44:39 [notice] 29#29: exiting
+2022/05/08 17:44:39 [notice] 31#31: gracefully shutting down
+2022/05/08 17:44:39 [notice] 28#28: exiting
+2022/05/08 17:44:39 [notice] 30#30: exiting
+2022/05/08 17:44:39 [notice] 32#32: exiting
+2022/05/08 17:44:39 [notice] 33#33: exiting
+2022/05/08 17:44:39 [notice] 31#31: exiting
+2022/05/08 17:44:39 [notice] 24#24: exit
+2022/05/08 17:44:39 [notice] 18#18: exit
+2022/05/08 17:44:39 [notice] 12#12: exit
+2022/05/08 17:44:39 [notice] 28#28: exit
+2022/05/08 17:44:39 [notice] 29#29: exit
+2022/05/08 17:44:39 [notice] 30#30: exit
+2022/05/08 17:44:39 [notice] 32#32: exit
+2022/05/08 17:44:39 [notice] 33#33: exit
+2022/05/08 17:44:39 [notice] 31#31: exit
+2022/05/08 17:44:39 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2022/05/08 17:44:39 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:44:39 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/08 17:44:39 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 32 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:44:39 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/08 17:44:39 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:44:39 [notice] 1#1: signal 17 (SIGCHLD) received from 19
+2022/05/08 17:44:39 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 33 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:44:39 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2022/05/08 17:44:39 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/08 17:44:39 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:44:39 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/08 17:44:39 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:44:39 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/08 17:44:39 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 17:44:39 [notice] 1#1: exit
+2022/05/08 17:45:04 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:45:05 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:45:06 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:45:06 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:45:08 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:45:10 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:45:13 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:45:20 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/wattanapong.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/wattanapong.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:47:10 [notice] 1#1: using the "epoll" event method
+2022/05/08 17:47:10 [notice] 1#1: nginx/1.21.6
+2022/05/08 17:47:10 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 17:47:10 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 17:47:10 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 17:47:10 [notice] 1#1: start worker processes
+2022/05/08 17:47:10 [notice] 1#1: start worker process 9
+2022/05/08 17:47:10 [notice] 1#1: start worker process 10
+2022/05/08 17:47:10 [notice] 1#1: start worker process 11
+2022/05/08 17:47:10 [notice] 1#1: start worker process 12
+2022/05/08 17:47:10 [notice] 1#1: start worker process 13
+2022/05/08 17:47:10 [notice] 1#1: start worker process 14
+2022/05/08 17:47:10 [notice] 1#1: start worker process 15
+2022/05/08 17:47:10 [notice] 1#1: start worker process 16
+2022/05/08 17:47:10 [notice] 1#1: start worker process 17
+2022/05/08 17:47:10 [notice] 1#1: start worker process 18
+2022/05/08 17:47:10 [notice] 1#1: start worker process 19
+2022/05/08 17:47:10 [notice] 1#1: start worker process 20
+2022/05/08 17:47:10 [notice] 1#1: start worker process 21
+2022/05/08 17:47:10 [notice] 1#1: start worker process 22
+2022/05/08 17:47:10 [notice] 1#1: start worker process 23
+2022/05/08 17:47:10 [notice] 1#1: start worker process 24
+2022/05/08 17:47:10 [notice] 1#1: start worker process 25
+2022/05/08 17:47:10 [notice] 1#1: start worker process 26
+2022/05/08 17:47:10 [notice] 1#1: start worker process 27
+2022/05/08 17:47:10 [notice] 1#1: start worker process 28
+2022/05/08 17:47:10 [notice] 1#1: start worker process 29
+2022/05/08 17:47:10 [notice] 1#1: start worker process 30
+2022/05/08 17:47:10 [notice] 1#1: start worker process 31
+2022/05/08 17:47:10 [notice] 1#1: start worker process 32
+2022/05/08 17:48:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 17:48:20 [notice] 14#14: gracefully shutting down
+2022/05/08 17:48:20 [notice] 11#11: gracefully shutting down
+2022/05/08 17:48:20 [notice] 9#9: gracefully shutting down
+2022/05/08 17:48:20 [notice] 17#17: gracefully shutting down
+2022/05/08 17:48:20 [notice] 15#15: gracefully shutting down
+2022/05/08 17:48:20 [notice] 21#21: gracefully shutting down
+2022/05/08 17:48:20 [notice] 20#20: gracefully shutting down
+2022/05/08 17:48:20 [notice] 18#18: gracefully shutting down
+2022/05/08 17:48:20 [notice] 29#29: gracefully shutting down
+2022/05/08 17:48:20 [notice] 23#23: gracefully shutting down
+2022/05/08 17:48:20 [notice] 16#16: gracefully shutting down
+2022/05/08 17:48:20 [notice] 9#9: exiting
+2022/05/08 17:48:20 [notice] 28#28: gracefully shutting down
+2022/05/08 17:48:20 [notice] 11#11: exiting
+2022/05/08 17:48:20 [notice] 15#15: exiting
+2022/05/08 17:48:20 [notice] 27#27: gracefully shutting down
+2022/05/08 17:48:20 [notice] 12#12: gracefully shutting down
+2022/05/08 17:48:20 [notice] 21#21: exiting
+2022/05/08 17:48:20 [notice] 25#25: gracefully shutting down
+2022/05/08 17:48:20 [notice] 14#14: exiting
+2022/05/08 17:48:20 [notice] 20#20: exiting
+2022/05/08 17:48:20 [notice] 18#18: exiting
+2022/05/08 17:48:20 [notice] 29#29: exiting
+2022/05/08 17:48:20 [notice] 23#23: exiting
+2022/05/08 17:48:20 [notice] 16#16: exiting
+2022/05/08 17:48:20 [notice] 28#28: exiting
+2022/05/08 17:48:20 [notice] 27#27: exiting
+2022/05/08 17:48:20 [notice] 12#12: exiting
+2022/05/08 17:48:20 [notice] 10#10: gracefully shutting down
+2022/05/08 17:48:20 [notice] 25#25: exiting
+2022/05/08 17:48:20 [notice] 10#10: exiting
+2022/05/08 17:48:20 [notice] 13#13: gracefully shutting down
+2022/05/08 17:48:20 [notice] 22#22: gracefully shutting down
+2022/05/08 17:48:20 [notice] 17#17: exiting
+2022/05/08 17:48:20 [notice] 24#24: gracefully shutting down
+2022/05/08 17:48:20 [notice] 22#22: exiting
+2022/05/08 17:48:20 [notice] 24#24: exiting
+2022/05/08 17:48:20 [notice] 9#9: exit
+2022/05/08 17:48:20 [notice] 11#11: exit
+2022/05/08 17:48:20 [notice] 10#10: exit
+2022/05/08 17:48:20 [notice] 25#25: exit
+2022/05/08 17:48:20 [notice] 21#21: exit
+2022/05/08 17:48:20 [notice] 18#18: exit
+2022/05/08 17:48:20 [notice] 23#23: exit
+2022/05/08 17:48:20 [notice] 29#29: exit
+2022/05/08 17:48:20 [notice] 14#14: exit
+2022/05/08 17:48:20 [notice] 28#28: exit
+2022/05/08 17:48:20 [notice] 27#27: exit
+2022/05/08 17:48:20 [notice] 12#12: exit
+2022/05/08 17:48:20 [notice] 22#22: exit
+2022/05/08 17:48:20 [notice] 16#16: exit
+2022/05/08 17:48:20 [notice] 20#20: exit
+2022/05/08 17:48:20 [notice] 24#24: exit
+2022/05/08 17:48:20 [notice] 15#15: exit
+2022/05/08 17:48:20 [notice] 30#30: gracefully shutting down
+2022/05/08 17:48:20 [notice] 30#30: exiting
+2022/05/08 17:48:20 [notice] 32#32: gracefully shutting down
+2022/05/08 17:48:20 [notice] 31#31: gracefully shutting down
+2022/05/08 17:48:20 [notice] 32#32: exiting
+2022/05/08 17:48:20 [notice] 31#31: exiting
+2022/05/08 17:48:20 [notice] 19#19: gracefully shutting down
+2022/05/08 17:48:20 [notice] 26#26: gracefully shutting down
+2022/05/08 17:48:20 [notice] 19#19: exiting
+2022/05/08 17:48:20 [notice] 26#26: exiting
+2022/05/08 17:48:20 [notice] 32#32: exit
+2022/05/08 17:48:20 [notice] 26#26: exit
+2022/05/08 17:48:20 [notice] 30#30: exit
+2022/05/08 17:48:20 [notice] 19#19: exit
+2022/05/08 17:48:20 [notice] 31#31: exit
+2022/05/08 17:48:20 [notice] 17#17: exit
+2022/05/08 17:48:20 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/08 17:48:20 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:48:20 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/08 17:48:20 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:48:20 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/08 17:48:20 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 32 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:48:20 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/05/08 17:48:20 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/05/08 17:48:20 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:48:20 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/05/08 17:48:20 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:48:20 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/08 17:48:20 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:48:20 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/08 17:48:20 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 17:48:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:48:40 [notice] 1#1: using the "epoll" event method
+2022/05/08 17:48:40 [notice] 1#1: nginx/1.21.6
+2022/05/08 17:48:40 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 17:48:40 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 17:48:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 17:48:40 [notice] 1#1: start worker processes
+2022/05/08 17:48:40 [notice] 1#1: start worker process 9
+2022/05/08 17:48:40 [notice] 1#1: start worker process 10
+2022/05/08 17:48:40 [notice] 1#1: start worker process 11
+2022/05/08 17:48:40 [notice] 1#1: start worker process 12
+2022/05/08 17:48:40 [notice] 1#1: start worker process 13
+2022/05/08 17:48:40 [notice] 1#1: start worker process 14
+2022/05/08 17:48:40 [notice] 1#1: start worker process 15
+2022/05/08 17:48:40 [notice] 1#1: start worker process 16
+2022/05/08 17:48:40 [notice] 1#1: start worker process 17
+2022/05/08 17:48:40 [notice] 1#1: start worker process 18
+2022/05/08 17:48:40 [notice] 1#1: start worker process 19
+2022/05/08 17:48:40 [notice] 1#1: start worker process 20
+2022/05/08 17:48:40 [notice] 1#1: start worker process 21
+2022/05/08 17:48:40 [notice] 1#1: start worker process 22
+2022/05/08 17:48:40 [notice] 1#1: start worker process 23
+2022/05/08 17:48:40 [notice] 1#1: start worker process 24
+2022/05/08 17:48:40 [notice] 1#1: start worker process 25
+2022/05/08 17:48:40 [notice] 1#1: start worker process 26
+2022/05/08 17:48:40 [notice] 1#1: start worker process 27
+2022/05/08 17:48:40 [notice] 1#1: start worker process 28
+2022/05/08 17:48:40 [notice] 1#1: start worker process 29
+2022/05/08 17:48:40 [notice] 1#1: start worker process 30
+2022/05/08 17:48:40 [notice] 1#1: start worker process 31
+2022/05/08 17:48:40 [notice] 1#1: start worker process 32
+2022/05/08 17:49:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 17:49:39 [notice] 13#13: gracefully shutting down
+2022/05/08 17:49:39 [notice] 13#13: exiting
+2022/05/08 17:49:39 [notice] 15#15: gracefully shutting down
+2022/05/08 17:49:39 [notice] 14#14: gracefully shutting down
+2022/05/08 17:49:39 [notice] 10#10: gracefully shutting down
+2022/05/08 17:49:39 [notice] 16#16: gracefully shutting down
+2022/05/08 17:49:39 [notice] 9#9: gracefully shutting down
+2022/05/08 17:49:39 [notice] 12#12: gracefully shutting down
+2022/05/08 17:49:39 [notice] 21#21: gracefully shutting down
+2022/05/08 17:49:39 [notice] 19#19: gracefully shutting down
+2022/05/08 17:49:39 [notice] 24#24: gracefully shutting down
+2022/05/08 17:49:39 [notice] 15#15: exiting
+2022/05/08 17:49:39 [notice] 14#14: exiting
+2022/05/08 17:49:39 [notice] 17#17: gracefully shutting down
+2022/05/08 17:49:39 [notice] 18#18: gracefully shutting down
+2022/05/08 17:49:39 [notice] 10#10: exiting
+2022/05/08 17:49:39 [notice] 16#16: exiting
+2022/05/08 17:49:39 [notice] 12#12: exiting
+2022/05/08 17:49:39 [notice] 22#22: gracefully shutting down
+2022/05/08 17:49:39 [notice] 19#19: exiting
+2022/05/08 17:49:39 [notice] 21#21: exiting
+2022/05/08 17:49:39 [notice] 24#24: exiting
+2022/05/08 17:49:39 [notice] 17#17: exiting
+2022/05/08 17:49:39 [notice] 18#18: exiting
+2022/05/08 17:49:39 [notice] 22#22: exiting
+2022/05/08 17:49:39 [notice] 25#25: gracefully shutting down
+2022/05/08 17:49:39 [notice] 26#26: gracefully shutting down
+2022/05/08 17:49:39 [notice] 25#25: exiting
+2022/05/08 17:49:39 [notice] 26#26: exiting
+2022/05/08 17:49:39 [notice] 13#13: exit
+2022/05/08 17:49:39 [notice] 15#15: exit
+2022/05/08 17:49:39 [notice] 10#10: exit
+2022/05/08 17:49:39 [notice] 12#12: exit
+2022/05/08 17:49:39 [notice] 16#16: exit
+2022/05/08 17:49:39 [notice] 14#14: exit
+2022/05/08 17:49:39 [notice] 18#18: exit
+2022/05/08 17:49:39 [notice] 17#17: exit
+2022/05/08 17:49:39 [notice] 24#24: exit
+2022/05/08 17:49:39 [notice] 19#19: exit
+2022/05/08 17:49:39 [notice] 21#21: exit
+2022/05/08 17:49:39 [notice] 22#22: exit
+2022/05/08 17:49:39 [notice] 20#20: gracefully shutting down
+2022/05/08 17:49:39 [notice] 26#26: exit
+2022/05/08 17:49:39 [notice] 25#25: exit
+2022/05/08 17:49:39 [notice] 23#23: gracefully shutting down
+2022/05/08 17:49:39 [notice] 20#20: exiting
+2022/05/08 17:49:39 [notice] 11#11: gracefully shutting down
+2022/05/08 17:49:39 [notice] 23#23: exiting
+2022/05/08 17:49:39 [notice] 27#27: gracefully shutting down
+2022/05/08 17:49:39 [notice] 29#29: gracefully shutting down
+2022/05/08 17:49:39 [notice] 30#30: gracefully shutting down
+2022/05/08 17:49:39 [notice] 27#27: exiting
+2022/05/08 17:49:39 [notice] 32#32: gracefully shutting down
+2022/05/08 17:49:39 [notice] 30#30: exiting
+2022/05/08 17:49:39 [notice] 29#29: exiting
+2022/05/08 17:49:39 [notice] 32#32: exiting
+2022/05/08 17:49:39 [notice] 28#28: gracefully shutting down
+2022/05/08 17:49:39 [notice] 28#28: exiting
+2022/05/08 17:49:39 [notice] 31#31: gracefully shutting down
+2022/05/08 17:49:39 [notice] 27#27: exit
+2022/05/08 17:49:39 [notice] 31#31: exiting
+2022/05/08 17:49:39 [notice] 20#20: exit
+2022/05/08 17:49:39 [notice] 23#23: exit
+2022/05/08 17:49:39 [notice] 32#32: exit
+2022/05/08 17:49:39 [notice] 29#29: exit
+2022/05/08 17:49:39 [notice] 30#30: exit
+2022/05/08 17:49:39 [notice] 28#28: exit
+2022/05/08 17:49:39 [notice] 31#31: exit
+2022/05/08 17:49:39 [notice] 9#9: exiting
+2022/05/08 17:49:39 [notice] 9#9: exit
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 16
+2022/05/08 17:49:39 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/08 17:49:39 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 10
+2022/05/08 17:49:39 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/08 17:49:39 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/08 17:49:39 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/08 17:49:39 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 18
+2022/05/08 17:49:39 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2022/05/08 17:49:39 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 32 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/05/08 17:49:39 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 17:49:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 17:49:39 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/08 17:52:36 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:52:37 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:52:37 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:52:38 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:52:39 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:52:41 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:52:45 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/live/csystem.ict.up.ac.th/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/05/08 17:53:35 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:77
+2022/05/08 17:53:36 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:77
+2022/05/08 17:53:37 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:77
+2022/05/08 17:53:38 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:77
+2022/05/08 17:53:39 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:77
+2022/05/08 17:53:41 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:77
+2022/05/08 17:53:45 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:77
+2022/05/08 17:53:52 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:77
+2022/05/08 17:55:11 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:55:11 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:55:12 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:55:13 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:55:14 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:55:16 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:55:20 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:55:27 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:55:40 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:81
+2022/05/08 17:58:49 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/wattanapong.conf:81
+2022/05/08 17:58:50 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/wattanapong.conf:81
+2022/05/08 17:58:50 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/wattanapong.conf:81
+2022/05/08 17:58:51 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/wattanapong.conf:81
+2022/05/08 17:58:52 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/wattanapong.conf:81
+2022/05/08 17:59:15 [notice] 1#1: using the "epoll" event method
+2022/05/08 17:59:15 [notice] 1#1: nginx/1.21.6
+2022/05/08 17:59:15 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 17:59:15 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 17:59:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 17:59:15 [notice] 1#1: start worker processes
+2022/05/08 17:59:15 [notice] 1#1: start worker process 9
+2022/05/08 17:59:15 [notice] 1#1: start worker process 10
+2022/05/08 17:59:15 [notice] 1#1: start worker process 11
+2022/05/08 17:59:15 [notice] 1#1: start worker process 12
+2022/05/08 17:59:15 [notice] 1#1: start worker process 13
+2022/05/08 17:59:15 [notice] 1#1: start worker process 14
+2022/05/08 17:59:15 [notice] 1#1: start worker process 15
+2022/05/08 17:59:15 [notice] 1#1: start worker process 16
+2022/05/08 17:59:15 [notice] 1#1: start worker process 17
+2022/05/08 17:59:15 [notice] 1#1: start worker process 18
+2022/05/08 17:59:15 [notice] 1#1: start worker process 19
+2022/05/08 17:59:15 [notice] 1#1: start worker process 20
+2022/05/08 17:59:15 [notice] 1#1: start worker process 21
+2022/05/08 17:59:15 [notice] 1#1: start worker process 22
+2022/05/08 17:59:15 [notice] 1#1: start worker process 23
+2022/05/08 17:59:15 [notice] 1#1: start worker process 24
+2022/05/08 17:59:15 [notice] 1#1: start worker process 25
+2022/05/08 17:59:15 [notice] 1#1: start worker process 26
+2022/05/08 17:59:15 [notice] 1#1: start worker process 27
+2022/05/08 17:59:15 [notice] 1#1: start worker process 28
+2022/05/08 17:59:15 [notice] 1#1: start worker process 29
+2022/05/08 17:59:15 [notice] 1#1: start worker process 30
+2022/05/08 17:59:15 [notice] 1#1: start worker process 31
+2022/05/08 17:59:15 [notice] 1#1: start worker process 32
+2022/05/08 18:00:33 [error] 15#15: *9 open() "/var/www/html/wattanapong/certbot/.well-known/acme-challenge/DZhGYiC3El1rzLiCpeOPWv8wCcv-vLDYdJTBOOwMN8s" failed (2: No such file or directory), client: 18.237.5.155, server: csystem.local, request: "GET /.well-known/acme-challenge/DZhGYiC3El1rzLiCpeOPWv8wCcv-vLDYdJTBOOwMN8s HTTP/1.1", host: "csystem.ict.up.ac.th"
+2022/05/08 18:00:35 [error] 16#16: *10 open() "/var/www/html/wattanapong/certbot/.well-known/acme-challenge/DZhGYiC3El1rzLiCpeOPWv8wCcv-vLDYdJTBOOwMN8s" failed (2: No such file or directory), client: 66.133.109.36, server: csystem.local, request: "GET /.well-known/acme-challenge/DZhGYiC3El1rzLiCpeOPWv8wCcv-vLDYdJTBOOwMN8s HTTP/1.1", host: "csystem.ict.up.ac.th"
+2022/05/08 18:01:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 18:01:12 [notice] 9#9: gracefully shutting down
+2022/05/08 18:01:12 [notice] 11#11: gracefully shutting down
+2022/05/08 18:01:12 [notice] 12#12: gracefully shutting down
+2022/05/08 18:01:12 [notice] 9#9: exiting
+2022/05/08 18:01:12 [notice] 11#11: exiting
+2022/05/08 18:01:12 [notice] 10#10: gracefully shutting down
+2022/05/08 18:01:12 [notice] 12#12: exiting
+2022/05/08 18:01:12 [notice] 16#16: gracefully shutting down
+2022/05/08 18:01:12 [notice] 17#17: gracefully shutting down
+2022/05/08 18:01:12 [notice] 19#19: gracefully shutting down
+2022/05/08 18:01:12 [notice] 15#15: gracefully shutting down
+2022/05/08 18:01:12 [notice] 13#13: gracefully shutting down
+2022/05/08 18:01:12 [notice] 14#14: gracefully shutting down
+2022/05/08 18:01:12 [notice] 10#10: exiting
+2022/05/08 18:01:12 [notice] 16#16: exiting
+2022/05/08 18:01:12 [notice] 15#15: exiting
+2022/05/08 18:01:12 [notice] 28#28: gracefully shutting down
+2022/05/08 18:01:12 [notice] 13#13: exiting
+2022/05/08 18:01:12 [notice] 14#14: exiting
+2022/05/08 18:01:12 [notice] 23#23: gracefully shutting down
+2022/05/08 18:01:12 [notice] 28#28: exiting
+2022/05/08 18:01:12 [notice] 25#25: gracefully shutting down
+2022/05/08 18:01:12 [notice] 30#30: gracefully shutting down
+2022/05/08 18:01:12 [notice] 32#32: gracefully shutting down
+2022/05/08 18:01:12 [notice] 23#23: exiting
+2022/05/08 18:01:12 [notice] 21#21: gracefully shutting down
+2022/05/08 18:01:12 [notice] 17#17: exiting
+2022/05/08 18:01:12 [notice] 25#25: exiting
+2022/05/08 18:01:12 [notice] 30#30: exiting
+2022/05/08 18:01:12 [notice] 32#32: exiting
+2022/05/08 18:01:12 [notice] 21#21: exiting
+2022/05/08 18:01:12 [notice] 12#12: exit
+2022/05/08 18:01:12 [notice] 9#9: exit
+2022/05/08 18:01:12 [notice] 10#10: exit
+2022/05/08 18:01:12 [notice] 16#16: exit
+2022/05/08 18:01:12 [notice] 15#15: exit
+2022/05/08 18:01:12 [notice] 13#13: exit
+2022/05/08 18:01:12 [notice] 14#14: exit
+2022/05/08 18:01:12 [notice] 30#30: exit
+2022/05/08 18:01:12 [notice] 32#32: exit
+2022/05/08 18:01:12 [notice] 25#25: exit
+2022/05/08 18:01:12 [notice] 28#28: exit
+2022/05/08 18:01:12 [notice] 31#31: gracefully shutting down
+2022/05/08 18:01:12 [notice] 31#31: exiting
+2022/05/08 18:01:12 [notice] 23#23: exit
+2022/05/08 18:01:12 [notice] 21#21: exit
+2022/05/08 18:01:12 [notice] 17#17: exit
+2022/05/08 18:01:12 [notice] 24#24: gracefully shutting down
+2022/05/08 18:01:12 [notice] 31#31: exit
+2022/05/08 18:01:12 [notice] 20#20: gracefully shutting down
+2022/05/08 18:01:12 [notice] 26#26: gracefully shutting down
+2022/05/08 18:01:12 [notice] 29#29: gracefully shutting down
+2022/05/08 18:01:12 [notice] 24#24: exiting
+2022/05/08 18:01:12 [notice] 20#20: exiting
+2022/05/08 18:01:12 [notice] 26#26: exiting
+2022/05/08 18:01:12 [notice] 29#29: exiting
+2022/05/08 18:01:12 [notice] 22#22: gracefully shutting down
+2022/05/08 18:01:12 [notice] 22#22: exiting
+2022/05/08 18:01:12 [notice] 27#27: gracefully shutting down
+2022/05/08 18:01:12 [notice] 27#27: exiting
+2022/05/08 18:01:12 [notice] 29#29: exit
+2022/05/08 18:01:12 [notice] 20#20: exit
+2022/05/08 18:01:12 [notice] 26#26: exit
+2022/05/08 18:01:12 [notice] 24#24: exit
+2022/05/08 18:01:12 [notice] 11#11: exit
+2022/05/08 18:01:12 [notice] 22#22: exit
+2022/05/08 18:01:12 [notice] 27#27: exit
+2022/05/08 18:01:12 [notice] 18#18: gracefully shutting down
+2022/05/08 18:01:12 [notice] 18#18: exiting
+2022/05/08 18:01:12 [notice] 18#18: exit
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 10
+2022/05/08 18:01:12 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 18
+2022/05/08 18:01:12 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 32 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/08 18:01:12 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/08 18:01:12 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/08 18:01:12 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/05/08 18:01:12 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/08 18:01:12 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 9
+2022/05/08 18:01:12 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/05/08 18:01:12 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/08 18:01:12 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 18:01:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:01:54 [notice] 1#1: using the "epoll" event method
+2022/05/08 18:01:54 [notice] 1#1: nginx/1.21.6
+2022/05/08 18:01:54 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 18:01:54 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 18:01:54 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 18:01:54 [notice] 1#1: start worker processes
+2022/05/08 18:01:54 [notice] 1#1: start worker process 10
+2022/05/08 18:01:54 [notice] 1#1: start worker process 11
+2022/05/08 18:01:54 [notice] 1#1: start worker process 12
+2022/05/08 18:01:54 [notice] 1#1: start worker process 13
+2022/05/08 18:01:54 [notice] 1#1: start worker process 14
+2022/05/08 18:01:54 [notice] 1#1: start worker process 15
+2022/05/08 18:01:54 [notice] 1#1: start worker process 16
+2022/05/08 18:01:54 [notice] 1#1: start worker process 17
+2022/05/08 18:01:54 [notice] 1#1: start worker process 18
+2022/05/08 18:01:54 [notice] 1#1: start worker process 19
+2022/05/08 18:01:54 [notice] 1#1: start worker process 20
+2022/05/08 18:01:54 [notice] 1#1: start worker process 21
+2022/05/08 18:01:54 [notice] 1#1: start worker process 22
+2022/05/08 18:01:54 [notice] 1#1: start worker process 23
+2022/05/08 18:01:54 [notice] 1#1: start worker process 24
+2022/05/08 18:01:54 [notice] 1#1: start worker process 25
+2022/05/08 18:01:54 [notice] 1#1: start worker process 26
+2022/05/08 18:01:54 [notice] 1#1: start worker process 27
+2022/05/08 18:01:54 [notice] 1#1: start worker process 28
+2022/05/08 18:01:54 [notice] 1#1: start worker process 29
+2022/05/08 18:01:54 [notice] 1#1: start worker process 30
+2022/05/08 18:01:54 [notice] 1#1: start worker process 31
+2022/05/08 18:01:54 [notice] 1#1: start worker process 32
+2022/05/08 18:01:54 [notice] 1#1: start worker process 33
+2022/05/08 18:02:03 [error] 10#10: *1 open() "/var/www/html/wattanapong/certbot/.well-known/acme-challenge/ybZQvm8IClfaQsIIDcJz0HwCTc0AVs4VVqPBGNdidlc" failed (2: No such file or directory), client: 18.237.5.155, server: csystem.local, request: "GET /.well-known/acme-challenge/ybZQvm8IClfaQsIIDcJz0HwCTc0AVs4VVqPBGNdidlc HTTP/1.1", host: "csystem.ict.up.ac.th"
+2022/05/08 18:02:05 [error] 11#11: *2 open() "/var/www/html/wattanapong/certbot/.well-known/acme-challenge/ybZQvm8IClfaQsIIDcJz0HwCTc0AVs4VVqPBGNdidlc" failed (2: No such file or directory), client: 66.133.109.36, server: csystem.local, request: "GET /.well-known/acme-challenge/ybZQvm8IClfaQsIIDcJz0HwCTc0AVs4VVqPBGNdidlc HTTP/1.1", host: "csystem.ict.up.ac.th"
+2022/05/08 18:02:13 [error] 16#16: *10 "/var/www/html/wattanapong/certbot/.well-known/acme-challenge/index.php" is not found (2: No such file or directory), client: 171.4.209.125, server: csystem.local, request: "GET /.well-known/acme-challenge/ HTTP/1.1", host: "csystem.ict.up.ac.th"
+2022/05/08 18:02:22 [error] 18#18: *11 open() "/var/www/html/wattanapong/certbot/.well-known/acme-challenge/q8PFj8I_p_xi1OcMo-eL49prtRbUbRor98MwGyS1wxM" failed (2: No such file or directory), client: 18.237.5.155, server: csystem.local, request: "GET /.well-known/acme-challenge/q8PFj8I_p_xi1OcMo-eL49prtRbUbRor98MwGyS1wxM HTTP/1.1", host: "csystem.ict.up.ac.th"
+2022/05/08 18:02:22 [error] 19#19: *12 open() "/var/www/html/wattanapong/certbot/.well-known/acme-challenge/q8PFj8I_p_xi1OcMo-eL49prtRbUbRor98MwGyS1wxM" failed (2: No such file or directory), client: 66.133.109.36, server: csystem.local, request: "GET /.well-known/acme-challenge/q8PFj8I_p_xi1OcMo-eL49prtRbUbRor98MwGyS1wxM HTTP/1.1", host: "csystem.ict.up.ac.th"
+2022/05/08 18:02:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 18:02:29 [notice] 10#10: gracefully shutting down
+2022/05/08 18:02:29 [notice] 11#11: gracefully shutting down
+2022/05/08 18:02:29 [notice] 12#12: gracefully shutting down
+2022/05/08 18:02:29 [notice] 10#10: exiting
+2022/05/08 18:02:29 [notice] 13#13: gracefully shutting down
+2022/05/08 18:02:29 [notice] 15#15: gracefully shutting down
+2022/05/08 18:02:29 [notice] 11#11: exiting
+2022/05/08 18:02:29 [notice] 16#16: gracefully shutting down
+2022/05/08 18:02:29 [notice] 17#17: gracefully shutting down
+2022/05/08 18:02:29 [notice] 18#18: gracefully shutting down
+2022/05/08 18:02:29 [notice] 19#19: gracefully shutting down
+2022/05/08 18:02:29 [notice] 14#14: gracefully shutting down
+2022/05/08 18:02:29 [notice] 18#18: exiting
+2022/05/08 18:02:29 [notice] 19#19: exiting
+2022/05/08 18:02:29 [notice] 26#26: gracefully shutting down
+2022/05/08 18:02:29 [notice] 22#22: gracefully shutting down
+2022/05/08 18:02:29 [notice] 27#27: gracefully shutting down
+2022/05/08 18:02:29 [notice] 15#15: exiting
+2022/05/08 18:02:29 [notice] 13#13: exiting
+2022/05/08 18:02:29 [notice] 17#17: exiting
+2022/05/08 18:02:29 [notice] 26#26: exiting
+2022/05/08 18:02:29 [notice] 22#22: exiting
+2022/05/08 18:02:29 [notice] 12#12: exiting
+2022/05/08 18:02:29 [notice] 16#16: exiting
+2022/05/08 18:02:29 [notice] 14#14: exiting
+2022/05/08 18:02:29 [notice] 20#20: gracefully shutting down
+2022/05/08 18:02:29 [notice] 27#27: exiting
+2022/05/08 18:02:29 [notice] 20#20: exiting
+2022/05/08 18:02:29 [notice] 11#11: exit
+2022/05/08 18:02:29 [notice] 10#10: exit
+2022/05/08 18:02:29 [notice] 22#22: exit
+2022/05/08 18:02:29 [notice] 18#18: exit
+2022/05/08 18:02:29 [notice] 23#23: gracefully shutting down
+2022/05/08 18:02:29 [notice] 15#15: exit
+2022/05/08 18:02:29 [notice] 23#23: exiting
+2022/05/08 18:02:29 [notice] 26#26: exit
+2022/05/08 18:02:29 [notice] 13#13: exit
+2022/05/08 18:02:29 [notice] 17#17: exit
+2022/05/08 18:02:29 [notice] 14#14: exit
+2022/05/08 18:02:29 [notice] 16#16: exit
+2022/05/08 18:02:29 [notice] 12#12: exit
+2022/05/08 18:02:29 [notice] 20#20: exit
+2022/05/08 18:02:29 [notice] 27#27: exit
+2022/05/08 18:02:29 [notice] 29#29: gracefully shutting down
+2022/05/08 18:02:29 [notice] 23#23: exit
+2022/05/08 18:02:29 [notice] 28#28: gracefully shutting down
+2022/05/08 18:02:29 [notice] 30#30: gracefully shutting down
+2022/05/08 18:02:29 [notice] 32#32: gracefully shutting down
+2022/05/08 18:02:29 [notice] 29#29: exiting
+2022/05/08 18:02:29 [notice] 28#28: exiting
+2022/05/08 18:02:29 [notice] 25#25: gracefully shutting down
+2022/05/08 18:02:29 [notice] 30#30: exiting
+2022/05/08 18:02:29 [notice] 32#32: exiting
+2022/05/08 18:02:29 [notice] 25#25: exiting
+2022/05/08 18:02:29 [notice] 31#31: gracefully shutting down
+2022/05/08 18:02:29 [notice] 31#31: exiting
+2022/05/08 18:02:29 [notice] 21#21: gracefully shutting down
+2022/05/08 18:02:29 [notice] 21#21: exiting
+2022/05/08 18:02:29 [notice] 33#33: gracefully shutting down
+2022/05/08 18:02:29 [notice] 24#24: gracefully shutting down
+2022/05/08 18:02:29 [notice] 33#33: exiting
+2022/05/08 18:02:29 [notice] 29#29: exit
+2022/05/08 18:02:29 [notice] 24#24: exiting
+2022/05/08 18:02:29 [notice] 25#25: exit
+2022/05/08 18:02:29 [notice] 21#21: exit
+2022/05/08 18:02:29 [notice] 31#31: exit
+2022/05/08 18:02:29 [notice] 32#32: exit
+2022/05/08 18:02:29 [notice] 30#30: exit
+2022/05/08 18:02:29 [notice] 28#28: exit
+2022/05/08 18:02:29 [notice] 24#24: exit
+2022/05/08 18:02:29 [notice] 19#19: exit
+2022/05/08 18:02:29 [notice] 33#33: exit
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/08 18:02:30 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 14
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2022/05/08 18:02:30 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 32 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/05/08 18:02:30 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/05/08 18:02:30 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 33 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/05/08 18:02:30 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2022/05/08 18:02:30 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:02:30 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2022/05/08 18:02:30 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 18:02:30 [notice] 1#1: exit
+2022/05/08 18:03:06 [notice] 1#1: using the "epoll" event method
+2022/05/08 18:03:06 [notice] 1#1: nginx/1.21.6
+2022/05/08 18:03:06 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 18:03:06 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 18:03:06 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 18:03:06 [notice] 1#1: start worker processes
+2022/05/08 18:03:06 [notice] 1#1: start worker process 8
+2022/05/08 18:03:06 [notice] 1#1: start worker process 9
+2022/05/08 18:03:06 [notice] 1#1: start worker process 10
+2022/05/08 18:03:06 [notice] 1#1: start worker process 11
+2022/05/08 18:03:06 [notice] 1#1: start worker process 12
+2022/05/08 18:03:06 [notice] 1#1: start worker process 13
+2022/05/08 18:03:06 [notice] 1#1: start worker process 14
+2022/05/08 18:03:06 [notice] 1#1: start worker process 15
+2022/05/08 18:03:06 [notice] 1#1: start worker process 16
+2022/05/08 18:03:06 [notice] 1#1: start worker process 17
+2022/05/08 18:03:06 [notice] 1#1: start worker process 18
+2022/05/08 18:03:06 [notice] 1#1: start worker process 19
+2022/05/08 18:03:06 [notice] 1#1: start worker process 20
+2022/05/08 18:03:06 [notice] 1#1: start worker process 21
+2022/05/08 18:03:06 [notice] 1#1: start worker process 22
+2022/05/08 18:03:06 [notice] 1#1: start worker process 23
+2022/05/08 18:03:06 [notice] 1#1: start worker process 24
+2022/05/08 18:03:06 [notice] 1#1: start worker process 25
+2022/05/08 18:03:06 [notice] 1#1: start worker process 26
+2022/05/08 18:03:06 [notice] 1#1: start worker process 27
+2022/05/08 18:03:06 [notice] 1#1: start worker process 28
+2022/05/08 18:03:06 [notice] 1#1: start worker process 29
+2022/05/08 18:03:06 [notice] 1#1: start worker process 30
+2022/05/08 18:03:06 [notice] 1#1: start worker process 31
+2022/05/08 18:04:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 18:04:00 [notice] 9#9: gracefully shutting down
+2022/05/08 18:04:00 [notice] 10#10: gracefully shutting down
+2022/05/08 18:04:00 [notice] 11#11: gracefully shutting down
+2022/05/08 18:04:00 [notice] 8#8: gracefully shutting down
+2022/05/08 18:04:00 [notice] 12#12: gracefully shutting down
+2022/05/08 18:04:00 [notice] 9#9: exiting
+2022/05/08 18:04:00 [notice] 10#10: exiting
+2022/05/08 18:04:00 [notice] 15#15: gracefully shutting down
+2022/05/08 18:04:00 [notice] 11#11: exiting
+2022/05/08 18:04:00 [notice] 8#8: exiting
+2022/05/08 18:04:00 [notice] 12#12: exiting
+2022/05/08 18:04:00 [notice] 15#15: exiting
+2022/05/08 18:04:00 [notice] 12#12: exit
+2022/05/08 18:04:00 [notice] 9#9: exit
+2022/05/08 18:04:00 [notice] 11#11: exit
+2022/05/08 18:04:00 [notice] 15#15: exit
+2022/05/08 18:04:00 [notice] 8#8: exit
+2022/05/08 18:04:00 [notice] 10#10: exit
+2022/05/08 18:04:00 [notice] 13#13: gracefully shutting down
+2022/05/08 18:04:00 [notice] 13#13: exiting
+2022/05/08 18:04:00 [notice] 16#16: gracefully shutting down
+2022/05/08 18:04:00 [notice] 18#18: gracefully shutting down
+2022/05/08 18:04:00 [notice] 16#16: exiting
+2022/05/08 18:04:00 [notice] 19#19: gracefully shutting down
+2022/05/08 18:04:00 [notice] 20#20: gracefully shutting down
+2022/05/08 18:04:00 [notice] 18#18: exiting
+2022/05/08 18:04:00 [notice] 19#19: exiting
+2022/05/08 18:04:00 [notice] 27#27: gracefully shutting down
+2022/05/08 18:04:00 [notice] 20#20: exiting
+2022/05/08 18:04:00 [notice] 27#27: exiting
+2022/05/08 18:04:00 [notice] 28#28: gracefully shutting down
+2022/05/08 18:04:00 [notice] 28#28: exiting
+2022/05/08 18:04:00 [notice] 29#29: gracefully shutting down
+2022/05/08 18:04:00 [notice] 31#31: gracefully shutting down
+2022/05/08 18:04:00 [notice] 29#29: exiting
+2022/05/08 18:04:00 [notice] 13#13: exit
+2022/05/08 18:04:00 [notice] 31#31: exiting
+2022/05/08 18:04:00 [notice] 16#16: exit
+2022/05/08 18:04:00 [notice] 25#25: gracefully shutting down
+2022/05/08 18:04:00 [notice] 25#25: exiting
+2022/05/08 18:04:00 [notice] 18#18: exit
+2022/05/08 18:04:00 [notice] 19#19: exit
+2022/05/08 18:04:00 [notice] 27#27: exit
+2022/05/08 18:04:00 [notice] 28#28: exit
+2022/05/08 18:04:00 [notice] 29#29: exit
+2022/05/08 18:04:00 [notice] 31#31: exit
+2022/05/08 18:04:00 [notice] 22#22: gracefully shutting down
+2022/05/08 18:04:00 [notice] 22#22: exiting
+2022/05/08 18:04:00 [notice] 25#25: exit
+2022/05/08 18:04:00 [notice] 26#26: gracefully shutting down
+2022/05/08 18:04:00 [notice] 21#21: gracefully shutting down
+2022/05/08 18:04:00 [notice] 26#26: exiting
+2022/05/08 18:04:00 [notice] 21#21: exiting
+2022/05/08 18:04:00 [notice] 24#24: gracefully shutting down
+2022/05/08 18:04:00 [notice] 24#24: exiting
+2022/05/08 18:04:00 [notice] 22#22: exit
+2022/05/08 18:04:00 [notice] 20#20: exit
+2022/05/08 18:04:00 [notice] 23#23: gracefully shutting down
+2022/05/08 18:04:00 [notice] 14#14: gracefully shutting down
+2022/05/08 18:04:00 [notice] 30#30: gracefully shutting down
+2022/05/08 18:04:00 [notice] 14#14: exiting
+2022/05/08 18:04:00 [notice] 23#23: exiting
+2022/05/08 18:04:00 [notice] 30#30: exiting
+2022/05/08 18:04:00 [notice] 26#26: exit
+2022/05/08 18:04:00 [notice] 21#21: exit
+2022/05/08 18:04:00 [notice] 24#24: exit
+2022/05/08 18:04:00 [notice] 17#17: gracefully shutting down
+2022/05/08 18:04:00 [notice] 30#30: exit
+2022/05/08 18:04:00 [notice] 14#14: exit
+2022/05/08 18:04:00 [notice] 17#17: exiting
+2022/05/08 18:04:00 [notice] 23#23: exit
+2022/05/08 18:04:00 [notice] 17#17: exit
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/05/08 18:04:00 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 10
+2022/05/08 18:04:00 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/08 18:04:00 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/08 18:04:00 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/05/08 18:04:00 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/08 18:04:00 [notice] 1#1: worker process 8 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/08 18:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 19
+2022/05/08 18:04:00 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 18:04:00 [notice] 1#1: exit
+2022/05/08 18:04:33 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:04:33 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:04:34 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:04:35 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:04:36 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:04:38 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:04:42 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:04:49 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:05:02 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/csystem.conf:82
+2022/05/08 18:05:38 [notice] 1#1: using the "epoll" event method
+2022/05/08 18:05:38 [notice] 1#1: nginx/1.21.6
+2022/05/08 18:05:38 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 18:05:38 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 18:05:38 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 18:05:38 [notice] 1#1: start worker processes
+2022/05/08 18:05:38 [notice] 1#1: start worker process 9
+2022/05/08 18:05:38 [notice] 1#1: start worker process 10
+2022/05/08 18:05:38 [notice] 1#1: start worker process 11
+2022/05/08 18:05:38 [notice] 1#1: start worker process 12
+2022/05/08 18:05:38 [notice] 1#1: start worker process 13
+2022/05/08 18:05:38 [notice] 1#1: start worker process 14
+2022/05/08 18:05:38 [notice] 1#1: start worker process 15
+2022/05/08 18:05:38 [notice] 1#1: start worker process 16
+2022/05/08 18:05:38 [notice] 1#1: start worker process 17
+2022/05/08 18:05:38 [notice] 1#1: start worker process 18
+2022/05/08 18:05:38 [notice] 1#1: start worker process 19
+2022/05/08 18:05:38 [notice] 1#1: start worker process 20
+2022/05/08 18:05:38 [notice] 1#1: start worker process 21
+2022/05/08 18:05:38 [notice] 1#1: start worker process 22
+2022/05/08 18:05:38 [notice] 1#1: start worker process 23
+2022/05/08 18:05:38 [notice] 1#1: start worker process 24
+2022/05/08 18:05:38 [notice] 1#1: start worker process 25
+2022/05/08 18:05:38 [notice] 1#1: start worker process 26
+2022/05/08 18:05:38 [notice] 1#1: start worker process 27
+2022/05/08 18:05:38 [notice] 1#1: start worker process 28
+2022/05/08 18:05:38 [notice] 1#1: start worker process 29
+2022/05/08 18:05:38 [notice] 1#1: start worker process 30
+2022/05/08 18:05:38 [notice] 1#1: start worker process 31
+2022/05/08 18:05:38 [notice] 1#1: start worker process 32
+2022/05/08 18:10:11 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/08 18:10:11 [notice] 10#10: gracefully shutting down
+2022/05/08 18:10:11 [notice] 12#12: gracefully shutting down
+2022/05/08 18:10:11 [notice] 13#13: gracefully shutting down
+2022/05/08 18:10:11 [notice] 14#14: gracefully shutting down
+2022/05/08 18:10:11 [notice] 11#11: gracefully shutting down
+2022/05/08 18:10:11 [notice] 9#9: gracefully shutting down
+2022/05/08 18:10:11 [notice] 16#16: gracefully shutting down
+2022/05/08 18:10:11 [notice] 10#10: exiting
+2022/05/08 18:10:11 [notice] 12#12: exiting
+2022/05/08 18:10:11 [notice] 11#11: exiting
+2022/05/08 18:10:11 [notice] 23#23: gracefully shutting down
+2022/05/08 18:10:11 [notice] 27#27: gracefully shutting down
+2022/05/08 18:10:11 [notice] 28#28: gracefully shutting down
+2022/05/08 18:10:11 [notice] 23#23: exiting
+2022/05/08 18:10:11 [notice] 27#27: exiting
+2022/05/08 18:10:11 [notice] 28#28: exiting
+2022/05/08 18:10:11 [notice] 22#22: gracefully shutting down
+2022/05/08 18:10:11 [notice] 22#22: exiting
+2022/05/08 18:10:11 [notice] 18#18: gracefully shutting down
+2022/05/08 18:10:11 [notice] 30#30: gracefully shutting down
+2022/05/08 18:10:11 [notice] 18#18: exiting
+2022/05/08 18:10:11 [notice] 31#31: gracefully shutting down
+2022/05/08 18:10:11 [notice] 30#30: exiting
+2022/05/08 18:10:11 [notice] 10#10: exit
+2022/05/08 18:10:11 [notice] 31#31: exiting
+2022/05/08 18:10:11 [notice] 12#12: exit
+2022/05/08 18:10:11 [notice] 11#11: exit
+2022/05/08 18:10:11 [notice] 28#28: exit
+2022/05/08 18:10:11 [notice] 27#27: exit
+2022/05/08 18:10:11 [notice] 22#22: exit
+2022/05/08 18:10:11 [notice] 18#18: exit
+2022/05/08 18:10:11 [notice] 30#30: exit
+2022/05/08 18:10:11 [notice] 31#31: exit
+2022/05/08 18:10:11 [notice] 26#26: gracefully shutting down
+2022/05/08 18:10:11 [notice] 25#25: gracefully shutting down
+2022/05/08 18:10:11 [notice] 20#20: gracefully shutting down
+2022/05/08 18:10:11 [notice] 15#15: gracefully shutting down
+2022/05/08 18:10:11 [notice] 26#26: exiting
+2022/05/08 18:10:11 [notice] 25#25: exiting
+2022/05/08 18:10:11 [notice] 20#20: exiting
+2022/05/08 18:10:11 [notice] 15#15: exiting
+2022/05/08 18:10:11 [notice] 32#32: gracefully shutting down
+2022/05/08 18:10:11 [notice] 19#19: gracefully shutting down
+2022/05/08 18:10:11 [notice] 32#32: exiting
+2022/05/08 18:10:11 [notice] 19#19: exiting
+2022/05/08 18:10:11 [notice] 21#21: gracefully shutting down
+2022/05/08 18:10:11 [notice] 29#29: gracefully shutting down
+2022/05/08 18:10:11 [notice] 21#21: exiting
+2022/05/08 18:10:11 [notice] 29#29: exiting
+2022/05/08 18:10:11 [notice] 15#15: exit
+2022/05/08 18:10:11 [notice] 23#23: exit
+2022/05/08 18:10:11 [notice] 20#20: exit
+2022/05/08 18:10:11 [notice] 19#19: exit
+2022/05/08 18:10:11 [notice] 25#25: exit
+2022/05/08 18:10:11 [notice] 26#26: exit
+2022/05/08 18:10:11 [notice] 32#32: exit
+2022/05/08 18:10:11 [notice] 21#21: exit
+2022/05/08 18:10:11 [notice] 13#13: exiting
+2022/05/08 18:10:11 [notice] 29#29: exit
+2022/05/08 18:10:11 [notice] 14#14: exiting
+2022/05/08 18:10:11 [notice] 9#9: exiting
+2022/05/08 18:10:11 [notice] 24#24: gracefully shutting down
+2022/05/08 18:10:11 [notice] 16#16: exiting
+2022/05/08 18:10:11 [notice] 24#24: exiting
+2022/05/08 18:10:11 [notice] 17#17: gracefully shutting down
+2022/05/08 18:10:11 [notice] 17#17: exiting
+2022/05/08 18:10:11 [notice] 13#13: exit
+2022/05/08 18:10:11 [notice] 14#14: exit
+2022/05/08 18:10:11 [notice] 9#9: exit
+2022/05/08 18:10:11 [notice] 16#16: exit
+2022/05/08 18:10:11 [notice] 24#24: exit
+2022/05/08 18:10:11 [notice] 17#17: exit
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/05/08 18:10:11 [notice] 1#1: worker process 14 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 23 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 30 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 11
+2022/05/08 18:10:11 [notice] 1#1: worker process 11 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 22 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 32 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/08 18:10:11 [notice] 1#1: worker process 19 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 24 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 19
+2022/05/08 18:10:11 [notice] 1#1: worker process 10 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 16 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 20 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 21 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 15
+2022/05/08 18:10:11 [notice] 1#1: worker process 9 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 15 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 27 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/05/08 18:10:11 [notice] 1#1: worker process 13 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 18 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 25 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 28 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 13
+2022/05/08 18:10:11 [notice] 1#1: worker process 29 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2022/05/08 18:10:11 [notice] 1#1: worker process 31 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 12
+2022/05/08 18:10:11 [notice] 1#1: worker process 12 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: worker process 26 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/08 18:10:11 [notice] 1#1: signal 17 (SIGCHLD) received from 17
+2022/05/08 18:10:11 [notice] 1#1: worker process 17 exited with code 0
+2022/05/08 18:10:11 [notice] 1#1: exit
+2022/05/08 18:10:48 [notice] 1#1: using the "epoll" event method
+2022/05/08 18:10:48 [notice] 1#1: nginx/1.21.6
+2022/05/08 18:10:48 [notice] 1#1: built by gcc 10.3.1 20211027 (Alpine 10.3.1_git20211027) 
+2022/05/08 18:10:48 [notice] 1#1: OS: Linux 5.4.0-74-generic
+2022/05/08 18:10:48 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/08 18:10:48 [notice] 1#1: start worker processes
+2022/05/08 18:10:48 [notice] 1#1: start worker process 9
+2022/05/08 18:10:48 [notice] 1#1: start worker process 10
+2022/05/08 18:10:48 [notice] 1#1: start worker process 11
+2022/05/08 18:10:48 [notice] 1#1: start worker process 12
+2022/05/08 18:10:48 [notice] 1#1: start worker process 13
+2022/05/08 18:10:48 [notice] 1#1: start worker process 14
+2022/05/08 18:10:48 [notice] 1#1: start worker process 15
+2022/05/08 18:10:48 [notice] 1#1: start worker process 16
+2022/05/08 18:10:48 [notice] 1#1: start worker process 17
+2022/05/08 18:10:48 [notice] 1#1: start worker process 18
+2022/05/08 18:10:48 [notice] 1#1: start worker process 19
+2022/05/08 18:10:48 [notice] 1#1: start worker process 20
+2022/05/08 18:10:48 [notice] 1#1: start worker process 21
+2022/05/08 18:10:48 [notice] 1#1: start worker process 22
+2022/05/08 18:10:48 [notice] 1#1: start worker process 23
+2022/05/08 18:10:48 [notice] 1#1: start worker process 24
+2022/05/08 18:10:48 [notice] 1#1: start worker process 25
+2022/05/08 18:10:48 [notice] 1#1: start worker process 26
+2022/05/08 18:10:48 [notice] 1#1: start worker process 27
+2022/05/08 18:10:48 [notice] 1#1: start worker process 28
+2022/05/08 18:10:48 [notice] 1#1: start worker process 29
+2022/05/08 18:10:48 [notice] 1#1: start worker process 30
+2022/05/08 18:10:48 [notice] 1#1: start worker process 31
+2022/05/08 18:10:48 [notice] 1#1: start worker process 32
