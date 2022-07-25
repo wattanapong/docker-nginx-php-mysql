@@ -8,6 +8,9 @@
 docker-compose up -d
 ```
 
+# restart nginx service
+docker exec -it nginx nginx -s reload
+
 # Generate nginx SSL on docker
 
 
@@ -24,6 +27,22 @@ docker-compose run --rm  certbot certonly --webroot --webroot-path /var/www/html
 4. uncomment 443 port on nginx/default.template.conf (server { } )
 
 *** no need to generate ssl certificate by docker run *** jacoelho/generate-certificate ***
+
+# Renew let's encrypt ssl
+docker-compose run --rm  certbot certonly --webroot --webroot-path /var/www/html/csystem/certbot/ -d csystem.ict.up.ac.th
+docker-compose run --rm  certbot certonly --webroot --webroot-path /var/www/html/wattanapong/certbot/ -d wattanapong.com
+docker-compose run --rm  certbot certonly --webroot --webroot-path /var/www/html/training/certbot/ -d training.wattanapong.com
+
+# check expire date
+## based docker
+docker-compose run --rm  certbot certificates
+
+## based client access
+echo | openssl s_client -connect localhost:443 -servername csystem.ict.up.ac.th 2>/dev/null | openssl x509 -noout -dates
+
+# composer install & update
+docker run --rm -v /home/wattanapongsu/php_www/training:/app composer update
+
 
 # Connect database (MySQL)
 1. connect 
