@@ -3,23 +3,32 @@ services:
     web:
         image: nginx:alpine
         volumes:
-            - "./etc/ssl:/etc/ssl"
+            # - "./etc/ssl:/etc/ssl"
             - "./etc/logs/nginx:/var/log/nginx/:rw"
             
             - "/home/wattanapongsu/php_www/csystem:/var/www/html/csystem/:rw"
             - "/home/wattanapongsu/php_www/default:/var/www/html/default/:rw"
             - "/home/wattanapongsu/php_www/wattanapong:/var/www/html/wattanapong/:rw"
+            - "/home/wattanapongsu/php_www/training:/var/www/html/training/:rw"
+            - "/home/wattanapongsu/php_www/PigPregnancy:/var/www/html/PigPregnancy/:rw"
 
             - "./etc/nginx/default.template.conf:/etc/nginx/conf.d/default.template"
             - "./etc/nginx/csystem.https.conf:/etc/nginx/conf.d/csystem.template"
             - "./etc/nginx/wattanapong.https.conf:/etc/nginx/conf.d/wattanapong.template"
+            - "./etc/nginx/training.https.conf:/etc/nginx/conf.d/training.template"
+            - "./etc/nginx/PigPregnancy.https.conf:/etc/nginx/conf.d/PigPregnancy.template"
 
             - "./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:ro"
             - "./etc/certbot/www/wattanapong:/var/www/html/wattanapong/certbot/:ro"
+            - "./etc/certbot/www/training:/var/www/html/training/certbot/:ro"
+            - "./etc/certbot/www/PigPregnancy:/var/www/html/PigPregnancy/certbot/:ro"
+
             - "./etc/certbot/conf/:/etc/nginx/ssl/:ro"
 
             - "/home/wattanapongsu/php_www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
             - "/home/wattanapongsu/php_www/wattanapong/frontend/web/assets:/var/www/html/wattanapong/frontend/web/assets:rw"
+            - "/home/wattanapongsu/php_www/training/frontend/web/assets:/var/www/html/training/frontend/web/assets/:rw"
+            - "/home/wattanapongsu/php_www/PigPregnancy/frontend/web/assets:/var/www/html/PigPregnancy/frontend/web/assets/:rw"
             - "/ramdisk/c/:/ramdisk/c/:rw"
 
         ports:
@@ -30,17 +39,54 @@ services:
         command: /bin/sh -c "
                 envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/csystem.template > /etc/nginx/conf.d/csystem.conf 
                 && envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/wattanapong.template > /etc/nginx/conf.d/wattanapong.conf 
+                && envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/training.template > /etc/nginx/conf.d/training.conf
+                && envsubst '$$NGINX_HOST' < /etc/nginx/conf.d/PigPregnancy.template > /etc/nginx/conf.d/PigPregnancy.conf
                 && nginx -g 'daemon off;'"
         restart: always
         depends_on:
+            - client
+            - backend
             - php
             - mysqldb
-    
+    client:
+        build:
+          context: ./client
+          dockerfile: Dockerfile
+        ports:
+          - '3000:3000'
+        volumes:
+          - /app/node_modules # Inside the container, don't try to override this folder, just leave as is
+        restart: on-failure
+        container_name: client
+    backend:
+        build:
+          context: ./backend
+          dockerfile: Dockerfile
+        ports:
+          - '3001:3001'
+        restart: on-failure
+        container_name: backend
+        volumes:
+          - /app/node_modules # Inside the container, don't try to override this folder, just leave as is
+        env_file:
+          - ./backend/backend.env
+    mongo:
+        image: 'mongo'
+        container_name: 'mongo-db'
+        ports:
+          - '27017-27019:27017-27019'
+        volumes: 
+          - ./mongodb/db/init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+          - ./mongodb/db/mongo-volume:/data/db
+        env_file:
+          - ./mongodb/mongo.env
     certbot:
         image: certbot/certbot:latest
         volumes:
             - ./etc/certbot/www/csystem:/var/www/html/csystem/certbot/:rw
             - ./etc/certbot/www/wattanapong:/var/www/html/wattanapong/certbot/:rw
+            - ./etc/certbot/www/training:/var/www/html/training/certbot/:rw
+            - ./etc/certbot/www/PigPregnancy:/var/www/html/PigPregnancy/certbot/:rw
             - ./etc/certbot/conf/:/etc/letsencrypt/:rw
     php:
         build: './etc/php'
@@ -51,9 +97,13 @@ services:
             - "/home/wattanapongsu/php_www/default:/var/www/html/default/:rw"
             - "/home/wattanapongsu/php_www/csystem:/var/www/html/csystem/:rw"
             - "/home/wattanapongsu/php_www/wattanapong:/var/www/html/wattanapong/:rw"
+            - "/home/wattanapongsu/php_www/training:/var/www/html/training/:rw"
+            - "/home/wattanapongsu/php_www/PigPregnancy:/var/www/html/PigPregnancy/:rw"
 
             - "/home/wattanapongsu/php_www/csystem/frontend/web/assets:/var/www/html/csystem/frontend/web/assets:rw"
             - "/home/wattanapongsu/php_www/wattanapong/frontend/web/assets:/var/www/html/wattanapong/frontend/web/assets:rw"
+            - "/home/wattanapongsu/php_www/training/frontend/web/assets:/var/www/html/training/frontend/web/assets:rw"
+            - "/home/wattanapongsu/php_www/PigPregnancy/frontend/web/assets:/var/www/html/PigPregnancy/frontend/web/assets:rw"
             - "/ramdisk/c/:/ramdisk/c/:rw"
 
     composer_csystem:
@@ -67,6 +117,20 @@ services:
         image: composer/composer:2
         volumes:
             - "/home/wattanapongsu/php_www/wattanapong:/app"
+        depends_on:
+            - php
+        command: update
+    composer_training:
+        image: composer/composer:2
+        volumes:
+            - "/home/wattanapongsu/php_www/training:/app"
+        depends_on:
+            - php
+        command: update
+    composer_pig:
+        image: composer/composer:2
+        volumes:
+            - "/home/wattanapongsu/php_www/PigPregnancy:/app"
         depends_on:
             - php
         command: update
