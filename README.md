@@ -270,6 +270,11 @@ ___
 docker run --rm -v $(pwd)/web/app:/app composer require symfony/yaml
 ```
 
+### Updating package with composer, the example composer container names composer_omfr
+```sh
+docker-compose run -it composer_omfr composer update
+```
+
 ### Updating PHP dependencies with composer
 
 ```sh
